@@ -1,9 +1,12 @@
 ---
 title:  "Two Months of Lambda"
-date:   2019-04-25 10:37:12 +0000
-permalink: /two-months-of-lambda/
-category: lambda
+excerpt: "While I was very excited about Lambda before I started, I didn't quite know what each day would *look like*. Here are the nuts and bolts of most days at Lambda."
+layout: posts
+date:   2019-10-20 10:37:12 +0000
+toc: true
+# category: lambda
 ---
+
 Hey Max. We got this nifty time-traveling thing figured out. Instead of giving you lottery numbers, I’ll tell you what I would have liked to have known two months ago before I started Lambda School’s data science course. 
 
 ## What will I be doing?

@@ -1,7 +1,8 @@
 ---
 title:  "Why You Should Do Gymnastics"
+layout: posts
 date:   2019-04-25 09:36:31 +0000
-permalink: /gymnastics/
+# category: fitness
 ---
 Progress in gymnastics is not only within reach of most people who can walk but, with proper coaching, can be the most rewarding sport you train for. It's addicting. The health benefits of a more limber and lean body are self-evident, though I'll provide more evidence just in case. And no one but other gym rats care what you bench; even the most basic gymnastics element makes heads turn.
 
