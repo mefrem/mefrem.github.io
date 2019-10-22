@@ -1,5 +1,6 @@
 ---
 title:  "Why You Should Do Gymnastics"
+excerpt: "Progress in gymnastics is not only within reach of most people who can walk but, with proper coaching, can be the most rewarding sport you train for."
 layout: posts
 date:   2019-04-25 09:36:31 +0000
 # category: fitness
