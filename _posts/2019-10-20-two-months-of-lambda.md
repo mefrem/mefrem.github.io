@@ -23,7 +23,7 @@ Jargon break:
 - **Student Success**: The Lambda department tasked with developing students professionally apart from their coding skills. They hold a series of lectures and assignments for professional development that start week one—from creating a portfolio website and sharpening your LinkedIn, to things like salary negotiation, workplace professionalism, and more.   
 - **Lambda Income Share Agreemen**t (ISA): A lot has already been written on the [Income Share Agreement](https://lambdaschool.com/isa) but it’s basically the instrument by which a student defers all tuition costs until _after_ they get a job, in tech, making a certain amount of money.  
 
-### LECTURE
+#### LECTURE
 At 9am the SL will drop a link and you’ll hop onto a Zoom conference. The instructor will start the day’s two-hour lecture. The first two units in the data science course are facilitated immensely by Google’s _Colab_, a “notebook” software development environment hosted on the cloud. Students watch as the instructor writes code and explains concepts, problems, and trade-offs between different approaches, tying the day's lecture to larger skills and objectives. All the while, students code alongside in _Colab_ and ask questions. In later units, the students work locally in integrated development environments (IDEs). Each lecture has a five-minute break.
 
 Another jargon break!  
@@ -33,10 +33,10 @@ Another jargon break!
 - **Integrated Development Environment (IDE):** What is code? It’s basically instructions for a computer. Code is hidden behind everything: the keyboard buttons we press are instructions to render certain letters on our screen, the applications we love instructions to fetch data hosted somewhere and return our favorite memes, etc. That code is “developed” or written and tested to make sure it works in an IDE. Notebooks, while useful for instruction, are limited in lots of ways.  
 - **Module > Sprint > Unit format:** The [curriculum](https://lambdaschool.com/courses/data-science) is taught on a schedule that mirrors a popular software development approach called _Agile_. Software development can be thought as “coding in teams”—-which is different than mere programming—-and there are various approaches to collaboration. At Lambda, a day's lecture and work is called a _module_ (for instance, "Exploratory Data Analysis"). A week's _sprint_ (for instance, “Data Wrangling” or "Logistic Regression") consists of four modules. The fifth day of the week holds a _sprint challenge_, an "open-note, open-internet" test of your understanding and mastery of the sprint's materials. Lastly, four sprints comprise a unit, (like "Statistics Fundamentals” or “Machine Learning”). The distinctions aren’t scientifically precise, and information and materials bleed across units and sprints, but the framework helps to hang learning objectives on and keep us on schedule.   
 
-### LUNCH
+#### LUNCH
 Eat! Stretch your legs or change locations. There are also many optional live Zoom conferences to attend, from interviews with data science professionals or Lambda alum to demos of useful coding packages and libraries.
 
-### AFTERNOON
+#### AFTERNOON
 After watching the instructor tackle a problem, and getting the opportunity to ask questions, it’s your turn. The day’s assignment builds upon the day’s lecture. If in lecture we pulled data from somewhere and prepared it for modeling, you’ll do the same with a new dataset. If we used a particular kind of model to make predictions, you’ll use it to make more. If we made visualizations of one kind, you’ll try your hand at another. The instructors and TLs are around to answer questions, as is the entire cohort, in Slack. The assignment requirements have a bare minimum, which are relatively simple. There are also always opportunity to “stretch” and dig deeper. You’ll find yourself using previous code you’ve seen and written and reading documentation as you try to figure out the best approach—which sounds just like what you’d do on the job!  This part of the day includes a short check-in with your TL and ends with “stand-up”—a team meeting where we discuss the day and our progress. 
 
 ## Closing thoughts
