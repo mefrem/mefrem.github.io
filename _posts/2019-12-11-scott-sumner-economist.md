@@ -8,7 +8,7 @@ classes: wide
 # category: interview
 ---
 
-In December 2019, I interviewed Scott Sumner, an economist currently the director of The Mercatus Center's Program on Monetary Policy. Professor Sumner writes at <a href="https://www.themoneyillusion.com/">*The Money Illusion*</a>, chiefly about monetary policy in an insightful way. A 2015 article, <a href="https://www.themoneyillusion.com/which-issues-are-important-to-me/">listed out the issues most important to him</a>, and served as the basis for our conversation. The list was surprising, and I found myself thinking about it years later. I imagined how much fun it would be to ask the professor for elaboration and clarification. Then it dawned on me that I could do just that. Here is this site's inaugural interview, with the congenial and brilliant Scott Sumner:
+In December 2019, I interviewed Scott Sumner, an economist currently the director of The Mercatus Center's Program on Monetary Policy. Professor Sumner writes at <a href="https://www.themoneyillusion.com/">*The Money Illusion*</a>, chiefly about monetary policy in an insightful way. A 2015 article—<a href="https://www.themoneyillusion.com/which-issues-are-important-to-me/">Which issues are important (to me)?</a>—served as the basis for our conversation. The list was surprising; I imagined how much fun it would be to ask the professor for elaboration and clarification. Then it dawned on me that I could do just that. Here is this site's inaugural interview, with the congenial and brilliant Scott Sumner:
 
 <hr>
 
