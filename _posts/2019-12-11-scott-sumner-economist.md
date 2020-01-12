@@ -1,6 +1,6 @@
 ---
 title:  "Scott Sumner (Economist)"
-excerpt: "An interview with Scott Sumner, an economist."
+excerpt: "An interview with Scott Sumner, a monetary economist."
 layout: posts
 date:   2020-01-12
 canonical_url: "https://maxefremov.com/interviews/scott-sumner"
