@@ -4,7 +4,7 @@ main:
     url: /
   - title: "About"
     url: /about/
-  - title: "Blog"
-    url: /blog/
   - title: "Machine Learning"
     url: /machine-learning/
+  - title: "Interviews"
+    url: /interviews/
