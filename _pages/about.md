@@ -14,7 +14,7 @@ The internet is amazing. Here's my slice of it.
 
 I’m a data scientist based on the East Coast. I love writing and explaining things and thinking about unintended consequences, human fallibility, and human ingenuity.
 
-I'm big into experimenting, and am inclined towards the view that how you reason may be more important than your actual beliefs. I've been inspired to share some of my ideas, despite how unoriginal or insignificant they first seem, after hearing how often the "obvious and mundane" [bears repeating](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet) and [why "unoriginal" writing is useful](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet). You can find more of those ideas on my [Twitter](https://twitter.com/maxefremov).
+I've been inspired to share some of my ideas after hearing how often the "obvious and mundane" [bears repeating](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet) and [why "unoriginal" writing is useful](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet). You can find more on my [Twitter](https://twitter.com/maxefremov).
 
 Some cool things that I’ve done: bought a house with creative financing, went to college at 25 instead of 18 (I recommend it), and lived in Seoul, South Korea. 
 
