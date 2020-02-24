@@ -9,9 +9,6 @@ layouts_gallery:
     alt: "The Burmese border with Thailand, January 2019"
 last_modified_at: 2019-10-20
 ---
-
-The internet is amazing. Here's my slice of it.
-
 I’m a data scientist based on the East Coast. I love writing and explaining things. I think often about unintended consequences, human fallibility, and human ingenuity.
 
 I've been inspired to share some of my ideas after hearing how often the "obvious and mundane" [bears repeating](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet) and [why "unoriginal" writing is useful](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet). You can find more on my [Twitter](https://twitter.com/maxefremov).
