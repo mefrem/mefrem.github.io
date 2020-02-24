@@ -10,13 +10,15 @@ layouts_gallery:
 last_modified_at: 2019-10-20
 ---
 
-The internet is amazing. Here's my tiny slice of it.
+The internet is amazing. Here's my slice of it.
 
-I love explaining things and writing so this website is my training ground. I’m a data scientist studying at [Lambda School](https://lambdaschool.com/). I like thinking about unintended consequences, human fallibility, and human ingenuity.
+I’m a data scientist based on the East Coast. I love writing and explaining things and thinking about unintended consequences, human fallibility, and human ingenuity.
 
-My interests include personal finance, monetary economics, and gymnastics. Some cool things that I’ve done: bought a house with student loans, learned gymnastics as an adult, and lived in Seoul, South Korea. 
+I'm big into experimenting, and am inclined towards the view that how you reason may be more important than your actual beliefs. I've been inspired to share some of my ideas, despite how unoriginal or insignificant they first seem, after hearing how often the "obvious and mundane" [bears repeating](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet) and [why "unoriginal" writing is useful](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet). You can find more of those ideas on my [Twitter](https://twitter.com/maxefremov).
 
-I also love to do handstands. 
+Some cool things that I’ve done: bought a house with creative financing, went to college at 25 instead of 18 (I recommend it), and lived in Seoul, South Korea. 
+
+I'm also an amateur gymnast and handbalancer, behold!
 
 <center>
 <img src="/assets/images/handstands/bukhansan.jpg" alt="Bukhansan, Seoul, Korea" width="250"/>
@@ -29,3 +31,4 @@ I also love to do handstands.
 - Gmail: [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com)
 - LinkedIn: [Maxim Efremov](https://www.linkedin.com/in/maxim-efremov/)
 - Twitter: [@maxefremov](https://twitter.com/maxefremov)
+- Instagram: [@max__efremov](https://www.instagram.com/max__efremov/)]

@@ -17,6 +17,6 @@ defaults:
       author_profile: true
 ---
 
-Through the power of being nice (and Twitter and email) it's not hard to approach people you admire or are curious about. Here are interviews with some folks I find interesting.
+Through the power of being nice (+ Twitter and email) it's easy to approach people you admire or are curious about. Here are interviews with some folks I find interesting.
 
 <a href="https://maxefremov.com/scott-sumner-economist">Scott Sumner, economist, December 2019</a>. 
