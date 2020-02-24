@@ -22,7 +22,7 @@ Some neat things that I’ve done:
 - made friends on the internet who became my best friends and then finally met them irl
 - studied abroad in Seoul, South Korea
 
-I'm also an amateur gymnast and handbalancer.
+I'm also a gymnast and handbalancer.
 
 <center>
 <img src="/assets/images/handstands/bukhansan.jpg" alt="Bukhansan, Seoul, Korea" width="250"/>
