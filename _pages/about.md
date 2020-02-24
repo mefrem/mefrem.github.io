@@ -12,11 +12,16 @@ last_modified_at: 2019-10-20
 
 The internet is amazing. Here's my slice of it.
 
-I’m a data scientist based on the East Coast. I love writing and explaining things. I think often about unintended consequences, human fallibility, and human ingenuity.
+I’m a data scientist and machine learning engineer based on the East Coast. I love writing and explaining things. I think often about unintended consequences, human fallibility, and human ingenuity.
 
 I've been inspired to share some of my ideas after hearing how often the "obvious and mundane" [bears repeating](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet) and [why "unoriginal" writing is useful](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet). You can find more on my [Twitter](https://twitter.com/maxefremov).
 
-Some cool things that I’ve done: bought a house with creative financing while in college, took a break between years two and three of my undergraduate degree to do community service, disaster relief, and trail building with AmeriCorps (I recommend it!), and studied abroad in Seoul, South Korea.
+Some cool things that I’ve done:
+
+- bought a house with creative financing while in college
+- took a break between years two and three of my undergraduate degree to do community service, disaster relief, and trail building all over the country with AmeriCorps (I recommend it!)
+- made friends on the internet who became my best friends irl
+- studied abroad in Seoul, South Korea
 
 I'm also an amateur gymnast and handbalancer.
 
