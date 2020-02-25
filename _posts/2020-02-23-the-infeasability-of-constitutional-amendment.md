@@ -1,6 +1,6 @@
 ---
-title:  "The Infeasability of Constitutional Amendment"
-excerpt: "Thoughts on the (in)feasability of any amendment to the US Constitution."
+title:  "The Infeasibility of Constitutional Amendment"
+excerpt: "Thoughts on the (in)feasibility of any amendment to the US Constitution."
 layout: posts
 date:   2020-02-24 11:21:00 +0000
 # category: law
@@ -12,7 +12,7 @@ date:   2020-02-24 11:21:00 +0000
 
 ## Experiments in Political Philosophy ("Move fast and break things")
 
-Constitutional law is applied philosophy, political philosophy, and Realpolitik. It is the most interesting, high-stakes, and dramatic of any of the legal subjects. The Constitution outlines what gets decided, who decides it, and who decides who decides. 
+Constitutional law is applied philosophy, political philosophy, and Realpolitik. It is the most interesting, high-stakes, and dramatic of any of the legal subjects. The Constitution outlines what gets decided, who decides it, and who decides who decides.
 
 It also, by its own terms, permits its explicit amendment: we have abolished slavery; forced state governments to observe the same provisions the federal government observes; at the height of the Progressive movement, enacted Prohibition; later, its repeal.
 
