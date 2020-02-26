@@ -13,7 +13,7 @@ A collection of projects, particularly those utilizing machine learning and data
 
 ## Current Projects
 
-- *SanctionsExplorer.org* is a continuously updated, web-scraping search tool and database providing information pertaining to internationally sanctioned individuals and their known co-conspirators for a non-governmental think tank, the [Center for Advanced Defense Studies](https://c4ads.org/)
+- *SanctionsExplorer.org* is a continuously updated, web-scraping database and search service providing information pertaining to internationally sanctioned individuals and their known co-conspirators. for a non-governmental think tank, the [Center for Advanced Defense Studies](https://c4ads.org/)
 - A mapping tool of my neighborhood's informal network of shared security camera locations. The network was featured in the *Baltimore Sun*: ["This Baltimore neighborhood has built an informal home camera network to fight crime. Police say it’s working."](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-patterson-park-cameras-20191021-wng33b54ffe55ikbxt2arrxmka-story.html)
 
 ## Learned Machines, Trained Models
