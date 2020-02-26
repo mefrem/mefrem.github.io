@@ -8,7 +8,9 @@ date:   2019-04-25 09:36:31 +0000
 Progress in gymnastics is not only within reach of most people who can walk but, with proper coaching, can be the most rewarding sport you train for. It's addicting. The health benefits of a more limber and lean body are self-evident, though I'll provide more evidence just in case. And no one but other gym rats care what you bench; even the most basic gymnastics element makes heads turn.
 
 You should find your nearest gym and ask about dropping into a supervised open session because:
+
 ## Gymnastics transfers to every other coordinated physical effort of your life.
+
 Whether it’s for other sports or merely getting around the house, furthering your gymnastics ability is commensurate—*synonymous*s—with increasing your range of motion, coordination, and strength. The sport places a premium on body control, especially at the highest levels, and is the fullest full-body workout humans have conceived of [citation: watch the Olympics]. Weight training, even with free weights, doesn't challenge myriad stabilizer muscles like free, unisolated body movement does. If you don’t believe me, take a weightlifter and have him do a dip on the rings. If they can even manage to stay upright, you’ll see the rings shaking like it’s their first day at the gym.
 
 ## Gymnastics improves lean body mass
@@ -34,6 +36,7 @@ Gymnastics training simultaneously gases your cardiovascular system and strains 
 ## Gymnastics is less injury-prone than many other sports
 
 Despite what you would imagine seeing triple back-flips on the floor, gymnastics is much safer than what many people think:
+
 - Gymnastics training is drilling until mastery of more basic elements enables progressively more difficult ones. Simply put, there is an enormous emphasis on preparation, coaching, and safety.
 - Gymnastics programming entails more mobility and stretching than any other sport. You'll be able to touch your toes again.
 - Taking turns practicing elements entails thought out, planned, and coordinated movements. 
@@ -45,6 +48,7 @@ It's said that self-discipline is preferable to motivation because the former is
 *Gymnastics can reliably motivate you to get to the gym.*
 
 The sport has three intrinsic motivators:
+
 - There are countless skills to learn. The most complicated routines are built upon a mind-bogglingly large pyramid of more basic elements, all the way down to the most rudimentary movements like stretching and shaping your body. I've been at the sport a while, and I still encounter new movements I've never heard of before. That means you can start at any level, and there will be no end to what you can tackle next.
 - The sport epitomizes problem-solving. While there are plenty of sklls that require more strength, a lot of skills require changes in technique. There's no thrill like feeling your first successful cartwheel, back-flip, or twisting element. 
 - Which brings me to the third, arguably most motivating aspect of the sport: It looks cool. At some point, I have to come out and say it. A handstand, a back flip, a planche, an iron cross are deeply impressive. There’s the obvious strength that these body movements communicate, but there’s a grace, strength, and commitment signaled that you simply can’t fake. I don’t think it's controversial to say that gymnastics is the most popular sport at the Olympics for precisely these reasons.
