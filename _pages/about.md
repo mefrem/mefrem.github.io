@@ -8,19 +8,18 @@ layouts_gallery:
     image_path: assets/images/pretty_scenes/Thailand_scene.jpg
     alt: "The Burmese border with Thailand, January 2019"
 last_modified_at: 2019-10-20
+# layout: single
+# classes: narrow
 ---
-I love writing and explaining things. I think often about unintended consequences, human fallibility, and human ingenuity.
+I love writing and explaining things. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
 
-I've been inspired to share some of my ideas after hearing how often the "obvious and mundane" [bears repeating](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet) and [why "unoriginal" writing is useful](https://guzey.com/personal/why-have-a-blog/#but-i-don-t-have-anything-original-to-say-and-i-would-be-just-repeating-things-said-elsewhere-on-the-internet). You can find more on my [Twitter](https://twitter.com/maxefremov).
+Apart from [desiging computer programs to solve real-world problems](/machine-learning/), some neat things I’ve done:
 
-Some neat things that I’ve done:
-
-- bought a rental property with creative financing while a college student
-- took a break during college, joined AmeriCorps, and did community service, disaster relief, and trail building all over the country (I recommend it!)
-- made lifelong friends on the internet, finally met them irl and now are best friends offline
-- lived in Seoul, South Korea
-
-I'm also a gymnast and handbalancer.
+- took a break from college, joined AmeriCorps, and did community service, disaster relief, and trail building all over the country (I recommend it!)
+- creatively financed a rental property while a college student
+- made lifelong friends on the internet, met them years later
+- studied and lived in Seoul, South Korea
+- I'm also a gymnast and handbalancer. Check out my [fitness page!](https://www.instagram.com/maximally.me/)
 
 <center>
 <img src="/assets/images/handstands/bukhansan.jpg" alt="Bukhansan, Seoul, Korea" width="250"/>

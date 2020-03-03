@@ -4,6 +4,7 @@ excerpt: "Thoughts on the (in)feasibility of any amendment to the US Constitutio
 layout: posts
 date:   2020-02-24 11:21:00 +0000
 # category: law
+toc: true
 ---
 
 >*Congress shall make no law respecting an establishment of religion, or prohibiting the free exercise thereof; or abridging the freedom of speech, or of the press; or the right of the people peaceably to assemble, and to petition the Government for a redress of grievances.*
