@@ -8,8 +8,8 @@ layouts_gallery:
     image_path: assets/images/pretty_scenes/Thailand_scene.jpg
     alt: "The Burmese border with Thailand, January 2019"
 last_modified_at: 2019-10-20
-# layout: single
-# classes: narrow
+layout: single
+classes: narrow
 ---
 I love writing and explaining things. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
 
@@ -27,8 +27,8 @@ Apart from [desiging computer programs to solve real-world problems](/machine-le
 <img src="/assets/images/handstands/shenandoah.jpg" alt="Shenendoah, Virgina" width="250"/>
 </center>
 
-
 ### Contact
+
 - Gmail: [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com)
 - LinkedIn: [Maxim Efremov](https://www.linkedin.com/in/maxim-efremov/)
 - Twitter: [@maxefremov](https://twitter.com/maxefremov)
