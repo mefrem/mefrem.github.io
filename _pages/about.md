@@ -15,7 +15,7 @@ I love writing and explaining things. I think often about unintended consequence
 
 Apart from [desiging computer programs to solve real-world problems](/machine-learning/), some neat things I’ve done:
 
-- took a break from college, joined AmeriCorps, and did community service, disaster relief, and trail building all over the country (I recommend it!)
+- took a break from college, joined AmeriCorps, and did community service, disaster relief, and trail building all over the country
 - creatively financed a rental property while a college student
 - made lifelong friends on the internet, met them years later
 - studied and lived in Seoul, South Korea
