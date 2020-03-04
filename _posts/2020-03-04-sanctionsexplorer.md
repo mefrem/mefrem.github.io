@@ -26,10 +26,12 @@ There now exist hundreds of international sanctions programs, each with lists, d
 
 I just completed work on a web-scraping search tool providing centralized access to information pertaining to internationally sanctioned entities. Not just the entities listed in the Magnitsky Act, but individuals from North Korea, the Taliban, pirate vessels and designated terrorist organizations.
 
-In just six weeks of development, the entirety of the US OFAC databases are searchable, as well as all of the United Nations sanctions programs’ Panel of Expert reports. These PoE reports provide critically useful information regarding not just sanctioned entities but also known co-conspirators that law-abiding citizens and organizations would do well to steer clear of. However, with hundreds of these reports, each hundreds of pages long and no centralized way to search them, they languished.
+In just six weeks of development, the entirety of the US OFAC databases are searchable, as well as all of the United Nations sanctions programs’ Panel of Expert reports. These PoE reports provide critically useful information regarding not just sanctioned entities but also known co-conspirators that law-abiding citizens and organizations would do well to avoid. However, with hundreds of these reports, each hundreds of pages long and no centralized way to search them, they languish in obscurity.
 
-No longer. My team—three data scientists and four web developers and a UX designer—collected and rendered them searchable, with accompanying links to direct United Nations sanctions programs, sources, and documentation.
+No longer. My team—three data scientists,  four web developers and a UX designer—collected and rendered them searchable, with accompanying links to direct United Nations sanctions programs, sources, and documentation.
 
 Now journalists, academics, risk and compliance officers at financial institutions can more easily exercise due diligence and investigate individuals that may be sanctioned or known to associate with sanctioned entities.
 
 Thanks to the [Center for Advanced Defense Studies](https://c4ads.org/) for sponsoring such important work.
+
+(This article was cross-posted to [LinkedIn](https://www.linkedin.com/pulse/sanctionsexplorer-max-efremov))
