@@ -7,6 +7,10 @@ toc: true
 ---
 I've met with a number of instructors, employed engineers, and technical recruiters and one aspect of the job search keeps jumping out to me that likely applies to every industry and career (although I'm writing from the perspective of a data scientist). There is not one set of skills to know but something closer to three: the skills listed in the job description, the skills tested in the interview, and then the actual on-the-job skills. There is a danger in over-optimizing one set at the expense of the others.
 
+<small>
+![The Job Filters](/assets/images/job_filters/job-filters.png "Male gymnast on pommel horse")
+</small>
+
 For instance, a lot of DS job descriptions are written up by HR departments that think things like Hadoop are still cutting edge big data tools, or that "predictive analytics" is a specific enough description of a skill when the team you may work with might expect things as diverse as improving a dashboard item, creating an inference pipeline, or making data visualizations. This means sometimes checking boxes that may be ultimately "useless" in that you don't use them on the job but would get you binned by an HR department.
 
 The interview is another filter that may be test skills separate from on-the-job competency. It's a point of controversy in tech, but whiteboarding problems are still a popular measure of skill which introduce a lot of noise to the interview: nerves and anxiety around performing under pressure in front of strangers, or their tendency towards algorithms or leetcode problems, which may not be representative of real-world work. Another consideration is the relative ease of administering a SQL quiz at an interview instead of handing off a project for you to spend two weeks to report back on (arguably a much better test of your skills).
