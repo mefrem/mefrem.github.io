@@ -1,6 +1,8 @@
 ---
 title:  "The Job Search Filters"
 excerpt: "Why on-the-job skills aren't the only skills to keep sharp while job searching"
+header:
+  teaser: "/assets/images/job_filters/job-filters.png"
 layout: posts
 date:   2020-03-06
 toc: true
