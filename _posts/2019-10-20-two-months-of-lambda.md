@@ -4,6 +4,8 @@ excerpt: "The details of a day in the life of a Lambda School student."
 layout: posts
 date:   2019-10-20 10:37:12 +0000
 toc: true
+header:
+  teaser: "https://raw.githubusercontent.com/mefrem/mefrem.github.io/master/assets/images/icons/lambdalogo.png"
 # category: lambda
 ---
 

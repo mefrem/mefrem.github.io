@@ -2,6 +2,8 @@
 title:  "SanctionsExplorer"
 excerpt: "A search tool centralizing information pertaining to internationally sanctioned entities."
 layout: posts
+header:
+  teaser: "https://raw.githubusercontent.com/mefrem/mefrem.github.io/master/assets/images/sanctionsexplorer.png"
 date:   2020-03-04
 canonical_url: "https://maxefremov.com/interviews/sanctionsexplorer"
 ---
