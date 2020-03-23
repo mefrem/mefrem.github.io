@@ -1,6 +1,6 @@
 ---
 title:  "Who will you be on the most stressful day of your life?"
-excerpt: "We're in extremis; can we rise to the occasion?"
+excerpt: "In extremis, rising to the occasion with a ready mind."
 header:
   teaser: 
 layout: posts
