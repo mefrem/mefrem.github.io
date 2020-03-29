@@ -12,15 +12,16 @@ layout: single
 classes: narrow
 footer: false
 ---
-I love writing and explaining things. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
+I love the feeling of understanding something so well that you can explain it in the way that captures what is exciting. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
 
 Apart from [desiging computer programs to solve real-world problems](/machine-learning/), some neat things I’ve done:
 
-- took a break from college, joined AmeriCorps, and did community service, disaster relief, and trail building all over the country
+- took a break from college to join AmeriCorps and do community service, disaster relief, and trail building all over the country
 - creatively financed a rental property while a college student
-- made lifelong friends on the internet, met them years later
+- made lifelong friends on the internet who are now my irl friends
 - studied and lived in Seoul, South Korea
-- I'm also a gymnast and handbalancer. Check out my [fitness page!](https://www.instagram.com/maximally.me/)
+- I'm also a gymnast and handbalancer—check out my [fitness instragram](https://www.instagram.com/maximally.me/)
+- I've designed and experimented with dieting and exercise programs since 2014, having settled on an intermittent fasting, caloric-restricted high-carb and protein diet
 
 <center>
 <img src="/assets/images/handstands/bukhansan.jpg" alt="Bukhansan, Seoul, Korea" width="250"/>
