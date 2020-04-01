@@ -11,11 +11,11 @@ There's strong. There's really strong. And then there are rings specialists.
 
 ![Rings Strength Strong](/assets/images/rings/donnell-rings.jpg "Donnell Whittenburg performing the maltese on rings")
 
-Rings strength training constitutes the peak of bodyweight strength and conditioning. If you doubt it, [watch a minute of this video and come back](https://vimeo.com/101723280). Now I'll lay out what rings strength training should look like by pointing out the goals and milestones you should set be aiming for in your development.
+Rings strength training constitutes the peak of bodyweight strength and conditioning. If you doubt it, [watch a minute of this video and come back](https://vimeo.com/101723280). Now that you're fully convinced, I'll lay out what rings strength training should look like by pointing out the goals and milestones you should set be aiming for in your development.
 
 ***A word on equipment***
 
-I built a nine-foot pull-up bar in my backyard following mainly [this guide](http://www.fitnesshq.com/making-a-diy-pull-up-bar/). I purchased material at a hardware store, and ordered the rings from Amazon. You can also hang your rings from a pull-up bar hung from a doorjamb. It goes without saying that you should ensure your equipment is properly installed since there is a risk of falling.
+I built a nine-foot pull-up bar in my backyard following mainly [this guide](http://www.fitnesshq.com/making-a-diy-pull-up-bar/). I purchased material at a hardware store, and ordered these <a target="_blank" href="https://www.amazon.com/gp/product/B07CGCD7JH/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B07CGCD7JH&linkCode=as2&tag=mywebsiteaffi-20&linkId=321d19f50f21d533e81d8f07e84efc8a">wooden rings and adjustable straps</a><img src="//ir-na.amazon-adsystem.com/e/ir?t=mywebsiteaffi-20&l=am2&o=1&a=B07CGCD7JH" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" /> from Amazon. You can also hang your rings from a pull-up bar hung from a doorjamb. It goes without saying that you should ensure your equipment is properly installed since there is a risk of falling.
 
 ***A word on form***
 
