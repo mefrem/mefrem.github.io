@@ -75,7 +75,7 @@ Here's a bucket list (you can [follow my progress on my fitness account](https:/
 | Element Name            | Demonstration                                                                                               |
 |--------------------|:---------------------------------------------------------------------------------------------------:|
 | muscle up         | ![The muscle up](/assets/images/rings/muscle-up.gif "Weighted muscle up")      |
-| Iron cross        | ![The Iron cross](/assets/images/rings/iron-cross.jpg "Brandon Wynn's cross")               |
+| Iron cross + L-seat  | ![The Iron cross](/assets/images/rings/iron-cross.jpg "Brandon Wynn's cross")               |
 | inverted handstand | ![Inverted handstand](/assets/images/rings/inverted-hs.jpg "Inverted handstand")                    |
 | straddle planche   | ![The straddle planche](/assets/images/rings/straddle-planche.jpg "The straddle planche")           |
 | full planche       | ![Jake Dalton planche](/assets/images/rings/jake-planche.jpg "Jake Dalton's straight-body planche") |
