@@ -3,10 +3,12 @@ title:  "Why You Should Do Gymnastics"
 excerpt: "Progress in gymnastics is not only within reach of most people who can walk but, with proper coaching, can be the most rewarding sport you train for."
 layout: posts
 date:   2019-04-25 09:36:31 +0000
+toc: True
 header:
   teaser: "https://raw.githubusercontent.com/mefrem/mefrem.github.io/master/assets/images/why_you_should_do_gymnastics/planche.jpg"
 # category: fitness
 ---
+{% include toc %}
 Progress in gymnastics is not only within reach of most people who can walk but, with proper coaching, can be the most rewarding sport you train for. It's addicting. The health benefits of a more limber and lean body are self-evident, though I'll provide more evidence just in case. And no one but other gym rats care what you bench; even the most basic gymnastics element makes heads turn.
 
 You should find your nearest gym and ask about dropping into a supervised open session because:
