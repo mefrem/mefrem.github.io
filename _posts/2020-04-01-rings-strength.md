@@ -4,7 +4,7 @@ excerpt: "There's strong, there's really strong, and then there are gymnastics r
 layout: posts
 date:   2020-04-01
 header:
-  teaser: "https://raw.githubusercontent.com/mefrem/mefrem.github.io/master/assets/images/why_you_should_do_gymnastics/planche.jpg"
+  teaser: "https://raw.githubusercontent.com/mefrem/mefrem.github.io/master/assets/images/rings/iron-cross.jpg"
 # category: fitness
 ---
 There's strong. There's really strong. And then there are rings specialists.
