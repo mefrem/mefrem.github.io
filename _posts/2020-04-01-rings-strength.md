@@ -23,8 +23,6 @@ It’s not sufficient to merely hang or support yourself on the rings. For essen
 
 ![RTO-1](/assets/images/rings/rto-1.jpg "Rings turned out position")
 
-Additionally, your entire body should be in an activated state: your core engaged, your legs straight and together, and your arms and back bracing your body against the rings.
-
 # The training program
 
 The journey to rings strength is rewarding but long. It's best not to think about how long it will take, since the process of getting stronger is enjoyable in itself. Stick to the process, and learn to enjoy the delayed-onset muscle soreness-it means you're getting stronger.
@@ -76,11 +74,10 @@ Here's a bucket list (you can [follow my progress on my fitness account](https:/
 |--------------------|:---------------------------------------------------------------------------------------------------:|
 | muscle up         | ![The muscle up](/assets/images/rings/muscle-up.gif "Weighted muscle up")      |
 | Iron cross + L-seat  | ![The Iron cross](/assets/images/rings/iron-cross.jpg "Brandon Wynn's cross")               |
-| inverted handstand | ![Inverted handstand](/assets/images/rings/inverted-hs.jpg "Inverted handstand")                    |
+| inverted Iron cross | ![Inverted handstand](/assets/images/rings/inverted-hs.jpg "Inverted handstand")                    |
 | straddle planche   | ![The straddle planche](/assets/images/rings/straddle-planche.jpg "The straddle planche")           |
 | full planche       | ![Jake Dalton planche](/assets/images/rings/jake-planche.jpg "Jake Dalton's straight-body planche") |
 | Victorian cross    | ![Victorian cross](/assets/images/rings/victorian.jpg "Victorian cross")                            |
-
 
 ## Closing thoughts, plus more resources
 
