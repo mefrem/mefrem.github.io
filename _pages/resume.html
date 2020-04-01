@@ -14,8 +14,20 @@ footer: false
   <head>
     <meta charset="utf-8" />
         <meta name="viewport" content="width=device-width" padding-bottom=100px>
+        <style type="text/css">
+          .mobileShow {display: none;}
+        
+          /* Smartphone Portrait and Landscape */
+          @media only screen
+            and (min-device-width : 320px)
+            and (max-device-width : 480px){ 
+              .mobileShow {display: inline;}
+          }
+        </style>
   </head>
-    <center><a href="resume.pdf" download>Download Resume</a></center>
+    <div class="mobileShow">
+      <center><a href="resume.pdf" download>Download Resume</a></center>
+      </div>
     <object data="resume.pdf" type="application/pdf" style="min-height:100vh;width:100%"></object>
   </body>
 </html>
