@@ -29,7 +29,7 @@ Additionally, your entire body should be in an activated state: your core engage
 
 The journey to rings strength is rewarding but long. It's best not to think about how long it will take, since the process of getting stronger is enjoyable in itself. Stick to the process, and learn to enjoy the delayed-onset muscle soreness-it means you're getting stronger.
 
-Shooting for element or exercise milestones is very motivating. Not only does it build muscular physique, improve the strength and condition of my connective tissues, but it gets one closer to impressive-looking feats. Approaching and accomplishing these feats is a reward in and of themselves as I wrote in my [encomium of gymnastics](/why-you-should-do-gymnastics).
+Shooting for attainable element and exercise milestones is very motivating. Not only does training build muscular physique, improve the strength and condition of connective tissues, but accomplishing these feats is a reward in and of themselves as I wrote in my [encomium of gymnastics](/why-you-should-do-gymnastics).
 
 ## Beginner
 
