@@ -72,7 +72,7 @@ Consider approaching the intermediate level when you are comfortable with holdin
 Here's a bucket list (you can [follow my progress on my fitness account](https://www.instagram.com/maximally.me/)).  
 
 
-| element            | Image                                                                                               |
+| Element Name            | Demonstration                                                                                               |
 |--------------------|:---------------------------------------------------------------------------------------------------:|
 | muscle up         | ![The muscle up](/assets/images/rings/muscle-up.gif "Weighted muscle up")      |
 | Iron cross        | ![The Iron cross](/assets/images/rings/iron-cross.jpg "Brandon Wynn's cross")               |
