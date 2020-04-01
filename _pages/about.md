@@ -7,10 +7,11 @@ layouts_gallery:
   - url: assets/images/pretty_scenes/Thailand_scene.jpg
     image_path: assets/images/pretty_scenes/Thailand_scene.jpg
     alt: "The Burmese border with Thailand, January 2019"
-last_modified_at: 2020-03-01
+# last_modified_at: 2020-03-01
 layout: single
 classes: narrow
 footer: false
+share: false
 ---
 I love the feeling of understanding something so well that you can explain it in the way that captures what is exciting. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
 
@@ -28,12 +29,21 @@ Apart from [desiging computer programs to solve real-world problems](/machine-le
 <img src="/assets/images/handstands/bukhansan.jpg" alt="Bukhansan, Seoul, Korea" width="250"/>
 
 <img src="/assets/images/handstands/shenandoah.jpg" alt="Shenendoah, Virgina" width="250"/>
-</center>
 
-### Contact
+<center>
 
-<!-- display the social media buttons in your README -->
 <br>
-[<img src="/assets/images/icons/gmail.png">](mailto:maxim.efremov@gmail.com)
-[<img src="/assets/images/icons/linkedin.png">](https://www.linkedin.com/in/maxim-efremov/)
-[<img src="/assets/images/icons/twitter.png">](http://www.twitter.com/maxefremov)
+<br>
+<p><b>Contact</b></p>
+<a href="mailto:maxim.efremov@gmail.com">
+      <img alt="email" src="/assets/images/icons/gmail.png">
+      
+<a href="https://www.linkedin.com/in/maxim-efremov/">
+      <img alt="LinkedIn" src="/assets/images/icons/linkedin.png">
+
+<a href="http://www.twitter.com/maxefremov">
+      <img alt="Twitter" src="/assets/images/icons/twitter.png">
+<!-- 
+<img src="/assets/images/icons/gmail.png">(mailto:maxim.efremov@gmail.com)
+<img src="/assets/images/icons/linkedin.png">(https://www.linkedin.com/in/maxim-efremov/)
+<img src="/assets/images/icons/twitter.png">(http://www.twitter.com/maxefremov) -->
