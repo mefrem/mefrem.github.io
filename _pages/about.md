@@ -13,7 +13,7 @@ classes: narrow
 footer: false
 share: false
 ---
-I love the feeling of understanding something so well that you can explain it in the way that captures what's exciting about it. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
+I love the feeling of understanding something so well that you can capture what's exciting about it. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
 
 Apart from [desiging computer programs to solve problems](/machine-learning/), some neat things about me:
 
