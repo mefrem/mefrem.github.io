@@ -13,17 +13,17 @@ classes: narrow
 footer: false
 share: false
 ---
-I love the feeling of understanding something so well that you can explain it in the way that captures what is exciting. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
+I love the feeling of understanding something so well that you can explain it in the way that captures what's exciting about it. I think often about unintended consequences, human fallibility, and human ingenuity. You can find more bite-sized ideas on my [Twitter](https://twitter.com/maxefremov).
 
-Apart from [desiging computer programs to solve real-world problems](/machine-learning/), some neat things about me:
+Apart from [desiging computer programs to solve problems](/machine-learning/), some neat things about me:
 
-- took a break from college to join AmeriCorps and do community service, disaster relief, and trail building all over the country
+- I spent several years during college doing community service, disaster relief, and trail building all over the country
 - creatively financed a rental property while a college student
-- made lifelong friends on the internet who became my irl friends
+- made lifelong friends on the internet who became my friends irl
 - studied and lived in Seoul, South Korea
-- I discovered the value of meditation and learned that I am not synonymous with my every thought. Two guided meditation apps I'm partial to are Headspace and Waking Up. Email me for a free introductory month of Waking Up!
-- I've designed and experimented with dieting and exercise programs since 2014, having settled on an intermittent fasting, caloric-restricted high-carb and protein diet—although lord knows I love to snack
-- I'm also a gymnast and handbalancer—check out my [fitness instragram](https://www.instagram.com/maximally.me/)
+- I discovered the value of meditation and learned that I am not synonymous with my every thought. I'm partial to the app Waking Up—mail me for a free introductory month!
+- I've designed and experimented with dieting and exercise programs since 2014, having settled on an intermittent fasting, caloric-restricted, adequate-protein diet
+- I'm also a gymnast and handbalancer—you can see that and more on my [fitness instragram](https://www.instagram.com/maximally.me/)
 
 <center>
 <img src="/assets/images/handstands/bukhansan.jpg" alt="Bukhansan, Seoul, Korea" width="250"/>
