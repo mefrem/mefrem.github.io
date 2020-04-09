@@ -11,7 +11,7 @@ There's strong. There's really strong. And then there are rings specialists.
 
 ![Rings Strength Strong](/assets/images/rings/donnell-rings.jpg "Donnell Whittenburg performing the maltese on rings")
 
-Rings strength training constitutes the peak of bodyweight strength and conditioning. If you doubt it, [watch a minute of this video and come back](https://vimeo.com/101723280). Now that you're fully convinced, I'll lay out what rings strength training should look like by pointing out the goals and milestones you should be aiming for in your development.
+Rings strength training constitutes the peak of bodyweight strength and conditioning. If you doubt it, [watch a minute of this video and come back](https://vimeo.com/101723280). Now that you're fully convinced, I'll lay out what a lifetime of rings strength training might look like by pointing out the goals and milestones you should be aiming for in your development.
 
 ***A word on equipment***
 
@@ -38,7 +38,7 @@ The rings novice has likely never been on the rings in their life. Some standard
 - performing several, maybe ten dips
 - holding an L-seat position for 15 seconds
 
-The novice will find all of these incredibly difficult at first. The support position will frustrate even accomplished weightlifters. Why are rings so difficult? It has to do with mechanical forces at work: the hand-and-arm connection between the rings and your body is not braced by a fixed object at the hands, but instead is floating on the same frictionless plane of the rings. Your arms have to not only hold your mass up but create the fixed object in space against which your arms brace your body by *stabilizing the rings.* The novice’s goal is to strengthen these stablizer muscles, as well other connective tissues, through repetition. You'll find that these muscles are the main impediment to early progress, not the strength of your large muscle groups.
+The novice will find all of these incredibly difficult at first. The support position will frustrate even accomplished weightlifters. Why are rings so difficult? It has to do with mechanical forces at work: the hand-and-arm connection between the rings and your body is not braced by a fixed object at the hands, but instead is floating on the same frictionless plane as the rings. Your arms have to not only hold your mass up but create the fixed object in space against which your arms brace your body by *stabilizing the rings.* The novice’s goal is to strengthen these stablizer muscles, as well other connective tissues, through repetition. You'll find that these muscles are the main impediment to early progress, not the strength of your large muscle groups.
 
 An appropriate program would be several sets of each exercise a day with several minutes rest between sets, several times a week. After two weeks improvement, the quantity of the repetitions should increase. For instance, after the athlete warms up (which should include [elbow and wrist mobility work](https://shiftmovementscience.com/gymnasticsflexibilityguide/#Wrist_Flexibility), a program might look like:
 
@@ -67,7 +67,7 @@ Consider approaching the intermediate level when you are comfortable with holdin
 
 ## Advanced; or, the sky’s the limit
 
-Here's a bucket list (you can [follow my progress on my fitness account](https://www.instagram.com/maximally.me/)).  
+Here's a bucket list (you can [follow my progress on my fitness account](https://www.instagram.com/maximally.me/)). Suffice to say that progressing to this stage is legendary.
 
 
 | Element Name            | Demonstration                                                                                               |
@@ -88,7 +88,6 @@ High-level artistic gymnastics is generally too competitive for all but prime-ag
 No discussion of the rings apparatus is complete without mention of Jordan Jovtchev (also transliterated Yordan Yovchev). This gymnast from Bulgaria has competed in **six consecutive Olympics Games**, and won the silver medal on the rings event at 31. At the European gymnastics games in 2008 he won another silver, and the bronze at the same competition in 2010, at the age of 37. He retired at 40 years old after competing in his sixth olympics.
 
 ![Jordan Jovtchev](/assets/images/rings/jordan-maltese.jpg "The master himself")
-
 
 **Links**
 
