@@ -10,8 +10,6 @@ toc: True
 
 In December 2019, I interviewed Scott Sumner, an economist currently the director of The Mercatus Center's Program on Monetary Policy. Professor Sumner writes at <a href="https://www.themoneyillusion.com/">*The Money Illusion*</a>, chiefly about monetary policy and economics in his "slightly off-center" style. A 2015 article—<a href="https://www.themoneyillusion.com/which-issues-are-important-to-me/">Which issues are important (to me)?</a>—served as the basis for our conversation. The list was surprising; I imagined how useful-and how much fun-it would be to ask the professor for elaboration and clarification.
 
-<hr>
-
 ## Issues Important to Scott
 
 **Max**: In the piece you have tiers of issues. In the most important tier, you have four issues: US military intervention (mostly against), immigration (more, more, more), ending the War on Drugs, and a right to die, with a link to [Scott Alexander’s essay](https://slatestarcodex.com/2013/07/17/who-by-very-slow-decay/). Besides possibly the immigration issue, which has seen more interest recently what with pieces like Bryan Caplan and Zach Weinersmith’s graphic nonfiction [*Open Borders*](https://www.amazon.com/Open-Borders-Science-Ethics-Immigration/dp/1250316960), none of the four are strictly speaking economic issues. I believe that while Caplan says that standard estimates of open border policies would result in something like a doubling of global GDP, did you include that item for its economic effects?

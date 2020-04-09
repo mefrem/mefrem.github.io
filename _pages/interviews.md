@@ -17,6 +17,8 @@ defaults:
       author_profile: true
 ---
 
-Through the power of being nice (+ Twitter and email) it's easy to approach people you admire or are curious about. Here are interviews with some folks I find interesting.
+Through the power of social media (+ being nice), it's never been more possible to find like-minded folks and ask them questions. Here are some of those interivews.
 
-<a href="https://maxefremov.com/scott-sumner-economist">Scott Sumner, economist, December 2019</a>. 
+[Luke O'Geil, coach and gymnast strength trainer, April 2020.](/luke-ogeil-coach)
+
+[Scott Sumner, economist, December 2019.](/scott-sumner-economist)
