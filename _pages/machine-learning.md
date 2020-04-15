@@ -9,7 +9,8 @@ excerpt: "Max's Machine Learning Projects"
 #     alt: "The Burmese border with Thailand, January 2019"
 ---
 
-A collection of projects, particularly those utilizing machine learning and data science. My [Github Profile](https://github.com/mefrem) holds most of my publicly accessible code.
+A collection of projects, particularly those utilizing machine learning and data science.
+My [Github Profile](https://github.com/mefrem) holds most of my publicly accessible code.
 
 ## Current Projects
 
