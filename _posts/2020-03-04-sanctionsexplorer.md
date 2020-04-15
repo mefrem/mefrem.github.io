@@ -8,7 +8,7 @@ date:   2020-03-04
 canonical_url: "https://maxefremov.com/interviews/sanctionsexplorer"
 ---
 
-I just completed work on a web-scraping, natural language processing web application providing information pertaining to internationally sanctioned entities. But before I describe that project, I want to make a brief diversion to illustrate its importance.
+I just completed work on a web-scraping, natural language processing web application that provides information pertaining to internationally sanctioned entities. Before I describe its technical details, it's important to know the motivation for the project.
 
 ## Sergei Magnitsky
 
