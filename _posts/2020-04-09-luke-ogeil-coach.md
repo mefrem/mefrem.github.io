@@ -22,6 +22,11 @@ We also discuss how the proper mindset for consistent training and performance c
 
 Luke's instagram: [@lukeogeil](https://www.instagram.com/lukeogeil/)
 
+Luke's program is a Mon, Tue, Thur, Fri split. Mon + Thur and Tue + Fri are the days that follow largely the same exercises. This builds in at least two days rest for the parts of the body hit on their day of the split. Every day he warms up with handstand work. The rep scheme is many, maybe 5-10, sets of just 1-3 really good or long reps. See his instagram for specific exercises and variations.
+
+- The Mon + Thur split is for straight arm strength development: the pushing exercises center around planche variations and back lever, the pulling around front lever. Thursday sees a bit more in the way of iron cross work and cross pulls.
+- The Tue + Fri split is for bent arm strength exercises. The pushing exercises include hollow press eccentrics and concentrics (lowering or rolling up into handstands) as well as dips. The pulling exercises include front lever rows and pull-ups.
+
 ### Books
 
 - [The Art of Learning: An Inner Journey to Optimal Performance](https://amzn.to/34qn9Ti) by Josh Waitzkin
