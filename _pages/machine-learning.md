@@ -13,7 +13,7 @@ A collection of projects, particularly those utilizing machine learning and data
 
 ## Current Projects
 
-- [*SanctionsExplorer*](https://master.d2lar62teu450l.amplifyapp.com/) is a continuously updated, web-scraping database and search service providing information pertaining to internationally sanctioned individuals and their known co-conspirators, given that such information is spread across hundreds of goverment databases and unstructured reports from dozens of authorizing sources like the United States, US Treasury, UN, and European Union. Completed as a technical consultant for the national security think tank the [Center for Advanced Defense Studies](https://c4ads.org/)
+- [*SanctionsExplorer*](https://master.d2lar62teu450l.amplifyapp.com/) is a continuously updated, web-scraping database and search service providing information pertaining to internationally sanctioned individuals and their known co-conspirators, information spread across hundreds of goverment databases and unstructured reports from dozens of authorizing sources like the United States, US Treasury, UN, and European Union. Served in a technical consultant role for the national security think tank the [Center for Advanced Defense Studies](https://c4ads.org/)
 - A mapping tool of my neighborhood's informal network of shared security camera locations. The network was featured in the *Baltimore Sun*: ["This Baltimore neighborhood has built an informal home camera network to fight crime. Police say it’s working."](https://www.baltimoresun.com/news/crime/bs-md-ci-cr-patterson-park-cameras-20191021-wng33b54ffe55ikbxt2arrxmka-story.html)
 
 ## Learned Machines, Trained Models
