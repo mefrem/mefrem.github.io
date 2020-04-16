@@ -1,6 +1,6 @@
 ---
 title:  "The Job Search Filters"
-excerpt: "Why on-the-job skills aren't the only skills to keep sharp while job searching"
+excerpt: "Why on-the-job skills aren't the only skills to keep sharp while job searching."
 header:
   teaser: "https://raw.githubusercontent.com/mefrem/mefrem.github.io/master/assets/images/job_filters/job-filters.png"
 layout: posts

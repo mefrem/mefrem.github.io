@@ -1,6 +1,6 @@
 ---
 title:  "Luke O'Geil (Gymnast Strength Trainer)"
-excerpt: "An interview with Luke O'Geil, coach and gymnast strength trainer"
+excerpt: "An interview with Luke O'Geil, coach and gymnast strength trainer."
 layout: posts
 date:   2020-04-09
 canonical_url: "https://maxefremov.com/luke-ogeil-coach"
