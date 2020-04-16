@@ -19,7 +19,6 @@ See also my [Github Profile](https://github.com/mefrem) and [resume.](/resume.pd
 
 ## Learned Machines, Trained Models
 
-- ["Credit Scoring the Unbanked Population in Vietnam"](https://creditscoring-unbanked-vietnam.herokuapp.com/): Given that nearly 70% of Vietnam's population has never used formal financial institutions and therefore have no credit history, how do we gauge creditworthiness for new small-dollar loan applicants? I built a credit-scoring model for such thin-credit history loan applicants from a banking institution in Vietnam (Note: dormant application; load time up to 30 seconds.)
+- ["Credit Scoring the Unbanked Population in Vietnam"](https://creditscoring-unbanked-vietnam.herokuapp.com/): How do we gauge creditworthiness for new small-dollar loan applicants? I built a credit-scoring model for thin-credit history loan applicants using loan data from a bank in Vietnam (Note: dormant application; load time is a few seconds.)
 - [Pic-Metric (Github)](https://github.com/Build-Week-Pic-Metric-2/DataScience): Batch-user-image object detection and classification web application
 - [Spotify Song Recommender (Github)](https://github.com/Build-Week-Spotify-Song-Suggester-1/Data-science): K-nearest neighbor model recommends thirty new Spotify songs given a user's input of a single song based upon features such as tempo, acousticness, etc.
-
