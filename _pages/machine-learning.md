@@ -10,7 +10,7 @@ excerpt: "Max's Machine Learning Projects"
 ---
 
 A collection of projects, particularly those utilizing machine learning and data science.
-My [Github Profile](https://github.com/mefrem) holds most of my publicly accessible code.
+See also my [Github Profile](https://github.com/mefrem) and [resume.](/resume.pdf)
 
 ## Current Projects
 
