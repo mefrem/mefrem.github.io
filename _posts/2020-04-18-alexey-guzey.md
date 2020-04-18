@@ -10,7 +10,7 @@ toc: True
 
 Alexey Guzey describes himself as an independent researcher with a background in economics, mathematics, and cognitive science. He's currently most occupied with biology, but has thought a lot about improving science and science philanthropy and more at his [website](https://guzey.com/).
 
-In March, 2020 I interviewed Alexey. He's not only the basis and subject of our discussion, but the very reason I have a blog. His post ["Why You Should Start a Blog Right Now"](https://guzey.com/personal/why-have-a-blog/) landed with me in a way that other exhortations to write had not. We discuss writing, as well as current projects, video game addictions, productivity, relationships, and more.
+In March, 2020 I interviewed Alexey. He's not only the basis and subject of our discussion, but the very reason I have a blog. His post ["Why You Should Start a Blog Right Now"](https://guzey.com/personal/why-have-a-blog/) landed with me in a way that other exhortations to write hadn't. We discuss writing, as well as current projects, video game addictions, productivity, relationships, and more.
 
 What follows is a transcript of our conversation, edited for clarity and length.
 
