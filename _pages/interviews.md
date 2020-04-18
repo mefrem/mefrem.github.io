@@ -19,6 +19,12 @@ defaults:
 
 Through the power of social media (+ being nice), it's never been more possible to find like-minded folks and ask them questions. Here are some of those interivews.
 
-[Luke O'Geil, coach and gymnast strength trainer, April 2020.](/luke-ogeil-coach)
+### 2020
 
-[Scott Sumner, economist, December 2019.](/scott-sumner-economist)
+[Luke O'Geil](/luke-ogeil-coach) - gymnastics coach and strength trainer, April 2020.
+
+[Alexey Guzey](/alexey-guzey) - researcher and writer, March 2020.
+
+### 2019
+
+[Scott Sumner](/scott-sumner-economist) - economist, December 2019.
