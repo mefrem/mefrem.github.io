@@ -1,5 +1,5 @@
 ---
-title:  "Scott Sumner (Economist)"
+title:  "Scott Sumner"
 excerpt: "An interview with Scott Sumner, a monetary economist."
 layout: posts
 date:   2020-01-12
