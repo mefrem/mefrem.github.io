@@ -10,9 +10,9 @@ toc: True
 # podcast-color: 7c93c7
 ---
 
-Luke O'Geil is a gymnastics coach and athlete from Calgary, Canada. On his Instagram [@lukeogeil](https://www.instagram.com/lukeogeil/) he chronicles his various training sessions which are the inspiration and basis of our conservation. We discuss the gymnasts' strength training program, his particular regimen, coaching gymnasts, and what's expected at the elite level.
+Luke O'Geil is a gymnastics coach and athlete from Calgary, Canada. On his Instagram [@lukeogeil](https://www.instagram.com/lukeogeil/), Luke chronicles his training sessions which are the inspiration and basis of our conservation. We discuss the approach to gymnastsics strength training, his particular regimen, coaching gymnasts, and what's expected at the elite level.
 
-We also discuss how the proper mindset for consistent training and performance can carry over to one's everyday life, as embodied in one of Luke's favorite quotations, *How you do anything is how you do everything*. We end on a discussion of the role of fasting and fueling in a peak fitness, at-home program amidst the current pandemic keeping us all on lockdown.
+Luke's approach to training can be summed up: *How you do anything is how you do everything*. Process-orientation > results-orientation. We end on a discussion of the role of fasting and fueling in an elite at-home training program amidst the current pandemic.
 
 ## Audio
 
