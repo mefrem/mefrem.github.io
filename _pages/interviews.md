@@ -17,7 +17,7 @@ defaults:
       author_profile: true
 ---
 
-Through the power of social media (+ being nice), it's never been more possible to find like-minded folks and ask them questions. Here are some of those interivews.
+Through the power of social media (+ being nice), it's never been more possible to find like-minded folks and ask them questions.
 
 ### 2020
 
