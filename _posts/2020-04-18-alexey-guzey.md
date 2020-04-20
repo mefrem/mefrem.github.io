@@ -23,11 +23,11 @@ And I realized, just because of how bad my memory is, I wind up doing a lot of�
 
 **Alexey**: Yes. I think that happens to everyone all the time. Actually, Scott Alexander even has a post about this where he actually caught himself in the process of regurgitating something he wrote somewhere a couple of weeks ago, and while he was writing he realized, “Wait this is not something I came up with it. This is something I encountered a couple of weeks ago.” So his post is titled ["My Plagiarism"](https://slatestarcodex.com/2019/02/21/my-plagiarism/) , exactly about this. So yeah, I think this is pretty common.
 
-***Max***: I probably read that post and have forgotten. And in a way, we’re blind to all sorts of things that we’re the beneficiaries of. I guess we have a bias towards the people immediately in our lives and their material contributions. But think about all the inventions and innovations—the economy is just one large superstructure of benefits and coordination that’s totally invisible to us. The electricity’s running and I probably owe countless people thanks for that.
+**Max**: I probably read that post and have forgotten. And in a way, we’re blind to all sorts of things that we’re the beneficiaries of. I guess we have a bias towards the people immediately in our lives and their material contributions. But think about all the inventions and innovations—the economy is just one large superstructure of benefits and coordination that’s totally invisible to us. The electricity’s running and I probably owe countless people thanks for that.
 
 ## Meta-science and scientific philanthropy
 
-***Max***: On your website and your Twitter bio, you state your primary concern is science philanthropy consulting. I want to know how that’s been, can update me on that?
+**Max**: On your website and your Twitter bio, you state your primary concern is science philanthropy consulting. I want to know how that’s been, can update me on that?
 
 **Alexey**: Yeah. So I wrote this [life sciences post](https://guzey.com/how-life-sciences-actually-work/) in August, and I don’t really have a very concise summary of what happened, but a lot of people read my piece and a lot of people reached out. One scientist, who I was trying to get funding for, ended up getting funded as a result because someone reached out to me and offered to fund them. Then, several people reached out to me and offered to join up on their projects, and now I’m involved in one of them significantly, but it’s not public yet.
 
