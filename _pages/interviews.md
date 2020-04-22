@@ -23,7 +23,7 @@ Through the power of social media (+ being nice), it's never been more possible 
 
 [Luke O'Geil](/luke-ogeil-coach) - gymnastics coach and strength trainer, April 2020.
 
-[Alexey Guzey](/alexey-guzey) - researcher and writer, March 2020.
+[Alexey Guzey](/alexey-guzey) - independent researcher and writer, March 2020.
 
 ### 2019
 
