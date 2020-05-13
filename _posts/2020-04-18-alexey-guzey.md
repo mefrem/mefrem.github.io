@@ -7,7 +7,7 @@ canonical_url: "https://maxefremov.com/alexey-guzey"
 toc: True
 # category: interview
 ---
-Alexey Guzey describes himself as an independent researcher with a background in economics, mathematics, and cognitive science. He’s currently most occupied with biology, but has thought a lot about improving science and science philanthropy and more at his [website](https://guzey.com/).
+Alexey Guzey describes himself as an independent researcher with a background in economics, mathematics, and cognitive science. He’s currently most occupied with biology, but has thought a lot about improving science, science philanthropy, and more at his [website](https://guzey.com/).
 
 In March 2020 I interviewed Alexey. He’s not only the basis and subject of our discussion, but the very reason I have a blog. His post [“Why You Should Start a Blog Right Now”](https://guzey.com/personal/why-have-a-blog/) landed with me in a way that other exhortations to write hadn’t. We discuss writing, as well as current projects, video game addictions, productivity, relationships, and more.
 
@@ -39,7 +39,7 @@ And actually I’m probably going to sideline this meta science and science phil
 
 But for some reason, *consistently writing* came about much slower to me. I would get caught up in the details of creating a blog, like my early WordPress, “What does it look like?” and then not get around to saying a whole lot. Partially it was because I had hangups like, “Do I have anything original to say? Anything interesting? How good of a writer am I?”
 
-**Now, I never had an experience of those doubts being so strongly dispelled than when I read [your piece about writing](https://guzey.com/personal/why-have-a-blog/), about why in fact the goal isn’t to write something completely original, but to synthesize thoughts, especially if you find yourself talking about them a lot to lots of different friends. You should just put that in a blog post.** And also, obviously when we go to school and we learn something, hardly is anything that the professors say is original. There’s this primacy on originality, but that’s not actually how most communication is done.
+**Now, I never had an experience of those doubts being so strongly dispelled than when I read [your piece about writing](https://guzey.com/personal/why-have-a-blog/), about why in fact the goal isn’t to write something completely original, but to synthesize thoughts, especially if you find yourself talking about them a lot to lots of different friends. You should just put that in a blog post.** And also, obviously when we go to school and we learn something, hardly anything that the professors say is original. There’s this primacy on originality, but that’s not actually how most communication is done.
 
 So how did you come to that? How did you come to the realization that maybe you should be more forthcoming about what your thoughts are?
 
