@@ -22,6 +22,8 @@ In response, the United States passed the **Magnitsky Act**, also known as the *
 
 ## SanctionsExplorer
 
+![SanctionsExplorer Homepage](/assets/images/sanctionsexplorer.png "SanctionsExplorer Homepage")
+
 Sanctions are a tool at governments’ disposal to influence the behavior of other nations, organizations, and individuals, typically as a matter of national security or to protect international law. The United States pursues many sanctions programs, mostly administered by OFAC and at the discretion of the President, but Congress also imposes economic sanctions. And the United States is just one such authority—in fact, any country can impose penalties for transacting or trading with a sanctioned entity, as well as the intergovernmental organizations like United Nations and European Union.
 
 There now exist hundreds of international sanctions programs, each with lists, databases, accompanying documentation and reports. It is increasingly difficult to keep up.
