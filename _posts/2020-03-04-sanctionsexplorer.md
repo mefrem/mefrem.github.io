@@ -8,7 +8,9 @@ date:   2020-03-04
 canonical_url: "https://maxefremov.com/interviews/sanctionsexplorer"
 ---
 
-I just completed work on a web-scraping, natural language processing web application that provides information pertaining to internationally sanctioned entities. Before I describe its technical details, it's important to know the motivation for the project.
+![SanctionsExplorer Homepage](/assets/images/sanctionsexplorer.png "SanctionsExplorer Homepage")
+
+I just completed the alpha version of a web-scraping, natural language processing web application that provides information pertaining to internationally sanctioned entities. Before I describe its technical details, it's important to know the motivation for the project.
 
 ## Sergei Magnitsky
 
@@ -21,8 +23,6 @@ For his work, Sergei Magnitsky was jailed, interrogated, and tortured. He spent 
 In response, the United States passed the **Magnitsky Act**, also known as the **Russia and Moldova Jackson–Vanik Repeal and Sergei Magnitsky Rule of Law Accountability Act of 2012**. It imposed travel restrictions, froze assets, and sanctioned the Russian officials responsible for the death of Sergei Magnitsky. Anyone found to be transacting or trading with the persons or entities on that list would face stiff penalties. The act also empowered the United States Treasury Department’s Office of Foreign Asset Control (US OFAC) to maintain the Magnitsky Act's lists of sanctions and make determinations about who to include as part of American foreign policy.
 
 ## SanctionsExplorer
-
-![SanctionsExplorer Homepage](/assets/images/sanctionsexplorer.png "SanctionsExplorer Homepage")
 
 Sanctions are a tool at governments’ disposal to influence the behavior of other nations, organizations, and individuals, typically as a matter of national security or to protect international law. The United States pursues many sanctions programs, mostly administered by OFAC and at the discretion of the President, but Congress also imposes economic sanctions. And the United States is just one such authority—in fact, any country can impose penalties for transacting or trading with a sanctioned entity, as well as the intergovernmental organizations like United Nations and European Union.
 
