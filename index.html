@@ -18,3 +18,7 @@ I'm a machine learning engineer with a background in economics and data science.
 Sign up for my <a href="https://maxefremov.substack.com/">very occasional updates</a> by email.
 
 <br>
+
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
