@@ -34,6 +34,6 @@ Luke's program is a Mon, Tue, Thur, Fri split. Mon + Thur and Tue + Fri are the 
 
 ### Other Links
 
-- ["The Secrets of Gymnastics Strength Training (#158)](https://tim.blog/2016/05/09/the-secrets-of-gymnastic-strength-training/) episode of The Tim Ferriss Show, highly recommended
+- ["The Secrets of Gymnastics Strength Training (#158)"](https://tim.blog/2016/05/09/the-secrets-of-gymnastic-strength-training/) episode of The Tim Ferriss Show, highly recommended
 - [POWER GUIDANCE Climbing Rope, 1.5 Inch in Diameter, No Mounting Bracket Needed, Length 12](https://amzn.to/39X0fni) for $60
 - Instant coffee + protein powder for breakfast training, maybe [Starbucks brand](https://amzn.to/2Vc2E8u) and [Gold Standard Whey Protein Powder](https://amzn.to/2VeGOBj)
