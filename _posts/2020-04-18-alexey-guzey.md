@@ -4,7 +4,7 @@ excerpt: "An interview with Alexey Guzey, researcher and writer."
 layout: posts
 date: 2020-04-18
 canonical_url: "https://maxefremov.com/alexey-guzey"
-toc: True
+toc: true
 # category: interview
 ---
 Alexey Guzey describes himself as an independent researcher with a background in economics, mathematics, and cognitive science. He’s currently most occupied with biology, but has thought a lot about improving science, science philanthropy, and more at his [website](https://guzey.com/).
