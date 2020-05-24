@@ -84,7 +84,9 @@
           {% if site.reCaptcha.siteKey %}<script async src="https://www.google.com/recaptcha/api.js"></script>{% endif %}
         {% endif %}
       </section>
-    {% when "staticman" %}
+      <hr>
+
+      {% when "staticman" %}
       <section id="static-comments">
         {% if site.repository and site.staticman.branch %}
           <!-- Start static comments -->
