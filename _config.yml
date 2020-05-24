@@ -74,8 +74,8 @@ staticman:
 staticman_url: https://mefrem-staticmanapp-vtwo.herokuapp.com/v2/entry/mefrem/mefrem.github.io/master/comments
 #
 reCaptcha:
-  siteKey                : 6Ld_s_sUAAAAAP-OcIvO85avQZnH1ZXFpcHykwYf
-  secret                 : sHfhzyqWAavG+l4mhR2KlB8mFE4LO5YyZgc8Mmv6tuJhbduoMshf2z7OdeTwAp2EAuSluZeDEh9CMADmULgIIqOiXVlzAj3nlx3ReS8vTPtSeFSFH8VfMoLeDotqzAoZyipJNYG+Zkt6lrTU5/npCQ9H5nbB/3qFixAFbn9XKb2gzjYOqNd7aRuVvVtWLoWuTWAMTlYhtTirR6VtN/fmXsaEL7eoK4Hu6xz4RXr6Ue6yy+HJk0iCr3v2FCOmwngCNvUPjx2lnovlc6N9LGYU/xWieYuCCMehiOln5emiy5kprwzSVAulFMOTYLFyVOBhvjQBGjcSwgK5NU7fm8yAGA9j5avP5K3Xysk37gkOdUlpsSD/+zqvF77mXUPjCgv3l6EyZ8glFYAUrTD65A8yvKUkbAr+UEjr629ls0M6FuWscOdZAAlymhANftyFRks+M0bMYz5kgqzYqwe5mIm1o5F9yDbSBmJvv0Dx/Spfrbb/LjW8T+jzBLm/s6cmEk+bnSh3ZS74IKyl1qjeQEVB9p89XL/kEvwu8/GaiTmMLivYjzZZLuUeBPAO9TV/B2Mue6AvDSB3ike8NIQwxxPQeB/Jb6kbj6X9c4hc6tKCHpwRRO2FOBD4YlNt28iRgM7LThBrY2HBlh3Or5ABUhhwhpY/l7xzuo2dhUCrGfHn1aE=
+  siteKey                : "6Ld_s_sUAAAAAP-OcIvO85avQZnH1ZXFpcHykwYf"
+  secret                 : "sHfhzyqWAavG+l4mhR2KlB8mFE4LO5YyZgc8Mmv6tuJhbduoMshf2z7OdeTwAp2EAuSluZeDEh9CMADmULgIIqOiXVlzAj3nlx3ReS8vTPtSeFSFH8VfMoLeDotqzAoZyipJNYG+Zkt6lrTU5/npCQ9H5nbB/3qFixAFbn9XKb2gzjYOqNd7aRuVvVtWLoWuTWAMTlYhtTirR6VtN/fmXsaEL7eoK4Hu6xz4RXr6Ue6yy+HJk0iCr3v2FCOmwngCNvUPjx2lnovlc6N9LGYU/xWieYuCCMehiOln5emiy5kprwzSVAulFMOTYLFyVOBhvjQBGjcSwgK5NU7fm8yAGA9j5avP5K3Xysk37gkOdUlpsSD/+zqvF77mXUPjCgv3l6EyZ8glFYAUrTD65A8yvKUkbAr+UEjr629ls0M6FuWscOdZAAlymhANftyFRks+M0bMYz5kgqzYqwe5mIm1o5F9yDbSBmJvv0Dx/Spfrbb/LjW8T+jzBLm/s6cmEk+bnSh3ZS74IKyl1qjeQEVB9p89XL/kEvwu8/GaiTmMLivYjzZZLuUeBPAO9TV/B2Mue6AvDSB3ike8NIQwxxPQeB/Jb6kbj6X9c4hc6tKCHpwRRO2FOBD4YlNt28iRgM7LThBrY2HBlh3Or5ABUhhwhpY/l7xzuo2dhUCrGfHn1aE="
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
