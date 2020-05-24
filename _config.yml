@@ -30,7 +30,7 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 230
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
     shortname            : # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
@@ -44,25 +44,38 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
 staticman:
-  allowedFields          : # ['name', 'email', 'url', 'message']
-  branch                 : # "master"
-  commitMessage          : # "New comment by {fields.name}"
-  filename               : # comment-{@timestamp}
-  format                 : # "yml"
-  moderation             : # true
-  path                   : # "/_data/comments/{options.slug}" (default)
-  requiredFields         : # ['name', 'email', 'message']
+  allowedFields          : ['name', 'email', 'url', 'message']
+  branch                 : "master"
+  commitMessage          : "New comment by {fields.name}"
+  filename               : comment-{@timestamp}
+  format                 : "yaml"
+  moderation             : true
+  path                   : "_data/comments/{options.slug}" (default)
+  requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : # "md5"
+    email                : "md5"
   generatedFields:
     date:
-      type               : # "date"
+      type               : "date"
       options:
-        format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" # (default), "timestamp-seconds", "timestamp-milliseconds"
   endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
+# The URL for the staticman API bridge endpoint
+# You will want to modify some of the values:
+#  ${github-username}: the username of the account with which you publish your blog
+#  ${blog-repo}: the name of your blog repository in github
+#  master: this the branch out of which your blog is published, often master or gh-pages
+#  ${bridge_app_name}: the name you chose in Heroku for your bridge API
+#  comments: the so-called property, this defines the key in staticman.yml where the configuration is found
+#
+# for me, this line reads:
+# https://staticman-travisdownsio.herokuapp.com/v2/entry/travisdowns/travisdowns.github.io/master/comments
+# staticman_url: https://${bridge_app_name}.herokuapp.com/v2/entry/${github-username}/${blog-repo}/master/comments
+staticman_url: https://mefrem-staticmanapp-vtwo.herokuapp.com/v2/entry/mefrem/mefrem.github.io/master/comments
+#
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : 6Ld_s_sUAAAAAP-OcIvO85avQZnH1ZXFpcHykwYf
+  secret                 : sHfhzyqWAavG+l4mhR2KlB8mFE4LO5YyZgc8Mmv6tuJhbduoMshf2z7OdeTwAp2EAuSluZeDEh9CMADmULgIIqOiXVlzAj3nlx3ReS8vTPtSeFSFH8VfMoLeDotqzAoZyipJNYG+Zkt6lrTU5/npCQ9H5nbB/3qFixAFbn9XKb2gzjYOqNd7aRuVvVtWLoWuTWAMTlYhtTirR6VtN/fmXsaEL7eoK4Hu6xz4RXr6Ue6yy+HJk0iCr3v2FCOmwngCNvUPjx2lnovlc6N9LGYU/xWieYuCCMehiOln5emiy5kprwzSVAulFMOTYLFyVOBhvjQBGjcSwgK5NU7fm8yAGA9j5avP5K3Xysk37gkOdUlpsSD/+zqvF77mXUPjCgv3l6EyZ8glFYAUrTD65A8yvKUkbAr+UEjr629ls0M6FuWscOdZAAlymhANftyFRks+M0bMYz5kgqzYqwe5mIm1o5F9yDbSBmJvv0Dx/Spfrbb/LjW8T+jzBLm/s6cmEk+bnSh3ZS74IKyl1qjeQEVB9p89XL/kEvwu8/GaiTmMLivYjzZZLuUeBPAO9TV/B2Mue6AvDSB3ike8NIQwxxPQeB/Jb6kbj6X9c4hc6tKCHpwRRO2FOBD4YlNt28iRgM7LThBrY2HBlh3Or5ABUhhwhpY/l7xzuo2dhUCrGfHn1aE=
 atom_feed:
   path                   : # blank (default) uses feed.xml
 search                   : # true, false (default)
