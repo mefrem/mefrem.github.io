@@ -1,10 +1,8 @@
 ---
 title:  "Subagents in Exile"
 excerpt: "A brief survey of Richard Schwartz's Internal Family Systems (IFS) therapy."
-header:
-  teaser: "https://raw.githubusercontent.com/mefrem/mefrem.github.io/master/assets/images/job_filters/job-filters.png"
 layout: posts
-date:   2020-03-06
+date:   2020-05-12
 toc: true
 ---
 
@@ -12,8 +10,9 @@ I was drawn to Internal Family Systems (IFS) after an introduction by the inesti
 
 In Schwartz's book, we learn that romantic relationships grow fractious because one or both of the partners have impossible expectations of their relationships, created in part by a culture which maintains that true happiness is partnership with a person who *makes* you happy. According to Schwartz, this expectation is not just inadvisible, it's impossible to satisfy. And yet that is, in the main, the expectation with which many of us come to relationships.
 
-> For reasons that will be discussed at length in the pages to come, your partner cannot succeed in making you feel good in a lasting way. For example, if you have had a hard life filled with rejection and loneliness, his love can only temporarily lift the cloud of worthlessness and self-loathing that will return whenever he is away or in another mood. If you enter the relationship expecting him to be that kind of redeemer, inevitably you will be disappointed at some point.
-> 	Our culture, and many of the relationship experts in it, have issued us faulty maps and improper tools. We’ve been told that the love we need is a buried treasure hidden in the heart of a special intimate partner. Once we find that partner, the love we crave should flow elixir-like, filling our empty spaces and healing our pain.
+>&nbsp;&nbsp;&nbsp;&nbsp; For reasons that will be discussed at length in the pages to come, your partner cannot succeed in making you feel good in a lasting way. For example, if you have had a hard life filled with rejection and loneliness, his love can only temporarily lift the cloud of worthlessness and self-loathing that will return whenever he is away or in another mood. If you enter the relationship expecting him to be that kind of redeemer, inevitably you will be disappointed at some point.
+>
+>&nbsp;&nbsp;&nbsp;&nbsp; Our culture, and many of the relationship experts in it, have issued us faulty maps and improper tools. We’ve been told that the love we need is a buried treasure hidden in the heart of a special intimate partner. Once we find that partner, the love we crave should flow elixir-like, filling our empty spaces and healing our pain.
 
 ## Exiling Projects
 
