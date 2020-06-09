@@ -1,5 +1,5 @@
 ---
-title:  "Subagents in Exile"
+title:  "Our Parts in Exile"
 excerpt: "A brief survey of Richard Schwartz's Internal Family Systems (IFS) therapy."
 layout: posts
 date:   2020-05-12
