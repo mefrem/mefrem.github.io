@@ -42,13 +42,20 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
   - [The Promise of Nominal GDP Targeting](https://www.mercatus.org/system/files/sumner-nominal-gdp-primer-mercatus-v1.pdf)
   - [Money/Macro needs to go back to the basics](https://www.themoneyillusion.com/moneymacro-needs-to-go-back-to-basics/)
   - [Never reason from a price change](https://www.themoneyillusion.com/never-reason-from-a-price-change/)
+- [Jacob Jalkovich](https://putanumonit.com/) is honest and funny, numbering 
+  - [His February 27th coronavirus post](https://putanumonit.com/2020/02/27/seeing-the-smoke/) was the most persuasive "coronapill" post pre-national lockdown
+  - [100 Ways to Live Better](https://putanumonit.com/2019/12/30/100-ways-to-live-better/)
+  - [In Defense of Finance](https://putanumonit.com/2018/12/14/defense-of-finance/) is one of the best primers on the miracle of financial intermediation
+  - [Shopping for Happiness](https://putanumonit.com/2016/05/11/shopping-for-happiness/)
 - Matt Levine writes [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) the highest signal:noise ratio of any daily newsletter I've ever read, ever.
+- [Paul Graham](http://www.paulgraham.com/articles.html) has written some of the best essays on the internet
 
 ## Individual essays
 
 - [The Inner Ring](https://www.lewissociety.org/innerring/) by C.S. Lewis
 - [6 Harsh Truths That Will Make You a Better Person](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/) by "David Wong"
 - [There's no speed limit](https://sivers.org/kimo) by Derek Sivers
+- [If you’re good, you need to talk more](https://davidklaing.com/talk-more/) by David Liang
 
 ## Those who publish books
 
