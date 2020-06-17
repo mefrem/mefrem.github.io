@@ -15,28 +15,29 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
 
 ## Those I owe an eternal debt of gratitude
 
-- [**Scott Alexander**](https://slatestarcodex.com/) - Despite his site being a de facto headquarters of the rationality community, his blog is *still* wildly underrated. His [top posts](https://slatestarcodex.com/about/) is a great place to start. Other pieces that matter to me:
+- [**Scott Alexander**](https://slatestarcodex.com/) - Despite his site being a de facto headquarters of the rationality community, his blog is *still* wildly underrated. His [top posts](https://slatestarcodex.com/about/) are a great place to start. Other pieces that matter to me:
   - [Book Review: Secrets to our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
-  - [Seeing like a State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
+  - [Book Review: Seeing like a State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
 - [**The Last Psychiatrist**](https://thelastpsychiatrist.com/) - a ranting, raving mad psychiatrist going on about narcissim and ignorance
   - [This Is Why The American Dream Is Out Of Reach](https://thelastpsychiatrist.com/2010/08/this_is_why_the_american_dream.html)
   - [Hipsters on Food Stamps](https://thelastpsychiatrist.com/2012/11/hipsters_on_food_stamps.html)
-- **Howard Baetjer** - my college economics professor, the person who introduced me to the concepts of spontaneous orders, unintended consequences, and opportunity costs.
+- **Howard Baetjer** - my college economics professor, the person who introduced me to the concepts of spontaneous orders, unintended consequences, and opportunity costs
 
 ## Those that blog
 
-- [Alexey Guzey](https://guzey.com/) - Alexey explained why you-yes, **you**-should start a blog right now, and is the reason this site exists
+- [Alexey Guzey](https://guzey.com/) explained why you—yes, **you**—should start a blog right now, and is the reason this site exists
   - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
   - [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/)
 - Patrick McKenzie
   - [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
   - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
   - [Identy Theft, Credit Reports, and You](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) a primer on dealing with beuracracy
-- [Tyler Cowen](marginalrevolution.com) is an economist, head of the [George Mason economics department](https://slate.com/culture/2006/03/the-real-secret-of-george-mason-university.html), and obsessed with being contrarian and interesting
-- [Bryan Caplan](https://www.econlib.org/author/bcaplan/) has made twenty public bets with other academics and journalists since 2007 and has [won every single one](https://www.econlib.org/my-complete-bet-wiki/)
+- [Tyler Cowen](marginalrevolution.com) is an economist, head of the [George Mason economics department](https://slate.com/culture/2006/03/the-real-secret-of-george-mason-university.html), and runs the best economics blog, period. He's prodigious writer, having written some dozen or more books, hundreds of articles and papers, and has blogged daily for decades
+  - [Stubborn Attachments](https://amzn.to/37F0Ryp)
+- [Bryan Caplan](https://www.econlib.org/author/bcaplan/) has made twenty public bets with other academics and journalists since 2007 and has [won every single one](https://www.econlib.org/my-complete-bet-wiki/).
   - [The Case Against Education](https://amzn.to/39YpZzQ)
   - [*Make Your Own Bubble in 10 Easy Steps*](https://www.econlib.org/archives/2013/04/make_your_own_b.html)
-- [Scott Sumner](https://www.themoneyillusion.com) is practically *the* [market monetarist](https://en.wikipedia.org/wiki/Market_monetarism) who has been banging on about nominal GDP targeting for over a decade. We should listen to him.
+- [Scott Sumner](https://www.themoneyillusion.com) is practically *the* [market monetarist](https://en.wikipedia.org/wiki/Market_monetarism), and has been banging on about nominal GDP targeting for over a decade. We should listen to him.
   - [my interview with him](/scott-sumner-economist)
   - [The Promise of Nominal GDP Targeting](https://www.mercatus.org/system/files/sumner-nominal-gdp-primer-mercatus-v1.pdf)
   - [Money/Macro needs to go back to the basics](https://www.themoneyillusion.com/moneymacro-needs-to-go-back-to-basics/)
