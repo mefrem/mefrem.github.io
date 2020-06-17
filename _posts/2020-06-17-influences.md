@@ -7,7 +7,9 @@ layout: posts
 date:   2020-06-17
 toc: true
 ---
--- fill out websites, provide links to podcasts, flesh out? or just post
+<!-- 
+ fill out websites, provide links to podcasts, flesh out
+-->
 
 Here is an incomplete list of writers and thinkers I read, admire, or find most interesting.
 
