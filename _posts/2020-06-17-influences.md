@@ -23,12 +23,13 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
   - [Hipsters on Food Stamps](https://thelastpsychiatrist.com/2012/11/hipsters_on_food_stamps.html)
 - **Howard Baetjer** - my college economics professor, the person who introduced me to the concepts of spontaneous orders, unintended consequences, and opportunity costs
 
-## Those that blog
+## Those I find myself coming back to again and again
 
 - [Alexey Guzey](https://guzey.com/) explained why you—yes, **you**—should start a blog right now, and is the reason this site exists
   - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
   - [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/)
-- Patrick McKenzie
+  - [My interview with him](/alexey-guzey/)
+- [Patrick McKenzie](https://www.kalzumeus.com/) knows business, especially small and medium-sized businesses, the software economy, and how to think about them. [His twitter](twitter.com/patio11) is a veritable goldmine
   - [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
   - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
   - [Identy Theft, Credit Reports, and You](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) a primer on dealing with beuracracy
@@ -38,7 +39,7 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
   - [The Case Against Education](https://amzn.to/39YpZzQ)
   - [*Make Your Own Bubble in 10 Easy Steps*](https://www.econlib.org/archives/2013/04/make_your_own_b.html)
 - [Scott Sumner](https://www.themoneyillusion.com) is practically *the* [market monetarist](https://en.wikipedia.org/wiki/Market_monetarism), and has been banging on about nominal GDP targeting for over a decade. We should listen to him.
-  - [my interview with him](/scott-sumner-economist)
+  - [My interview with him](/scott-sumner-economist)
   - [The Promise of Nominal GDP Targeting](https://www.mercatus.org/system/files/sumner-nominal-gdp-primer-mercatus-v1.pdf)
   - [Money/Macro needs to go back to the basics](https://www.themoneyillusion.com/moneymacro-needs-to-go-back-to-basics/)
   - [Never reason from a price change](https://www.themoneyillusion.com/never-reason-from-a-price-change/)
@@ -48,7 +49,10 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
   - [In Defense of Finance](https://putanumonit.com/2018/12/14/defense-of-finance/) is one of the best primers on the miracle of financial intermediation
   - [Shopping for Happiness](https://putanumonit.com/2016/05/11/shopping-for-happiness/)
 - Matt Levine writes [Money Stuff](https://www.bloomberg.com/opinion/authors/ARbTQlRLRjE/matthew-s-levine) the highest signal:noise ratio of any daily newsletter I've ever read, ever.
-- [Paul Graham](http://www.paulgraham.com/articles.html) has written some of the best essays on the internet
+- [Paul Graham](http://www.paulgraham.com/articles.html) is a creative who ventured into tech startups. That experience informed his grandest professional accomplishment: [Y Combinator](https://www.ycombinator.com/companies/?top100=true), the most famous startup incubator of all time, and his forum [hacker news](https://news.ycombinator.com/) is where programmers drink their morning coffee. His essays in life, business, and everything in between, are the bedtime stories everyone in Silicon Valley grew up reading
+  - [What You Can't Say](http://www.paulgraham.com/say.html)
+  - [Do Things That Don't Scale](http://www.paulgraham.com/ds.html)
+  - [How to Make Wealth](http://www.paulgraham.com/wealth.html)
 
 ## Individual essays
 
@@ -66,7 +70,7 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
   - [*Roger Federer as Religious Experience*](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html)
 - **Bill Bryson**
   - [A Short History of Nearly Everything](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html)
-  - My post on [*In A Sunburned Country*](/how-funny-is-bill-bryson)
+  - My post detailing the hilarity of [*In A Sunburned Country*](/how-funny-is-bill-bryson)
 - Nassim Taleb
   - [Antifragile: Things That Gain From Disorder](https://amzn.to/34riqAv)
 - Absolutely will come back to this list.

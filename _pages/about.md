@@ -14,7 +14,7 @@ footer: false
 share: false
 ---
 
-Besides my census details—American, male, born in '91—the best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov), or email me at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com). If you're interested by what you've seen here, then I'm sure I'd like to hear from you.
+Besides my census details—American, male, born in '91—the best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov), [my influences](http://www.paulgraham.com/ds.html) or email me at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com). If you're interested by what you've seen here, then I'm sure I'd like to hear from you.
 
 Some salient features:
 
