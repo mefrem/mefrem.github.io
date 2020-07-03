@@ -12,9 +12,9 @@ toc: True
 
 It's not every day that you get to chat with [one of your favorite YouTubers](https://www.youtube.com/channel/UCvBvPuKjUI61O_BtKqVbirw).
 
-Tyson Edwards is one of those all-around incredible athletes: an Olympic weightlifter, gymnastics strength athlete and coach, and most recently a martial artist and marathoner. He's also dabbled in parkour, tricking, climbing, and holds a Guinness World Record in the highest standing backflip.
+Tyson Edwards is one of those all-around incredible athletes: an Olympic weightlifter, gymnastics strength athlete and coach, and most recently a martial artist and marathoner. He's also dabbled in parkour, tricking, climbing, and holds a Guinness World Record in the [highest standing backflip](https://youtu.be/mc4waR97Aps).
 
-We discussed the interplay between training and video content creation, the purpose and joy of functional training, Tyson's background in a number of different athletic endeavors, as well his many other interests.
+We discussed the interplay between training, ego, and video content creation, the purpose and joy of functional strength training, Tyson's background in a number of different athletic endeavors, as well his many other interests (like his new series, Coffee. Train. Anime.).
 
 It was a joy to finally get to talk to him.
 
