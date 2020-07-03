@@ -18,7 +18,7 @@ Besides my census details—American, male, born in '91—the best way to get to
 
 Some salient features:
 
-- I've been a part of the [Rationlist](https://www.lesswrong.com/) community since 2013, and consider the movement and some of its blogs and thinkers the most important influences of my life
+- I've been a part of the [Rationlist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers the most important influences on my life
 - I spent several years during college doing community service, disaster relief, and trail-building across the American Midwest
 - made dozens of lifelong friends on the internet who then became my friends irl
 - studied and lived in Seoul, South Korea
