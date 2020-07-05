@@ -321,7 +321,7 @@ I just love how bizarre it is. And I'm not talking about it's just like ... What
 
 I get that you've got reservations about it. That's the whole reason why I included it in the series, to tell or give people a chance to maybe consider something they've not considered, just like the running, and maybe consider it endurance training when you've not considered it.
 
-But yeah, man, anime just goes places and imagines things in ways that I haven't seen any other medium do, whether it be video or movie. There's some directors that go to those bizarre places, which I enjoy like Paul Thomas Anderson, and the McCollum brothers have those kind of offbeat things about them.
+But yeah, man, anime just goes places and imagines things in ways that I haven't seen any other medium do, whether it be video or movie. There's some directors that go to those bizarre places, which I enjoy like Paul Thomas Anderson, and the Coen brothers have those kind of offbeat things about them.
 
 But anime does it in ... I remember I watched three, I watched Death Note, Code Geass and Attack on Titan, and after watching each one, I was like, "Well, that was a unicorn. I don't think I'll find another good series," and that was just three in a row. 
 
