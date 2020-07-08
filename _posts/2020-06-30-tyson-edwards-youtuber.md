@@ -16,14 +16,13 @@ Tyson Edwards is one of those all-around incredible athletes: an Olympic weightl
 
 We discussed the interplay between training, ego, and video content creation, the purpose and joy of functional strength training, Tyson's background in a number of different athletic endeavors, as well his many other interests (like his new series, Coffee. Train. Anime.).
 
-It was a joy to finally get to talk to him.
+It was a joy to finally get to talk to him. Below is the podcast audio as well as a transcript of our conversation edited for length and clarity.
 
 ## Audio
 
 <iframe style="border: none" src="//html5-player.libsyn.com/embed/episode/id/15032315/height/90/theme/custom/thumbnail/yes/direction/backward/render-playlist/no/custom-color/7c93c7/" height="90" width="100%" scrolling="no"  allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 ## Transcript
-
 
 **Tyson:** I noticed that the conversation doesn't get rolling for a while ... There's a warming up period. That's something I've noticed with podcasts. I don't know if you've noticed that as well. But that's why I'm apologetic. I can only give like 30 minutes today. It does take a little bit to warm up a conversation before it starts to flow a bit more.
 
