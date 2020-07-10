@@ -59,7 +59,7 @@ staticman:
       type               : "date"
       options:
         format           : "iso8601" # (default), "timestamp-seconds", "timestamp-milliseconds"
-staticman_url: https://mefrem-staticmanapp.herokuapp.com/v2/entry/mefrem/mefrem.github.io/master/comments
+staticman_url: https://api.staticman.net/v3/entry/github/mefrem/mefrem.github.io/master/comments # https://mefrem-staticmanapp.herokuapp.com/v2/entry/mefrem/mefrem.github.io/master/comments
 reCaptcha:
   siteKey                : "" # "6Ld_s_sUAAAAAP-OcIvO85avQZnH1ZXFpcHykwYf"
   secret                 : "" # "eOpWL3cQCZERKrIWPc+ozHZFMhgF+Hulgbi3cSHqYWVNrj0zvbe6IVjGWvcOBDzJF5gQFumT0qc2sum/Ciaz3ErOwMWfw2pO5MD5BS2K11/g9ndYE89YlA02sIT6lJfbW+Oj+nuBJoNqq6V4PLfc64xFHQgytZyOas7aMpEY18epxBjbThMzNneN/xZF1zmtzVef5B2Yi+Zj+HhW5gq1EOPreHGEUWUDTNgCnzrOFin4CXB0Ch33//yDHAlNcutcnG5BYF5AF7zF1KzSX8bYt/NI0u2teJbv6iLRXGIRioHP5BPHL4y2jRLURuXpKCICwT6272x1bSF61T79bSVIoNXulj0YpjGoJ0tdiThAk3jgODlG5CFnJYpKU4aA5HxNRAbUoz8pYCnJ7QF9zwjXh5wm0dYbSD76bTCxDMIIAv3AonG+jcY25I+nnkFPVvfF1vyLbJzYK5z4ijRTgINmBIoOfVGVTiM2sqH09yozG8FJYWPP6VZlcqyhg1bnzxLrZoAD3hxv4ougxXp3/RdIAB8eyIJgSpiSoiI+0RKVkq+LmwvCig5DRJVWU4NTZd4MTuCKSzQtIe0hJEz4TtgwtOm7XHE3ODcnQjIaGgzSJpvAqh1vRlMYrUTviukIOgobQ4w4cdRvqD6FmUwXN0KTeLoiKXZ1P32hgRThtcB9VC4="
