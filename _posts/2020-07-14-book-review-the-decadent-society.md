@@ -8,11 +8,11 @@ category: book review
 ---
 (*Thanks to Santi Ruiz and Paul Millerd for help with a draft of this piece.*)
 
-I’ve never had the experience before of reading so depressing a book—and make no mistake, Ross Douthat’s [*The Decadent Society*](https://amzn.to/30956PM) is at its core pessimistic about the state of Western civilization—and yet beam with agency and excitement at the trove of ideas and provocation. So often it is someone else’s formulation of “the problem” that spurs our own thoughts, and to Douthat I am immensely grateful, despite the cheerless message.
+I’ve never had the experience before of reading so depressing a book—and make no mistake, Ross Douthat’s [*The Decadent Society*](https://amzn.to/30956PM) is at its core pessimistic about the state of Western civilization—and yet beam with agency and excitement at the trove of ideas and provocation. So often it is someone else’s formulation of “the problem” that spurs our own thoughts, and to Douthat I am immensely grateful, for tying together many important lines of evidence and despite his cheerless message.
 
 ## I.
 
-Ross Douthat, a conservative Catholic social commentator, art and film critic, and my favorite columnist at *The New York Times*, published *The Decadent Society* in February of this year. His thesis is that a condition of decadence has obtained in Western civilization, and is here to stay. “Decadence,” he writes,
+Ross Douthat, a conservative Catholic social commentator, film critic, and a columnist at *The New York Times*, published *The Decadent Society* in February of this year. His thesis is that a condition of decadence has obtained in Western civilization, and is likely here to stay. “Decadence,” he writes,
 
 > “refers to economic stagnation, institutional decay, and cultural and intellectual exhaustion at a high level of material prosperity and technological development. It describes a situation in which repetition is more the norm than innovation; in which sclerosis afflicts public institutions and private enterprises alike; in which intellectual life seems to go in circles; in which new developments in science, new exploratory projects, underdeliver compared with what people recently expected. And, crucially, the stagnation and decay are often a direct consequence of previous development. The decadent society is, by definition, a victim of its own significant success.
 
