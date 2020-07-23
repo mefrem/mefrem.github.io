@@ -4,6 +4,7 @@ excerpt: "Scathingly funny."
 layout: posts
 date:   2019-03-10 09:30:00 +0000
 toc: True
+comments: True
 ---
 Funny.
 
