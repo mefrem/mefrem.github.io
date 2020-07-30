@@ -10,7 +10,7 @@ toc: True
 # podcast-color: 7c93c7
 ---
 
-Howard Baetjer (rhymes with nature) is an economist from George Mason University, a lecturer at Towson University (my alma mater), and the most important intellectual and academic influence of my life, having opened me up a world of thinkers and ideas that I consider foundational to my worldview today. I can trace an intellectual development that shifted tremendously when, in the spring of 2017, when I first met Professor "Howie" Baetjer.
+Howard Baetjer (rhymes with nature) is an economist from George Mason University, a lecturer at Towson University (my alma mater), and the most important intellectual and academic influence of my life, having opened me up a world of thinkers and ideas that I consider foundational to my worldview today. I can trace an intellectual development that shifted tremendously when, in the spring of 2017, I first met Professor "Howie" Baetjer.
 
 The Professor teaches at Towson where he inspires legions of students every semester, teaching them to write and think more clearly about economics. We discuss several important ideas and topics, such as the socialist calculation debate, Hayek's 1945 article "The Use of Knowledge in Society", and the role of prices in coordinating activity.
 
