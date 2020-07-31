@@ -1,12 +1,12 @@
 ---
-title:  "Our Parts in Exile"
+title:  "Book Review: You Are The One You've Been Waiting For"
 excerpt: "A brief survey of Richard Schwartz's Internal Family Systems (IFS) therapy."
 layout: posts
 date:   2020-05-12
 toc: true
 ---
 
-I was drawn to Internal Family Systems (IFS) after an introduction by the inestimably curious and thoughtful Kaj Sotala. He wrote [a treatment of the entire subject](https://www.lesswrong.com/posts/5gfqG3Xcopscta3st/building-up-to-an-internal-family-systems-model) that goes into much more depth than I go into. What follows here is a review of the popular introduction to IFS written by its founder, Richard Schwartz, called [*You Are The One You've Been Waiting For*](https://www.amazon.com/Youve-Waiting-Internal-Family-Systems/dp/0615249329).
+I was drawn to Internal Family Systems (IFS) after an introduction by the inestimably curious and thoughtful Kaj Sotala. He wrote [a treatment of the entire subject](https://www.lesswrong.com/posts/5gfqG3Xcopscta3st/building-up-to-an-internal-family-systems-model) that goes into much more depth than I go into. What follows here is a brief review of the popular introduction to IFS written by its founder, Richard Schwartz, called [*You Are The One You've Been Waiting For*](https://www.amazon.com/Youve-Waiting-Internal-Family-Systems/dp/0615249329).
 
 In Schwartz's book, we learn that romantic relationships grow fractious because one or both of the partners have impossible expectations of their relationships, created in part by a culture which maintains that true happiness is partnership with a person who *makes* you happy. According to Schwartz, this expectation is not just inadvisible, it's impossible to satisfy. And yet that is, in the main, the expectation with which many of us come to relationships.
 
