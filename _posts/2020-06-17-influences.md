@@ -21,7 +21,7 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
 - [**The Last Psychiatrist**](https://thelastpsychiatrist.com/) - a ranting, raving mad psychiatrist going on about narcissim and ignorance
   - [This Is Why The American Dream Is Out Of Reach](https://thelastpsychiatrist.com/2010/08/this_is_why_the_american_dream.html)
   - [Hipsters on Food Stamps](https://thelastpsychiatrist.com/2012/11/hipsters_on_food_stamps.html)
-- **Howard Baetjer** - my college economics professor, the person who introduced me to the concepts of spontaneous orders, unintended consequences, and opportunity costs
+- **Howard Baetjer** - my college economics professor, the person who introduced me to the concepts of spontaneous orders, unintended consequences, and opportunity costs ([I interviewed him recently!](/howard-baetjer-economist))
 
 ## Those I find myself coming back to again and again
 
@@ -56,23 +56,23 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
 
 ## Individual essays
 
-- [The Inner Ring](https://www.lewissociety.org/innerring/) by C.S. Lewis
-- [6 Harsh Truths That Will Make You a Better Person](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/) by "David Wong"
-- [There's no speed limit](https://sivers.org/kimo) by Derek Sivers
-- [If you’re good, you need to talk more](https://davidklaing.com/talk-more/) by David Liang
+- ["The Inner Ring"](https://www.lewissociety.org/innerring/) by C.S. Lewis
+- ["6 Harsh Truths That Will Make You a Better Person"](https://www.cracked.com/blog/6-harsh-truths-that-will-make-you-better-person/) by "David Wong"
+- ["There's no speed limit"](https://sivers.org/kimo) by Derek Sivers
+- ["If you’re good, you need to talk more"](https://davidklaing.com/talk-more/) by David Liang
 
 ## Those who publish books
 
 - **Dave Foster Wallace**
-  - [*Good Old Neon*](http://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf) a short story on being a fraud
-  - [*Tense Present*](https://harpers.org/wp-content/uploads/HarpersMagazine-2001-04-0070913.pdf) is Dave Wallace at his rollicking, crackling best.
-  - [Quack This Way: David Foster Wallace & Bryan A. Garner Talk Language and Writing](https://amzn.to/2RmMSqk) - Writers on writing
-  - [*Roger Federer as Religious Experience*](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html)
+  - ["Good Old Neon"](http://sdavidmiller.com/octo/files/no_google2/GoodOldNeon.pdf) a short story on being a fraud
+  - ["Tense Present"](https://harpers.org/wp-content/uploads/HarpersMagazine-2001-04-0070913.pdf) is Dave Wallace at his rollicking, crackling best.
+  - [*Quack This Way: David Foster Wallace & Bryan A. Garner Talk Language and Writing*](https://amzn.to/2RmMSqk) - Writers on writing
+  - ["Roger Federer as Religious Experience"](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html)
 - **Bill Bryson**
-  - [A Short History of Nearly Everything](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html)
+  - [*A Short History of Nearly Everything*](https://www.nytimes.com/2006/08/20/sports/playmagazine/20federer.html)
   - My post detailing the hilarity of [*In A Sunburned Country*](/how-funny-is-bill-bryson)
 - Nassim Taleb
-  - [Antifragile: Things That Gain From Disorder](https://amzn.to/34riqAv)
+  - [*Antifragile: Things That Gain From Disorder*](https://amzn.to/34riqAv)
 - Absolutely will come back to this list.
 
 ## Those who Tweet
