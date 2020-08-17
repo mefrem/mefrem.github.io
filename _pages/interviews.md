@@ -21,12 +21,14 @@ Through the power of social media (+ being nice), it's never been more possible 
 
 ### 2020
 
-[Tyson Edwards](/tyson-edwards-youtuber) - YouTuber, Guinness World Record holder, athlete; June 2020.
+[Howard Baetjer](/howard-baetjer-economist) - Economist and lecturer at alma mater, Towson University; July.
 
-[Luke O'Geil](/luke-ogeil-coach) - gymnastics coach and strength trainer; April 2020.
+[Tyson Edwards](/tyson-edwards-youtuber) - YouTuber, Guinness World Record holder, athlete; June.
 
-[Alexey Guzey](/alexey-guzey) - independent researcher and writer; March 2020.
+[Luke O'Geil](/luke-ogeil-coach) - gymnastics coach and strength trainer; April.
+
+[Alexey Guzey](/alexey-guzey) - independent researcher and writer; March.
 
 ### 2019
 
-[Scott Sumner](/scott-sumner-economist) - monetary economist; December 2019.
+[Scott Sumner](/scott-sumner-economist) - monetary economist; December.
