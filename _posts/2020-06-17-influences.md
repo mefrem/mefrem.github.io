@@ -16,8 +16,10 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
 ## Those I owe an eternal debt of gratitude
 
 - [**Scott Alexander**](https://slatestarcodex.com/) - Despite his site being a de facto headquarters of the rationality community, his blog is *still* wildly underrated. His [top posts](https://slatestarcodex.com/about/) are a great place to start. Other pieces that matter to me:
-  - [Book Review: Secrets to our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/)
-  - [Book Review: Seeing like a State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/)
+  - [Book Review: Secrets to our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/) - a brilliant exposition of cultural evolution
+  - [Asymmetric Weapons Gone Bad](https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/) - traditions are stupid, right? And my intuitions as I navigate the terrain only and always tend towards truth?
+  - [Book Review: Seeing like a State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) - what does it look like from inside a state? 
+  - [Cardiologists and Chinese Robbers](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/) - how do we know how bad problems are?
 - [**The Last Psychiatrist**](https://thelastpsychiatrist.com/) - a ranting, raving mad psychiatrist going on about narcissim and ignorance
   - [This Is Why The American Dream Is Out Of Reach](https://thelastpsychiatrist.com/2010/08/this_is_why_the_american_dream.html)
   - [Hipsters on Food Stamps](https://thelastpsychiatrist.com/2012/11/hipsters_on_food_stamps.html)
@@ -29,11 +31,7 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
   - [Why You Should Start a Blog Right Now](https://guzey.com/personal/why-have-a-blog/)
   - [Every productivity thought I've ever had, as concisely as possible](https://guzey.com/productivity/)
   - [My interview with him](/alexey-guzey/)
-- [Patrick McKenzie](https://www.kalzumeus.com/) knows business, especially small and medium-sized businesses, the software economy, and how to think about them. [His twitter](twitter.com/patio11) is a veritable goldmine
-  - [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
-  - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-  - [Identy Theft, Credit Reports, and You](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) a primer on dealing with beuracracy
-- [Tyler Cowen](marginalrevolution.com) is an economist, head of the [George Mason economics department](https://slate.com/culture/2006/03/the-real-secret-of-george-mason-university.html), and runs the best economics blog, period. He's prodigious writer, having written some dozen or more books, hundreds of articles and papers, and has blogged daily for decades
+- [Tyler Cowen](marginalrevolution.com) is an economist, head of the [George Mason economics department](https://slate.com/culture/2006/03/the-real-secret-of-george-mason-university.html), and along with Alex Tabarrok runs the best economics blog, period. He's prodigious writer, having written some dozen or more books, hundreds of articles and papers, and has blogged daily for decades. He's not one to court controversy or get engaged in the frontlines of the culture war, but he's an ardent student of culture and its effects on human behavior
   - [Stubborn Attachments](https://amzn.to/37F0Ryp)
 - [Bryan Caplan](https://www.econlib.org/author/bcaplan/) has made twenty public bets with other academics and journalists since 2007 and has [won every single one](https://www.econlib.org/my-complete-bet-wiki/).
   - [The Case Against Education](https://amzn.to/39YpZzQ)
@@ -43,7 +41,11 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
   - [The Promise of Nominal GDP Targeting](https://www.mercatus.org/system/files/sumner-nominal-gdp-primer-mercatus-v1.pdf)
   - [Money/Macro needs to go back to the basics](https://www.themoneyillusion.com/moneymacro-needs-to-go-back-to-basics/)
   - [Never reason from a price change](https://www.themoneyillusion.com/never-reason-from-a-price-change/)
-- [Jacob Jalkovich](https://putanumonit.com/) is honest and funny, numbering 
+- [Patrick McKenzie](https://www.kalzumeus.com/) knows business, especially small and medium-sized businesses, the software economy, and how to think about them. [His twitter](twitter.com/patio11) is a veritable goldmine
+  - [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
+  - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
+  - [Identy Theft, Credit Reports, and You](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) a primer on dealing with beuracracy
+- [Jacob Jalkovich](https://putanumonit.com/) is honest and funny, putting numbers to things you wouldn't think work with numbers
   - [His February 27th coronavirus post](https://putanumonit.com/2020/02/27/seeing-the-smoke/) was the most persuasive "coronapill" post pre-national lockdown
   - [100 Ways to Live Better](https://putanumonit.com/2019/12/30/100-ways-to-live-better/)
   - [In Defense of Finance](https://putanumonit.com/2018/12/14/defense-of-finance/) is one of the best primers on the miracle of financial intermediation

@@ -19,13 +19,13 @@ Besides my census details—American, male, born in '91—the best way to get to
 
 Some salient features:
 
-- I am extremely extroverted and social
+- I am extremely extroverted and social. In the spirit of sharing psychological features in addition to a personal chronology, I'm 98th percentile extroverted, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on intellect/imagination per some 8-minute quiz
 - I've been a part of the [Rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers among the most important influences on my life
-- I spent several years during college doing community service, disaster relief, and trail-building across the American Midwest
+- I spent several years during college doing community service, disaster relief, and trail-building across the American Midwest. I lived in church attics, remote cabins, and tents. I met scores of people and came away with the confirmation that people are immensely decent
 - made dozens of lifelong friends on the internet who then became my friends irl
-- lived in Seoul, South Korea
+- lived in Seoul, South Korea, partied in Gangnam district, hiked the Seoraksan Mountains, handstood on Bukhansan (see below!)
 - I discovered in 2017 that you are not your thoughts, and have been meditating regularly ever since. I'm partial to the app Waking Up—write me for a free introductory month!
-- I'm a gymnast—you can see on the [fitness gram](https://www.instagram.com/maximally.me/)
+- I'm a gymnast—you can see on the [fitness gram](https://www.instagram.com/maximally.me/) 
 
 <center>
 
