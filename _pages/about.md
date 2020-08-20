@@ -15,16 +15,17 @@ share: false
 comments: True
 ---
 
-Besides my census details—American, male, born in '91—the best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov), [my influences](/influences) or email me at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com). If you're interested by what you've seen here, then I'm sure I'd like to hear from you. The comments on this page will serve as an AMA.
+Besides my census details—American, male, born in '91—the best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov), peek at [my influences](/influences) or write me at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com). If you're interested by what you've seen here, then I'm sure I'd like to hear from you. The comments on this page will serve as an AMA.
 
 Some salient features:
 
+- I am extremely extroverted and social
 - I've been a part of the [Rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers among the most important influences on my life
 - I spent several years during college doing community service, disaster relief, and trail-building across the American Midwest
 - made dozens of lifelong friends on the internet who then became my friends irl
 - lived in Seoul, South Korea
-- I discovered in 2017 that you are not your thoughts, and have been meditating regularly ever since. I'm partial to the app Waking Up—email me for a free introductory month!
-- I'm a gymnast—you can check out the [fitness gram](https://www.instagram.com/maximally.me/)
+- I discovered in 2017 that you are not your thoughts, and have been meditating regularly ever since. I'm partial to the app Waking Up—write me for a free introductory month!
+- I'm a gymnast—you can see on the [fitness gram](https://www.instagram.com/maximally.me/)
 
 <center>
 
