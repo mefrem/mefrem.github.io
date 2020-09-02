@@ -1,6 +1,6 @@
 ---
-title:  "What's Wrong With an Therapuetic Chatbot?"
-excerpt: "Discussing the intuitions around therapy, emotional support, and chatbots."
+title:  "What's Wrong With a Therapuetic Chatbot?"
+excerpt: "My intuitions around therapy, emotional support, and chatbots."
 layout: posts
 date:   2020-08-29
 toc: true
