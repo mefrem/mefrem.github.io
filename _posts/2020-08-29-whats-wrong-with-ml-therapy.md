@@ -1,5 +1,5 @@
 ---
-title:  "What's Wrong With a Machine Learning Emotional Support Chatbot?"
+title:  "What's Wrong With an Therapuetic Chatbot?"
 excerpt: "Discussing the intuitions around therapy, emotional support, and chatbots."
 layout: posts
 date:   2020-08-29
