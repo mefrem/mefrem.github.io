@@ -21,11 +21,16 @@ Start in a half lunge position with your dominant foot forward, front leg bent. 
 - The entry into the handstand—the transition from standing -> to bending lunge -> placing hands on the ground and kicking your body overhead—is a part of the handstand skill. Arriving at the stacked position requires a precise kick the result of muscle memory, itself the result of practice. Don’t let training the entry be an afterthought.
 
 There are three very common stumbling blocks: fear of inversion, shoulder immobility which precludes a proper stacked body, and strength and conditioning deficits in the arms and upper body.
+
 ## Fear
+
 “When a gymnast is stuck, it’s one of three things: she needs to be smarter, needs to be stronger, or needs to be braver.” - Coach Larry
+
 Inverting is scary. Without proper precaution, you risk head and neck injury. Keep your arms and elbows locked and extended. Practice falling. A safe training environment can mollify the fear, permitting the athlete to practice the skill with proper commitment.
 A safe environment could include a mat, the area immediately adjacent to your bed (where a fall would mean landing on your mattress), or outside on some grass. Practice exposure therapy: forward rolls simulate the feeling of being upside down. And, of course, the wall: with your back to it, place your hands on the ground and slowly walk your feet up.
+
 ## Shoulder Mobility
+
 I find shoulder mobility is a significant constraint to a balanced handstand, especially for adults with chronically inflexible joints, shoulder and otherwise, from a lifetime of relative neglect. That means in the inversion, instead of the 180° angle, the athlete has a partially closed shoulder position. This throws what would normally be a simply balanced shape out of alignment.
 Imagine if instead of standing upright, you closed your hips and threw your butt back. This would require a compensating force to maintain balance, so your chest must come forward. Similarly, a handstand with a closed shoulder necessitates a compensating force: an arched back.
 
@@ -34,7 +39,9 @@ Imagine if instead of standing upright, you closed your hips and threw your butt
 In a handstand with closed shoulders, the body is not stacked in an efficient way. The untrained athlete must compensate, often making large, sudden movements in a search for balance. Without a wall, the athlete will fall.
 Consider the effortlessness of standing. Besides a slightly engaged core, the only work being done is in the points of contact with the floor—your feet, ankles—making slight adjustments to keep you in balance. The hips are open, the body is stacked in alignment. This principle applies to the inversion.
 My preferred shoulder mobility exercises include these [weighted “shoulder openers”](https://twitter.com/maxefremov/status/1302343454085783552) , the [back bridge](https://www.youtube.com/watch?v=ZO82mkrObb8), and[the cat stretch](https://www.gymnasticbodies.com/fix-chronically-tight-shoulders-cat-stretch/).
+
 ## Arm, hand, and wrist conditioning
+
 Your feet have undergone a lifetime of keeping you upright. Similarly, your hands, wrists, arms, and core need training to provide you a handstand.
 
 - [Warm up your wrists](https://www.youtube.com/watch?v=SV3HI95IfhE) before each session.
