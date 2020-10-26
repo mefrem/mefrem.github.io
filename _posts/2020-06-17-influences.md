@@ -44,7 +44,7 @@ Here is an incomplete list of writers and thinkers I read, admire, or find most 
 - [Patrick McKenzie](https://www.kalzumeus.com/) knows business, especially small and medium-sized businesses, the software economy, and how to think about them. [His twitter](twitter.com/patio11) is a veritable goldmine
   - [Don't Call Yourself A Programmer, And Other Career Advice](https://www.kalzumeus.com/2011/10/28/dont-call-yourself-a-programmer/)
   - [Salary Negotiation: Make More Money, Be More Valued](https://www.kalzumeus.com/2012/01/23/salary-negotiation/)
-  - [Identy Theft, Credit Reports, and You](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) a primer on dealing with beuracracy
+  - [Identy Theft, Credit Reports, and You](https://www.kalzumeus.com/2017/09/09/identity-theft-credit-reports/) a primer on dealing with bureaucracy
 - [Jacob Jalkovich](https://putanumonit.com/) is honest and funny, putting numbers to things you wouldn't think work with numbers
   - [His February 27th coronavirus post](https://putanumonit.com/2020/02/27/seeing-the-smoke/) was the most persuasive "coronapill" post pre-national lockdown
   - [100 Ways to Live Better](https://putanumonit.com/2019/12/30/100-ways-to-live-better/)
