@@ -19,9 +19,11 @@ Previous:
 
 This is my ["now"](https://nownownow.com/about) page, inspired by [Derek Sivers.](https://sivers.org/nowff)
 
-Goodness gracious. So it's `October 2020`, and *a lot* has changed since July.
+## October 2020
 
-I got my first tech job (!!) as a natural language processing data scientist for the data and insights team of a midsized healthcare firm. A year ago I didn't know how to code. Lambda School worked: There's a direct line between my project work and what I was able to effectively signal and communicate to my now-employers. I'll never forget the feeling, after hundreds of applications and dozens of unrealized prospects, the point in the final interview when the hiring manager said, "Ok. Max. We put together a package we think you'll be very excited by." And I thought, Holy shit. It's happening! After dropping out of college in 2012, team leading in AmeriCorps, traveling the country for a few years doing disaster relief and community service, coming back to finish college by 2019... I had never made more than $25,000 a year in my life. No longer the case.
+*A lot* has changed since July.
+
+I got my first tech job (!) as a natural language processing data scientist for the data and insights team of a midsized healthcare firm. A year ago I didn't know how to code. Lambda School worked: There's a direct line between my project work and what I was able to effectively signal and communicate to my now-employers. I'll never forget the feeling, after hundreds of applications and dozens of unrealized prospects, the point in the final interview when the hiring manager said, "Ok. Max. We put together a package we think you'll be very excited by." And I thought, Holy shit. It's happening! After dropping out of college in 2012, team leading in AmeriCorps, traveling the country for a few years doing disaster relief and community service, coming back to finish college by 2019... I had never made more than $25,000 a year in my life. No longer the case.
 
 Somehow even more significantly than that development: Today, Monday the 26th of October, marks four weeks of living in Austin, Texas, and the raw dynamism, opportunity, and space for possibility has exceeded my every expectation. Why did I move? There were pulls and pushes. I had been outgrowing my hometown for a while, though had school to finish and then about a year of gymnastics training and Lambda School (which I resolved to pursue in a bungalow in Pai, Thailand during the winter break before my last semester of college).
 
