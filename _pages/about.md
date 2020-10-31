@@ -15,18 +15,17 @@ share: false
 comments: True
 ---
 
-I'm Max. I'm a machine learning engineer, podcaster, and adult gymnast. The site is a document of my experiments, thoughts, and frequent em dashes.
+I'm Max. Hi.
 
-Besides my census details—American, male, born in '91—the best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov), peek at [my influences](/influences) or write me at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com). If you're interested by what you've seen here, then I'm sure I'd like to hear from you. The comments on this page will serve as an AMA.
+Besides my census details—American, male, born in '91—the best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov), or take a peek at [my influences](/influences). If you're interested by what you've seen here, then I'm sure I'd like to hear from you. AMA in the comments.
 
 Some salient features:
 
-- I am extremely extroverted, social, and warm. Gwern started a tradition of including your big five personality metrics: I'm 98th percentile extroverted, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on intellect/imagination according to some 8-minute quiz
-- I've been a part of the [Rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers among the most important influences on my life
-- I spent several years during college doing community service, disaster relief, and trail-building across the American Midwest. I lived in church attics, remote cabins, and tents. I met scores of people and came away with the confirmation that people are immensely decent
-- made dozens of lifelong friends on the internet who then became my friends irl
+- I am extremely extroverted. Gwern started a tradition of including your big five personality metrics: I'm 98th percentile extroverted, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz
+- I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers among the most important influences on my life
+- I spent several years during college doing community service and disaster relief across the American Midwest. I met lots of people and came away with the confirmation that people are good and immensely decent
+- made lots of lifelong friends on the internet who then became my friends irl
 - lived in Seoul, South Korea, partied in Gangnam district, hiked the Seoraksan Mountains, handstood on Bukhansan (see below!)
-- I discovered in 2017 that you are not your thoughts, and have been meditating regularly ever since. I'm partial to the app Waking Up—write me for a free introductory month!
 - I'm a gymnast and all-around athlete interested in health and longevity—check out the [fitness gram](https://www.instagram.com/maximally.me/)
 
 <center>
