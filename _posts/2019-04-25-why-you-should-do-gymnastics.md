@@ -68,7 +68,12 @@ If by the end of the warmup I'm not fully present, then the skills-based apparat
 
 The first few practices might be humbling. You might be sore in places you didn’t you know had muscles. Your wrists, after a lifetime of typing, might rebuke you for your cartwheels. But the sport grabs you, with its feats of strength and coordination that boggle the mind, and keeps you coming back.
 
-And after enough times of showing up to the gym, you find yourself with something that resembles a habit. Or even approximates self-discipline. And don't forget to show off to your friends.
+And after enough times of showing up to the gym, you find yourself with something like a habit.
 
-<sub>
-*In a later post, I can outline the eight unique apparatuses gymnasts train on—men train the still rings, parallel bars, high bar, and pommel horse, women the uneven bars and beam, and both train the vault and floor—as well as point towards low hanging fruit to set your sights on.*</sub>
+## Next Steps
+
+Look up a local gymnastics facility. Visit their website or call them and inquire as to their schedule for open gym or drop-in sessions. Most gyms have these. (I've also convinced a gym owner to start sessions just for my benefit!) At these sessions, there is usually a coach or facilitator. They can help you warm up and take you through floor "basics"—forward rolls, handstands, cartwheels, round-offs, etc. Once you've demonstrated yourself and are interested, they can show you some more advanced techniques and drills. Other athletes attending drop-in sessions are usually practicing skills and if you ask nicely they can show you what they're working on.
+
+It's natural to be a little intimidated. A gymnastics facility is big and kind of scary—what do all these different apparatusses do?? Do I hang on it or jump over it? But fear not: gymnastics coaches uniformly have an abiding love of the sport and understand how difficult it is for newcomers. They can instruct and explain the sport's equipment, intracacies, and skills.
+
+And if you're interested and [nearby](/now), I would happily host you at a training session and show you the ropes!
