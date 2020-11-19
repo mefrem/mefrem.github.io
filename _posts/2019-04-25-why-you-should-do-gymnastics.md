@@ -43,26 +43,28 @@ Despite what you would imagine seeing triple back-flips on the floor, gymnastics
 
 - Gymnastics training is drilling until mastery of more basic elements enables progressively more difficult ones. Simply put, there is an enormous emphasis on preparation, coaching, and safety.
 - Gymnastics programming entails more mobility and stretching than any other sport. You'll be able to touch your toes again.
-- Taking turns practicing elements entails thought out, planned, and coordinated movements. 
+- Taking turns practicing elements entails thought out, planned, and coordinated movements. The sport is choreographed, unlike the unpredictable collisions of contact sports.
 
 ## Gymnastics is intrinsically motivating
 
-It's said that self-discipline is preferable to motivation because the former is “process-oriented," less concerned with outcomes. Motivation is an ephemeral feeling that you can’t rely on for durable change in your life. That sounds sensible like sensible--why doesn't everyone just load up on “having self-discipline”! But how do you start? We're back to motivation, which we know is fickle. Here’s why gymnastics is great:
+When it comes to acquiring skills or achieving milestones that require concerted, long-term effort, discipline is preferable to motivation. Discipline is what gets you in the gym when part of you would rather not. Motivation is an ephemeral feeling that you can’t rely on for durable change in your life.
+
+That sounds sensible--simply load up on “having self-discipline”! But how do you start? We're back to motivation to kick start the entire process, which we know is fickle. Here’s why gymnastics is great:
 
 *Gymnastics can reliably motivate you to get to the gym.*
 
 The sport has three intrinsic motivators:
 
-- There are countless skills to learn. The most complicated routines are built upon a mind-bogglingly large pyramid of more basic elements, all the way down to the most rudimentary movements like stretching and shaping your body. I've been at the sport a while, and I still encounter new movements I've never heard of before. That means you can start at any level, and there will be no end to what you can tackle next.
-- The sport epitomizes problem-solving. While there are plenty of sklls that require more strength, a lot of skills require changes in technique. There's no thrill like feeling your first successful cartwheel, back-flip, or twisting element. 
-- Which brings me to the third, arguably most motivating aspect of the sport: It looks cool. At some point, I have to come out and say it. A handstand, a back flip, a planche, an iron cross are deeply impressive. There’s the obvious strength that these body movements communicate, but there’s a grace, strength, and commitment signaled that you simply can’t fake. I don’t think it's controversial to say that gymnastics is the most popular sport at the Olympics for precisely these reasons.
+- There are countless skills to learn. The most complicated routines are built upon a mind-bogglingly large pyramid of more basic elements, all the way down to the most rudimentary movements like stretching and shaping your body. I've been at the sport a while, and I still encounter new movements that immediately interest me I've never heard of before. That means you can start at any level, and there will be no end to what you can tackle next.
+- The sport epitomizes problem-solving. While there are plenty of sklls that require more strength, a lot of skills require changes in technique. There's no thrill like feeling your first successful cartwheel, back-flip, or twisting element. The other sport that embodies this for me is rock climbing: there's a cerebral problem-solving element to it.
+- Which brings me to the third, arguably most motivating aspect of the sport: It looks cool. At some point, you just have to call it like it is. A handstand, a back flip, an iron cross are impressive. There’s the obvious strength that these body movements communicate, but there’s a grace, strength, and commitment signaled that you simply can’t fake. I don’t think it's controversial to say that gymnastics is the most popular sport at the Olympics for precisely these reasons.
 
 ![Planche](/assets/images/why_you_should_do_gymnastics/planche.jpg "Planche, the pinnacle of bodyweight strength")
 <sup><sub>The planche -- pinnacle of bodyweight strength</sub></sup>
 
 ## Why I love it
 
-The reason I love training is because of its magical, mood-altering effects. I've often arrived to the gym in a funk--a depressive affect borne of the thousand reasons we all find ourselves funky, caught in a scrim of the negative self-talk and thought circles. And then I have to warm up. 
+The reason I love training is because of its magical, mood-altering effects. I've often arrived to the gym in a funk--a depressive affect borne of the thousand reasons we all find ourselves funky, caught in a scrim of the negative self-talk and thought circles. And then I have to warm up.
 
 If by the end of the warmup I'm not fully present, then the skills-based apparatus training does the trick. Taking good turns--feeling the timing, the movement of the body, remembering corrections mid-turn despite ingrained bad habits--requires total focus. Doing that for a few hours resets your psychology and physiology. That's why I practically never leave the gym without feeling refreshed, physically as well as emotionally. I feel full of agency and good cheer. And yea, I did a double back flip. That's awesome.
 
