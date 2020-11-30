@@ -35,6 +35,8 @@ In the middle of the *99% Invisible*'s episode you hear from the founder of a me
 
 And in that moment, I thought Oh, I *get it*—I want to try Woebot. But isn’t Woebot just a statistical model, the output of which reflects the representation and distribution of words in its training data, i.e. not a human?
 
-For my mental health, a chatbot that prompts me to reflect on my thoughts, is on the lookout for cognitive distortions, and sends me over the top feel-good GIFs   is *exactly* what I’m looking for 90% of the time I have a spike of anxiety or a bad brain day. I just need a little guidance, even if it’s algorithmic or mechanical. The process of CBT is what’s desirable, not necessarily human sympathy (although of course that’s desirable, too; I just get it elsewhere).
+For my mental health, a chatbot that prompts me to reflect on my thoughts, is on the lookout for cognitive distortions, and sends me over the top feel-good GIFs is sufficient for the 90% of the time I have a spike of anxiety or a bad brain day. I just need a little guidance, even if it’s algorithmic or mechanical. The results of the process of CBT is what’s desirable, not necessarily human sympathy (although of course that’s desirable, too; I just get it elsewhere).
 
-Realizing that made me ease up a little bit towards AI Dungeon users. I doubt any of them think there’s a human on the other side. Their utility comes from, while knowing in the abstract what powers the game, enjoying the process anyway.
+That tail of bad-brain-day distribution, though. Not sure that's amenable to AI. ("*Yet.*" says VC twitter.)
+
+Realizing that there is an positive epiphenomonal quality to artificial social interaction made me ease up a little bit towards AI Dungeon users, despite my initial intuition that it's bad. I doubt any of them think there’s a human on the other side. Their enjoyment comes nonetheless. Should we disqualify or problematicize that joy simply because it doesn't involve a human?
