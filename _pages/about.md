@@ -15,7 +15,7 @@ share: false
 comments: True
 ---
 
-I'm Max. Hi.
+Hi. I'm Max.
 
 Besides my census details—American, male, born in '91—the best way to get to know me would be to read the site, increasingly my [Twitter](https://twitter.com/maxefremov), or take a peek at [my influences](/influences). If you're interested by what you've seen here, then I'm sure I'd like to hear from you. I'm bullish about my internet friends.
 
