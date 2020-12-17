@@ -14,7 +14,7 @@ footer: false
 share: false
 ---
 
-## Maximize
+## And Maximize
 
 The world is complex. Are you making an optimal decision? Are you forgetting something important? Is optimization even the right frame?
 
@@ -22,9 +22,9 @@ By dint of the non-traditional path I've taken, I'm intimately familiar with the
 
 - mastering my body, eating habits, and physical training schedule
 - changing careers into tech and being accorded a lifechanging income
-- uprooting my life and moving to the city with the brightest future in America: Austin, Texas
+- uprooting and moving to the city with the brightest future in America: Austin, Texas
 - owning my sundry emotions, extirpating the shame we all exit childhood with
-- approaching strangers with captivating energy, making friends
+- approaching strangers with captivating energy, making friends, navigating dizzyingly high status and successful worlds
 - leveling up skills, habits, feats of strength; from handstand push-ups to coding, morning routines, and knowledge management
 - toggling between sprinting the race, running the marathon, and knowing when not playing the game at all
 
