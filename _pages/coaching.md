@@ -16,17 +16,14 @@ share: false
 
 ## And Maximize
 
-The world is complex. Are you making an optimal decision? Are you forgetting something important? Is optimization even the right frame?
-
 By dint of the non-traditional path I've taken, I'm intimately familiar with the details of:
 
-- mastering my body, eating habits, and physical training schedule
+- uprooting and moving to the city with the brightest future in America—Austin, Texas—and creating community
+- mastering my body, eating habits, and physical training program
 - changing careers into tech and being accorded a lifechanging income
-- uprooting and moving to the city with the brightest future in America: Austin, Texas
-- owning my sundry emotions, extirpating the shame we all exit childhood with
-- approaching strangers with captivating energy, making friends, navigating dizzyingly high status and successful worlds
-- leveling up skills, habits, feats of strength; from handstand push-ups to coding, morning routines, and knowledge management
-- toggling between sprinting the race, running the marathon, and knowing when not playing the game at all
+- owning my sundry emotions, extirpating the shame with which we all leave childhood
+- approaching strangers, making friends
+- leveling up skills, habits, feats of strength; from handstand push-ups to software development
 
-I live to serve. Please find me if you think you'd benefit from a conversation with me.
+Please find me if you think you'd benefit from a conversation.
 <a href="mailto:maxim.efremov@gmail.com?subject=Coaching">Email me</a> with coaching in the subject.
