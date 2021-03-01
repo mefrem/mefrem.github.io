@@ -17,16 +17,15 @@ comments: True
 
 Hi. I'm Max.
 
-I'm a lot of things. The best way to get to know me would be to read the site, increasingly my [Twitter](https://twitter.com/maxefremov) and on Clubhouse (@mefrem). See what I'm up to [now](/now/), or take a peek at [my influences](/influences). If you're interested by what you've seen here, then I'm sure I'd like to hear from you. I'm bullish about my internet friends.
+I'm a lot of things. The best way to get to know me would be to read the site, increasingly my [Twitter](https://twitter.com/maxefremov) and on Clubhouse (@mefrem). See what I'm up to [now](/now/), or take a peek at [my influences](/influences). If you're interested by what you've seen here, want to chat or get a coffee, send me a note.
 
 Some salient features:
 
-- I am extremely extroverted. Gwern started a tradition of including your big five personality metrics: I'm 99th percentile extroverted, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz. I'm earnest, warm, socially fearless, approachable, curious. Authentic and genuine is a word I hear a lot
-- I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers among the most important influences on my life. There's a line clear from the grey tribe and blogs like Slate Star Codex to my moving to Austin
-- I spent several years during college doing community service and disaster relief across the American Midwest. I met lots of people and came away with the confirmation that people are good and immensely decent
-- I lived in Seoul, South Korea, partied in Gangnam, hiked Seoraksan in fall 2018
-- I've had a lifelong interest in understanding our inner world: shame, its purpose, its exteripation, abundance and scarcity, internal family systems psychotherapy, and psychedelic science and research
-- I'm a gymnast! check out the [fitness gram](https://www.instagram.com/maximally.me/) and [fitness page](/fitness) here
+- [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm 99th percentile extroverted, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz.
+- I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers among the most important influences on my life. There's a line clear from my reading Slate Star Codex to my career change, move to Austin
+- I spent several years during college doing community service and disaster relief across the American Midwest. I met lots of people and came away with the conviction that people are immensely decent.
+- I've had a lifelong interest in our inner world: shame, its purpose, its exteripation, abundance and scarcity mindsets, internal family systems psychotherapy, and psychedelic science and research
+- I'm a gymnast—check out the [fitness gram](https://www.instagram.com/maximally.me/) and [fitness page](/fitness)
 
 <center>
 
