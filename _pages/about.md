@@ -17,7 +17,7 @@ comments: True
 
 Hi. I'm Max.
 
-I'm a lot of things. The best way to get to know me would be to read the site, increasingly my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/), or take a peek at [my influences](/influences). If you're interested by what you've seen here, want to chat or get a coffee, send me a note.
+I'm a lot of things. The best way to get to know me would be to read the site, increasingly my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences). If you're interested by what you've seen here, want to chat or get a coffee, send me a note.
 
 Some salient features:
 
