@@ -16,7 +16,7 @@ share: false
 
 ## And Maximize
 
-By dint of the non-traditional path I've taken, I'm intimately familiar with the details of:
+By dint of the non-traditional path I've taken, I have experience with:
 
 - uprooting and moving to the city with the brightest future in America—Austin, Texas—and creating community
 - mastering my body, eating habits, and physical training program
