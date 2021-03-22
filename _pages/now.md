@@ -14,6 +14,9 @@ footer: false
 share: false
 ---
 
+<a target="_blank" href="https://calendar.google.com/event?action=TEMPLATE&amp;tmeid=NHFkMDNxcjN1a29uZzQ2N2VtYXNoOXZiZWkgcHFya3QwNXVhYzA0bjFwbThnbThibTRnNmdAZw&amp;tmsrc=pqrkt05uac04n1pm8gm8bm4g6g%40group.calendar.google.com"><img border="0" src="https://www.google.com/calendar/images/ext/gc_button1_en.gif"></a>
+
+
 Previous:
 [July 2020](https://github.com/mefrem/mefrem.github.io/commit/e05bc4978ca2c3e1954959d566d0a10ed24571d2)
 
