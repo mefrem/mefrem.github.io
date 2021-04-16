@@ -16,21 +16,20 @@ share: false
 
 Previous:
 [July 2020](https://github.com/mefrem/mefrem.github.io/commit/e05bc4978ca2c3e1954959d566d0a10ed24571d2)
+October 2020
 
 This is my ["now"](https://nownownow.com/about) page, inspired by [Derek Sivers.](https://sivers.org/nowff)
 
-## October 2020
+## April 2021
 
-*A lot* has changed since July.
+I lasted six months almost to the day in what could fairly be described as a very good job before I quit.
 
-I got my first tech job (!) as a natural language processing data scientist for the data and insights team of a midsized healthcare firm. A year ago I didn't know how to code. Lambda School worked: There's a direct line between my project work and what I was able to effectively signal and communicate to my now-employers. I'll never forget the feeling, after hundreds of applications and dozens of unrealized prospects, the point in the final interview when the hiring manager said, "Ok. Max. We put together a package we think you'll be very excited by." And I thought, Holy shit. It's happening! After dropping out of college in 2012, team leading in AmeriCorps, traveling the country for a few years doing disaster relief and community service, coming back to finish college by 2019... I had never made more than $25,000 a year in my life. No longer the case.
+I was a natural language processing data scientist at a healthcare firm, extracting information from text-based medical records to create a machine-learned data product. It was really fun learning how to solve the problem, but I grew bored iterating more features. It became a struggle to fully show up at my remote job. All the while, the life around me in Austin was *taking off*: an incredible community surrounded me, opportunities for interesting work abounded, and I had caught the bug of crypto investing. Before I knew it, it felt right in my bones to quit, so late February I did.
 
-Somehow even more significantly than that development: Today, Monday the 26th of October, marks four weeks of living in Austin, Texas, and the raw dynamism, opportunity, and space for possibility has exceeded my every expectation. Why did I move? There were pulls and pushes. I had been outgrowing my hometown for a while, though had school to finish and then about a year of gymnastics training and Lambda School (which I resolved to pursue in a bungalow in Pai, Thailand during the winter break before my last semester of college).
+Right now, I’m working on:
 
-The pull? Have you been to Austin? It's an adult wonderland, a nexus of play and healing and opportunity, and not to mention... home to many Twitter mutuals! The story of my move probably starts there, with the decision to meet them in late August. I've been a part of a DM group for over a year—people, I'm telling you: DM your heroes—and a sizeable number of the group lives in Austin. With the lattitude afforded me by my remote job, I crashed a couch for a week. One day I went paddleboarding and met my now-roommates. We hit it off so thoroughly that, the next day when they offered me a room to stay in, I decided hell yes. I couldn't be happier with them, the house, and the neighborhood.
+- direct action on and advocacy for immigration reform through *[IDEAL Immigration](https://www.idealimmigration.us/)*, a non-profit. At the intersection of human flourishing, economic growth, and human liberty is *more immigration*. This project is the culmination of my years of study of government interventionism, the conditions for economic growth and human development, and my intellectual collision with [Bryan Caplan](https://www.amazon.com/Open-Borders-Science-Ethics-Immigration/dp/1250316960). It was he who introduced me to Steve Kuhn, the founder of *IDEAL*, and Bryan is why I have the opportunity to instantiate what might be currently the most underrated, effective altruist idea there is: more legal immigration.
+- adult gymnastics and acrobatics training. Early April saw me on an eight-day *traincation* in Las Vegas. Vegas is home to the world’s best Cirque du Soleil and circus performance acts, so the training facilities are world-class. I traveled with 15 other acrobats, fire spinners, and performers as we contorted, stood on our hands, or otherwise flipped through sin city. Now that I’m back in Austin, I have a number of skills I’m looking to attain, as well as... maybe *model underwear*?
+- the crypto economy. Crypto is staggeringly exciting, and shows *immense* promise to change the future. And nothing builds my conviction more than showing people what’s possible. I’ve taken up coaching and tutoring people on the intricacies of the space, and have received astonishingly positive feedback. I’m interested in working in the space more fully as time and progress on all these other ventures allow.
 
-A lot has happened in these four weeks. I've met some very cool people. Some exciting opportunities have developed, more to come soon! My new environment means a chance to more intentionally revisit habits and behaviors. After years of reading about personal finances, I finally started my retirement account proper, with a little bit of active investing.
-
-If you're in Austin, send me a DM or email!
-
-And for a shorter update, plus some of my inputs from the last few weeks, check out the [latest newsletter](https://maxefremov.substack.com/p/maxs-very-occasional-update-2).
+As always, if you’re in Austin, send me a note or [Twitter DM!](https://twitter.com/maxefremov).
