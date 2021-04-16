@@ -17,21 +17,21 @@ comments: True
 
 Hi. I'm Max.
 
-I'm a lot of things. The best way to get to know me would be to read the site, increasingly my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences). If you're interested by what you've seen here, want to chat or get a coffee, send me a note.
+I'm a lot of things. The best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences).
 
 Some salient features:
 
-- [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm 99th percentile extroverted, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz.
-- I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its blogs and thinkers among the most important influences on my life. There's a line clear from my reading Slate Star Codex to my career change, move to Austin
+- [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm through-the-roof extroverted—99th percentile, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz.
+- I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its members among the most important influences on my life. There's a line from my reading Slate Star Codex to the most important details and results of my life.
 - I spent several years during college doing community service and disaster relief across the American Midwest. I met lots of people and came away with the conviction that people are immensely decent.
-- I've had a lifelong interest in our inner world: shame, its purpose, its exteripation, abundance and scarcity mindsets, internal family systems psychotherapy, and psychedelic science and research
-- I'm a gymnast—check out the [fitness gram](https://www.instagram.com/maximally.me/) and [fitness page](/fitness)
+- I've had a lifelong interest in our inner world: shame, its purpose, its exteripation, abundance and scarcity mindsets, internal family systems psychotherapy, psychedelic science and research, and authentic representation and connection
+- I'm a gymnast, acrobat, and handbalancer—check out the [fitness gram](https://www.instagram.com/maximally.me/) and [fitness page](/fitness)
 
 <center>
 
-<img src="/assets/images/handstands/shenandoah.jpg" alt="Shenendoah, Virgina" width="250"/>
+<img src="/assets/images/handstands/onehanded.jpg" alt="One-handed handstand" width="250"/>
 
-<img src="/assets/images/handstands/bukhansan.jpg" alt="Bukhansan, Seoul, Korea" width="250"/>
+<img src="/assets/images/handstands/planche.jpg" alt="Straddle planche" width="250"/>
 
 <center>
 

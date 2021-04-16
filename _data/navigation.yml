@@ -6,8 +6,8 @@ main:
     url: /about/
   - title: "Coaching"
     url: /coaching/
-  - title: "Machine Learning"
-    url: /machine-learning/
+  # - title: "Machine Learning"
+  #   url: /machine-learning/
   - title: "Interviews"
     url: /interviews/
   - title: "Fitness"
