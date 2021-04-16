@@ -16,7 +16,7 @@ share: false
 
 Previous:
 [July 2020](https://github.com/mefrem/mefrem.github.io/commit/e05bc4978ca2c3e1954959d566d0a10ed24571d2)
-October 2020
+[October 2020](https://github.com/mefrem/mefrem.github.io/commit/01e0747d441a4ac868b75960211512aa27357c4c?branch=01e0747d441a4ac868b75960211512aa27357c4c&diff=split)
 
 This is my ["now"](https://nownownow.com/about) page, inspired by [Derek Sivers.](https://sivers.org/nowff)
 
