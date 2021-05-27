@@ -16,11 +16,18 @@ share: false
 
 ## Maximize
 
-I primarily consult and coach clients on the crypto economy: on-boarding funds, yield farming, liquidity providing, project valuations, etc. I have provided services to those spanning the range of experience and familiarity—from complete newcomers to high net worth individuals with traditional investment experience. My services include:
+In addition to gymnastics coaching and training, I primarily consult and coach clients on the crypto economy: getting started, on-boarding funds, sources of return, providing a picture of the investment landscape, risk management, project valuations, etc. I have provided services to those spanning the range of experience and familiarity—from complete newcomers to high net worth individuals with traditional investment backgrounds.
 
-- Free consultation: [book session here](https://calendly.com/maxim-efremov/15min)
-- Hourly consulting at $250 an hour: [book an hour here](https://calendly.com/maxim-efremov/60min?month=2021-05)
-- Half-day strategy session: Email me at maxim.efremov@gmail.com
+The service typically starts with an assessment of your specific needs, which have historically included: improving your relationship with money, understanding crypto, using DeFi protocols, hedging your investment and crypto ["FOMO"](https://www.urbandictionary.com/define.php?term=Fomo), earning safe returns on stablecoins in excess of traditional instruments.
+
+My services include:
+
+- A free consultation: [book session here](https://calendly.com/maxim-efremov/15min)
+- Hourly consulting and coaching
+- Half-day or more coaching and strategy session: Email me with "Half-day coaching" in the subject line and we can set up a time
+- "Max Access" -- direct, ongoing communication with me about your questions, developments, project announcements
+
++Email me right now at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com) to start planning your coaching session.
 
 <!-- By dint of the non-traditional path I've taken, I've come into a lot of experiences:
 
