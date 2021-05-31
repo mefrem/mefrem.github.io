@@ -23,11 +23,11 @@ The service typically starts with an assessment of your specific needs, which ha
 My services include:
 
 - A free consultation: [book session here](https://calendly.com/maxim-efremov/15min)
-- Hourly consulting and coaching
-- Half-day or more coaching and strategy session: Email me with "Half-day coaching" in the subject line and we can set up a time
-- "Max Access" -- direct, ongoing communication with me about your questions, developments, project announcements
+- Hourly consulting and coaching: [Email link](mailto:maxim.efremov@gmail.com) or [book a session now for $300 an hour](https://calendly.com/maxim-efremov/60-minute-coaching?month=2021-05)
+- Half-day or more in-person coaching and strategy session: [Email link](mailto:maxim.efremov@gmail.com) with "Half-day coaching" in the subject line and we can set up a time
+- "Max Access" -- direct, ongoing communication with me about your questions, developments, project announcements: [Email link](mailto:maxim.efremov@gmail.com) to discuss retaining me
 
-+Email me right now at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com) to start planning your coaching session.
+**Email me right now at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com) to kickstart your digital fluency and modern independence.**
 
 <!-- By dint of the non-traditional path I've taken, I've come into a lot of experiences:
 
