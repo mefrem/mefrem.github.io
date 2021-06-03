@@ -18,7 +18,7 @@ share: false
 
 I primarily consult and coach clients on the crypto economy: getting started and crypt fundamentals, on-boarding funds, decentralized finance or DeFi, sources of return, providing a picture of the investment landscape, risk management, project valuations, etc. I have provided services to those spanning the range of experience and familiarity—from complete newcomers to high net worth individuals with traditional investment backgrounds.
 
-The service typically starts with an assessment of your specific needs, which have historically included: improving your relationship with money, understanding crypto, using DeFi protocols, hedging your investment and crypto ["FOMO"](https://www.urbandictionary.com/define.php?term=Fomo), earning safe returns on stablecoins in excess of traditional instruments.
+The service typically starts with an assessment of your specific needs, which have historically included: improving your relationship with money, understanding crypto, using DeFi protocols, hedging your investment and crypto FOMO, earning safe returns on stablecoins in excess of traditional instruments.
 
 My services include:
 
@@ -27,7 +27,7 @@ My services include:
 - Half-day or more in-person coaching and strategy session: [Email link](mailto:maxim.efremov@gmail.com) with "Half-day coaching" in the subject line to discuss a time and place
 - "Max Access" -- direct, ongoing communication with me about your questions, developments, project announcements: [Email link](mailto:maxim.efremov@gmail.com) to discuss retaining me
 
-**Email me right now at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com) to kickstart your digital fluency and modern independence.**
+**Email me at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com)**
 
 <!-- By dint of the non-traditional path I've taken, I've come into a lot of experiences:
 
