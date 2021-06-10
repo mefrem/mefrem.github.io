@@ -16,9 +16,9 @@ share: false
 
 ## Maximize
 
-I primarily consult and coach clients on the crypto economy: getting started and crypt fundamentals, on-boarding funds, decentralized finance or DeFi, sources of return, providing a picture of the investment landscape, risk management, project valuations, etc. I have provided services to those spanning the range of experience and familiarity—from complete newcomers to high net worth individuals with traditional investment backgrounds.
+I primarily consult and coach clients on the crypto economy: from on-boarding funds, to DeFi, yield farming, project valuations and risk management, etc. I've coached complete newcomers, high net worth individuals, and organizations.
 
-The service typically starts with an assessment of your specific needs, which have historically included: improving your relationship with money, understanding crypto, using DeFi protocols, hedging your investment and crypto FOMO, earning safe returns on stablecoins in excess of traditional instruments.
+The service typically starts with an assessment of your specific needs, which have historically included: personal finance, using DeFi protocols, hedging your investment and crypto FOMO, earning safe returns on stablecoins in excess of traditional instruments.
 
 My services include:
 
