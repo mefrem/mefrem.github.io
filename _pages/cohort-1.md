@@ -40,7 +40,7 @@ And tons of details and general concepts, like level 1 chains versus level 2, Ar
 
 And then, of course, alpha. What I'm in, my friends are in, etc.
 
-**Join now so we can get started. The first group call will be Thursday, June 17th at 5pm CST (and recorded for your benefit).**
+**Join now so we can get started. The first group onboarding call will be Thursday, June 17th at 5pm CST (and recorded for your benefit). The course will start Tuesday June 29th.**
 
 <!-- By dint of the non-traditional path I've taken, I've come into a lot of experiences:
 
