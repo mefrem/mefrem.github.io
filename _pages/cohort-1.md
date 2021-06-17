@@ -1,7 +1,7 @@
 ---
 permalink: /cohort-1/
-title: "Cohort 1 of Zero to Crypto"
-excerpt: "Landing page of Zero to Crypto course with course content outlined"
+title: "Cohort 1 of Max Yields"
+excerpt: "Landing page of Max Yields course"
 layouts_gallery:
   - url: assets/images/pretty_scenes/Thailand_scene.jpg
     image_path: assets/images/pretty_scenes/Thailand_scene.jpg
@@ -15,7 +15,7 @@ share: false
 
 ## You're now getting an early peek into the future of finance
 
-Join the first cohort of my crypto course: weekly group webinars, Q+A calls, 1:1 time with Max, and one year, ongoing access to a community Discord with Max and his friends and your cohort as you onboard your funds and are shown exactly how to leverage DeFi—decentralized finance—to obtain high yield savings accounts, autocompounding investments, and returns not seen in the traditional financial world.
+Join the first cohort of Max Yields, my crypto course: weekly group webinars, Q+A calls, 1:1 time with Max, and one year, ongoing access to a community Discord with Max and his friends and your cohort as you onboard your funds and are shown exactly how to leverage DeFi—decentralized finance—to obtain high yield savings accounts, autocompounding investments, and returns not seen in the traditional financial world.
 
 $795 for entry to the first cohort, a discount to my friends, fans, and believers, as  I experiment and innovate in providing you the highest possible value. I will help you how to navigate the crypto economy, understand the risks, find the rewards, and empower you at whatever level of active (or passive) management you seek, all the while connecting you with a community of incredible, like-minded early adopters.
 
