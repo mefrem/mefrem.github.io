@@ -17,8 +17,8 @@ share: false
 
 These are some of the biggest pain points or motivations I have found in my time coaching and consulting individuals with their onboarding to crypto.
 
-- I don't understand what a blockchain is or what it does. If I don't understand the underlying technology, can I still participate?
-- I can sort of follow along when my friend starts explaining crypto, but when I get to the computer, I'm overwhelmed by the resources and options. I don't know what I don't know.
+- If I don't understand the underlying technology, can I still participate?
+- I'm overwhelmed by the resources, options, and complexity. I don't know what I don't know.
 - It sounds like everyone is making money in crypto but me. What's going on?
 
 Join the first cohort of Max Yields, my crypto course: 4 or more hour-long live lectures about the crypto and investing fundamentals, weekly group webinars, Q+A calls, personalized 1:1 time with me, and one year, ongoing access to a community Discord with Max and a growing community of traders and investors. You will learn how to onboard and control your funds and will be shown exactly how to leverage decentralized finance—DeFi—to obtain high yield savings accounts, autocompounding investments, and returns not seen in the traditional financial world.
