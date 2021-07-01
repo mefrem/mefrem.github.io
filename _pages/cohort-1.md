@@ -29,7 +29,7 @@ A word of warning: This world is high risk. Please understand that there are no 
 
 That said, if you don't make your investment back-if you don't find the value of my coaching after learning of the power and potential of the decentralized world-you can ask me for a refund.
 
-**If you're interested, then please Venmo me at @maxefremov or [PayPayl](https://paypal.me/maxefremov?locale.x=en_US), and go ahead and [start preparing for the first day of the course](https://docs.google.com/document/d/14SonxyIpUTOV6kCH6XOJzCJERqWhMaluvyKkLbyfd_0/edit?usp=sharing) by onboarding funds and setting up MetaMask (your crypto wallet):**
+**If you're interested, then please Venmo me at @maxefremov or [PayPal](https://paypal.me/maxefremov?locale.x=en_US), and go ahead and [start preparing for the first day of the course](https://docs.google.com/document/d/14SonxyIpUTOV6kCH6XOJzCJERqWhMaluvyKkLbyfd_0/edit?usp=sharing) by onboarding funds and setting up MetaMask (your crypto wallet):**
 
 Course Content:
 
