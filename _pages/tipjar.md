@@ -1,5 +1,5 @@
 ---
-permalink: /now/
+permalink: /tipjar/
 title: "Tip Jar"
 excerpt: "Max Yields Tip Jar"
 image: "assets/images/pretty_scenes/Thailand_scene.jpg"
