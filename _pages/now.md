@@ -23,7 +23,7 @@ This is my ["now"](https://nownownow.com/about) page, inspired by [Derek Sivers.
 
 ## January 2022
 
-*January 19th, 2022 | 12:30pm | Kerby Lane Diner in Austin, TX
+January 19th, 2022 | 12:30pm | Kerby Lane Diner in Austin, TX
 
 It's been 1 year, 3 months, and 24 days since I moved to Austin, Texas.
 
