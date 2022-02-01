@@ -27,11 +27,11 @@ January 19th, 2022 | 12:30pm | Kerby Lane Diner in Austin, TX
 
 It's been 1 year, 3 months, and 24 days since I moved to Austin, Texas.
 
-In that time I attained my [first straddle planche](https://www.instagram.com/p/CL4nDzmF7vD/), started a business, launched a [digital crypto course](www.maxyields.io), turned 30, met heroes, new friends, made—for me—a ton of money. I also made every mistake in solopreneuring: Not minding the business _around_ the product, emotion and motivation mismanagement, imposter syndrome.
+In that time I attained my [first straddle planche](https://www.instagram.com/p/CL4nDzmF7vD/), started a business, launched a [digital crypto course](https://maxyields.io), turned 30, met heroes, new friends, made—for me—a ton of money. I also made every mistake in solopreneuring: Not minding the business _around_ the product, emotion and motivation mismanagement, imposter syndrome, and losing—for me—a ton of money.
 
-I burned out. I fell into comparison, lost touch with important practices like meditation and gymnastics, and lost a ton of money (I think I'm the only person early to OHM who didn't make it, lol).
+I burned out and fell into comparison, lost touch with important practices like meditation and gymnastics, and sat with a lot of "getting left behind" energy.
 
-It's been a ride.
+It's been a *ride*.
 
 In all honesty, it wasn't pretty. I spent some time in the tank, the trough of sorrow, with *[The Struggle](https://techcrunch.com/2012/06/14/the-struggle/)*. My [already large appreciation for entrepreneurs](https://twitter.com/maxefremov/status/1479531378672906249) has reached new highs. I learned a lot about myself, my strengths and inclincations (I love promotion! Excitement! Sales! Energy!), my disinclinations (staring at a computer without talking to people). I became intimate friends with my inner committee of know-it-all critics.
 
