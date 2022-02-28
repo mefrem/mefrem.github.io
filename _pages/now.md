@@ -29,7 +29,7 @@ It's been 1 year, 3 months, and 24 days since I moved to Austin, Texas.
 
 In that time I attained my [first straddle planche](https://www.instagram.com/p/CL4nDzmF7vD/), started a business, launched two [digital crypto courses](https://maxyields.io), turned 30, met heroes, new friends, made—for me—a ton of money.
 
-I also made every mistake in solopreneuring: Not minding the business _around_ the product, emotion and motivation management, imposter syndrome, and losing virtually all my crypto returns trading. (Being early to a bull market =/= being a good trader.)
+I also made every mistake in solopreneuring: Not minding the business _around_ the product, emotion and motivation management, not getting help, not knowing where to get help, imposter syndrome. Oh, and losing virtually all my early crypto returns trading. (Being early to a bull market =/= being a good trader.)
 
 I burned out and fell into comparison, lost touch with the most meangingful practices in my life like regular socializing, gymnastics, meditation, and stewed in a lot of "getting left behind" energy.
 
