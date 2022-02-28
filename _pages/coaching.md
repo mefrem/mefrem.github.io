@@ -26,17 +26,15 @@ My services include:
 - Half-day or more in-person coaching and strategy session: [Email link](mailto:maxim.efremov@gmail.com) with "Half-day coaching" in the subject line to discuss a time and place
 - Digital and cohort-based courses over at [MaxYields.io](https://maxyields.io)
 
-**Email me at [maxim.efremov@gmail.com](mailto:maxim.efremov@gmail.com)**
-
 ## Personal Development
 
-I've also coached and facilitated transformational personal development. My client and student successes include 
+Out of my passion for understanding psychology and [how our personalities work](https://maxefremov.com/our-parts-in-exile/), I also coach and facilitate transformational personal development. My client and student successes include 
 
 - discovering self-disipline and organization
 - changing careers, professions, roles, obtaining promotions
-- overcoming years of sexual abuse
+- overcoming years of trauma, such as sexual abuse
 - reworking the ongoing, internal conversations we have from fear to empowerment
 
-Note that I am not a licensed therapist. My services are leadership support for already well-functioning people who are looking for more.
+Note that I am not a licensed therapist. My services are leadership support for already well-functioning adults who are looking to elevate.
 
 If you're intersted, I'm coaching, tutoring, and mentoring those seeking and enquiring in these areas. You can [email me](mailto:maxim.efremov@gmail.com) to learn more.
