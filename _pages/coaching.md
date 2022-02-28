@@ -16,14 +16,14 @@ share: false
 
 ## Maximize
 
-I primarily consult and coach clients on the crypto economy: from on-boarding funds, to DeFi, yield farming, project valuations and risk management, etc. I've coached complete newcomers, high net worth individuals, and organizations.
+I primarily consult and coach clients on the crypto economy: from on-boarding funds, to DeFi, yield farming, project valuations and risk management, etc. I've coached complete newcomers, high net worth individuals, and businesses.
 
 The service typically starts with an assessment of your specific needs, which have historically included: personal finance, using DeFi protocols, hedging your investment and crypto FOMO, earning safe returns on stablecoins in excess of traditional instruments.
 
 My services include:
 
 - A free consultation: [book session here](https://calendly.com/maxim-efremov/15min)
-- Hourly consulting and coaching: [Email link](mailto:maxim.efremov@gmail.com) to discuss or [book a session now for $350 an hour](https://calendly.com/maxim-efremov/60-minute-coaching?month=2021-05)
+- Hourly consulting and coaching: [Email link](mailto:maxim.efremov@gmail.com) to discuss or [book a session now for $500 an hour](https://calendly.com/maxim-efremov/60-minute-coaching?month=2021-05)
 - Half-day or more in-person coaching and strategy session: [Email link](mailto:maxim.efremov@gmail.com) with "Half-day coaching" in the subject line to discuss a time and place
 - "Max Access" -- direct, ongoing communication with me about your questions, developments, project announcements: [Email link](mailto:maxim.efremov@gmail.com) to discuss retaining me
 
