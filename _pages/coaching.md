@@ -16,11 +16,11 @@ share: false
 
 ## Max Yields
 
-Most of the time, I teach crypto: from on-boarding funds, to DeFi, yield farming, project valuations and risk management, etc. I've coached complete newcomers, high net worth individuals, and business owners.
+For the last year +, I've taught crypto: from on-boarding funds, to DeFi, yield farming, project valuations and risk management, etc. I've coached complete newcomers, high net worth individuals, and business owners managing their cash. I've coached individuals and facilitated a number of cohort-based courses.
 
-The service typically starts with an assessment of your specific needs, which have historically included: personal finance, using DeFi protocols, hedging your investment and crypto FOMO, earning high returns on stablecoins in excess of traditional finance.
+One-on-one service typically starts with a personal assessment, which have historically included: personal finance, using DeFi protocols, hedging your investment and crypto FOMO, earning high returns on stablecoins in excess of traditional savings instruments.
 
-My services include:
+Service types include:
 
 - Hourly consulting and coaching: [Email link](mailto:maxim.efremov@gmail.com) to discuss or book a session for $500 an hour
 - Half-day or more in-person coaching and strategy session: [Email link](mailto:maxim.efremov@gmail.com) with "Half-day coaching" in the subject line to discuss a time and place
@@ -30,11 +30,11 @@ My services include:
 
 Out of my passion for understanding psychology and [how our personalities work](https://maxefremov.com/our-parts-in-exile/), I also coach and facilitate transformational personal development. My client and student successes include 
 
-- discovering self-disipline and organization
-- changing careers, professions, roles, obtaining promotions
-- overcoming years of trauma, such as sexual abuse
+- creating self-disipline, organization, and confidence
+- changing careers, professions, moving to a new city
+- overcoming years of trauma, such as sexual abuse, and changing relationships to old experiences
 - reworking the ongoing, internal conversations we have from fear to empowerment
 
-Note that I am not a licensed therapist. My services are leadership support for already well-functioning adults who are looking to elevate.
+Note that I am not a licensed therapist. My services are leadership support for already functioning adults who are looking to elevate their lives.
 
 If you're intersted, I'm coaching, tutoring, and mentoring those seeking and enquiring in these areas. You can [email me](mailto:maxim.efremov@gmail.com) to learn more.
