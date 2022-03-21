@@ -13,7 +13,7 @@ toc: true
 
 # Conversation with Jason Benn
 
-These are my notes on a conversation I had entitled “Cohousing and Coliving: What, Why, and How” with [Jason Benn](www.jasonbenn.com) on Clubhouse, January 25th, 2021. I've been interested in living in an intentional community for a few years, and Jason is the most knowledgeable person I know on the subject, having lived in [The Archive](https://archive.house/)—a coliving community in San Francisco—for several years and is now embarking upon a few-year development of a cohousing arrangement with his housemates. But first, what is coliving and cohousing?
+These are my notes on a conversation I had entitled “Cohousing and Coliving: What, Why, and How” with [Jason Benn](https://jasonbenn.com) on Clubhouse, January 25th, 2021. I've been interested in living in an intentional community for a few years, and Jason is the most knowledgeable person I know on the subject, having lived in [The Archive](https://archive.house/)—a coliving community in San Francisco—for several years and is now embarking upon a few-year development of a cohousing arrangement with his housemates. But first, what is coliving and cohousing?
 
 - Coliving - a group of people living under one roof
 - Cohousing - aka “communal living”, an intentionally formed group of reasonable adults living on a shared piece of land, with each household maintaining a separate dwelling
