@@ -21,8 +21,9 @@ My life exploded in 2020 when I moved to Austin, TX, my favorite city in the wor
 
 <img src="/assets/images/twitter/social-currency.jpg" alt="What's being whispered to you in your city?" width="400"/>
 <sup><sub>What's being whispered in your ear?</sub></sup>
+<br>
 
-Around then 1) I lobbied John Cornyn to double legal immigration, a total moonshot (he's settling for DACA), 2) quit my job as a data scientist and machine learning engineer, so that I could 3) invest and consult crypto and web3 full-time. I lead with Austin because my experience has been that if you surround yourself with your heroes and favorite people, life becomes extremely meaningful and good.
+Around then 1) I lobbied John Cornyn to double legal immigration, a total moonshot (he's settling for DACA), 2) quit my job as a data scientist and machine learning engineer, so that I could 3) invest and consult crypto and web3 full-time, and have since 4) met countless Twitter mutuals and my intellectual heroes. I lead with this Austin love because my experience has been that if you surround yourself with your favorite people, life becomes extremely meaningful and good.
 
 My favorite things about me are my warmth and energy, interpersonally relating with super smart, high integrity people. Other people seem to like it, too. 
 
