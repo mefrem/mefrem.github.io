@@ -23,7 +23,6 @@ My life exploded in 2020 when I moved to Austin, TX, my favorite city in the wor
 <sup><sub>What's being whispered in your ear?</sub></sup>
 <br>
 <br>
-<br>
 
 Around then 1) I lobbied John Cornyn to double legal immigration, a total moonshot (he's settling for DACA), 2) quit my job as a data scientist and machine learning engineer, so that I could 3) invest and consult crypto and web3 full-time, and have since 4) met countless Twitter mutuals and my intellectual heroes. I lead with this Austin love because my experience has been that if you surround yourself with your favorite people, life becomes extremely meaningful and good.
 
