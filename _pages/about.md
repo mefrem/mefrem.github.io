@@ -17,7 +17,7 @@ comments: True
 
 Hi. I'm Max.
 
-I'm a community builder, connection facilitator, and human serendipity engine based in Austin, TX. I also consult individuals and businesses on web3 and crypto, coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and train gymnastics and acrobatics. 
+I'm a community builder and human serendipity engine based in Austin, TX. I also consult individuals and businesses on web3 and crypto, coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and train gymnastics and acrobatics. 
 
 My life changed dramatically in 2020 when I moved to Austin, TX, my favorite place in the world.
 
@@ -32,9 +32,9 @@ The best way to get to know me would be to read the site, my [Twitter](https://t
 Some salient features:
 
 - [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm through-the-roof extroverted—99th + percentile, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz.
-- I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its members among the most important influences on my life. There's a line from my reading Slate Star Codex to the most important details and results of my life. I also started the Based in Austin meetup—DM if you want to join!
+- I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its members among the most important influences on my life. There's a line from my reading Slate Star Codex to the most important details and results of my life.
 - I spent several years during college doing community service and disaster relief across the American Midwest. I met lots of people and came away with the conviction that people are immensely decent.
-- I've had a lifelong interest in our inner world: our personalities and why they are that way; shame, its purpose, its exteripation; the effect of exteneral action on our minds; and internal family systems psychotherapy, psychedelic science and research, and authentic representation and connection
+- I've had a lifelong interest in our inner world: our personalities and why they are that way; shame, its purpose, its exteripation; the effect of exteneral action on our minds; and internal family systems psychotherapy, psychedelic science and research, and authentic representation and connection; hence my interest in transformational personal development
 - I'm a gymnast, acrobat, and handbalancer—check out the [fitness gram](https://www.instagram.com/maximally.me/) and [fitness page](/fitness)
 
 <center>
