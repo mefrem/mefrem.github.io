@@ -18,7 +18,7 @@ comments: True
 Hi. I'm Max.
 
 
-<img src="assets/images/max-posted-up.jpg" alt="Max" width="500"/>
+<img src="/assets/images/max-posted-up.jpg" alt="Max" width="500"/>
 
 
 
