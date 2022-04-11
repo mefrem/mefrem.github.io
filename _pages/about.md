@@ -22,7 +22,7 @@ Hi. I'm Max.
 
 
 
-I'm a community builder and human serendipity engine based in Austin, TX. I also consult individuals and businesses on web3 and crypto, coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and train gymnastics and acrobatics. 
+I'm a community builder and human serendipity engine based in Austin, TX. I'm a crypto advisor and consultant, coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and train gymnastics. 
 
 My life changed dramatically in 2020 when I moved to Austin, TX, my favorite place in the world.
 
