@@ -17,19 +17,21 @@ comments: True
 
 Hi. I'm Max.
 
+I'm a community builder, connection facilitator, and human serendipity engine based in Austin, TX. I also consult individuals and businesses on web3 and crypto, coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and train gymnastics and acrobatics. 
+
 My life changed dramatically in 2020 when I moved to Austin, TX, my favorite place in the world.
 
 <img src="/assets/images/twitter/social-currency.jpg" alt="What's being whispered to you in your city?" width="400"/>
 <br>
 <br>
 
-Since moving here, 1) I've lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) quit my job as a data scientist and machine learning engineer, so that I could 3) invest and consult crypto and web3 full-time, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families and more than a few dogs. I lead off with a few words about Austin because my experience has been that if you surround yourself with your favorite people, life becomes extremely meaningful and good.
+Since moving here, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with a few words about Austin because my experience has been that if you surround yourself with your favorite people, life becomes extremely meaningful and good.
 
-The best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem) (lol remember Clubhouse?). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences).
+The best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences).
 
 Some salient features:
 
-- [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm through-the-roof extroverted—99th percentile, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz.
+- [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm through-the-roof extroverted—99th + percentile, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz.
 - I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its members among the most important influences on my life. There's a line from my reading Slate Star Codex to the most important details and results of my life. I also started the Based in Austin meetup—DM if you want to join!
 - I spent several years during college doing community service and disaster relief across the American Midwest. I met lots of people and came away with the conviction that people are immensely decent.
 - I've had a lifelong interest in our inner world: our personalities and why they are that way; shame, its purpose, its exteripation; the effect of exteneral action on our minds; and internal family systems psychotherapy, psychedelic science and research, and authentic representation and connection
