@@ -17,7 +17,7 @@ comments: True
 
 <img src="/assets/images/max-posted-up.jpg" alt="Max" width="500"/>
 
-Hey, I'm Max. I'm a community builder based in Austin, TX. I'm a crypto advisor, investor, and consultant, I coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and I'm a gymnast.
+Hey, I'm Max. I'm first and foremost a community builder based in Austin, TX. I'm also a crypto advisor, investor, and consultant, I coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and I train gymnastics, principally the floor and still rings.
 
 My life changed dramatically in 2020 when I moved to Austin, TX, my favorite place in the world.
 
