@@ -22,8 +22,6 @@ Hey, I'm Max. I'm a community builder based in Austin, TX. I'm a crypto advisor,
 My life changed dramatically in 2020 when I moved to Austin, TX, my favorite place in the world.
 
 <img src="/assets/images/twitter/social-currency.jpg" alt="What's being whispered to you in your city?" width="400"/>
-<br>
-<br>
 
 Since moving here, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with a few words about Austin because my experience has been that if you surround yourself with your favorite people, life becomes extremely meaningful and good.
 
