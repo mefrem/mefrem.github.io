@@ -17,13 +17,13 @@ comments: True
 
 <img src="/assets/images/max-posted-up.jpg" alt="Max" width="500"/>
 
-Hey, I'm Max. I'm first and foremost a community builder based in Austin, TX. I'm also a crypto advisor, investor, and consultant, I coach and facilitate transformational personal development through leadership & emotional intelligence workshops, and I train gymnastics, principally the floor and still rings.
+Hey, I'm Max. I'm first and foremost a community builder based in Austin, TX. I'm also a crypto advisor and investor, I facilitate transformational personal development through leadership programs & emotional intelligence workshops, and I train gymnastics—principally the floor and still rings.
 
 My life changed dramatically in 2020 when I moved to Austin, TX, my favorite place in the world.
 
 <img src="/assets/images/twitter/social-currency.jpg" alt="What's being whispered to you in your city?" width="400"/>
 
-Since moving here, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with a few words about Austin because my experience has been that if you surround yourself with your favorite people, life becomes extremely meaningful and good.
+Since moving here, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with Austin because my experience has been that "right market" can take you anywhere.
 
 The best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences).
 
