@@ -15,7 +15,7 @@ share: false
 comments: True
 ---
 <center>
-<img src="/assets/images/max-posted-up.jpg" alt="Max" width="500"/>
+<img src="/assets/images/max-posted-up.jpg" alt="Max" width="250"/>
 </center>
 
 Hey, I'm Max. I'm a community builder based in Austin, TX. I'm also a crypto advisor and investor, facilitate transformational personal development through leadership programs & emotional intelligence workshops, and train gymnastics—principally floor and still rings.
