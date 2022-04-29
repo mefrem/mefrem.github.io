@@ -22,13 +22,14 @@ comments: True
 <br>
 
 <h2>I'm Max.</h2>
-I'm a community builder based in Austin, TX. I primarily work in crypto as an educator, adviser, and investor. I'm a personal development coach and facilitator through transformational leadership & emotional intelligence workshops. And I'm a gymnast!
+I'm a community builder based in Austin, TX. I primarily work in crypto as an educator, adviser, and investor. I'm a personal development coach for a leadership & emotional intelligence program. And I'm a gymnast!
+
+<img src="/assets/images/misc/BiA-april.jpg" alt="Based in Austin meetup" width="400"/><br>
+<small>Based in Austin, my [based](https://www.urbandictionary.com/define.php?term=based) monthly meetup.</small>
+
+Since moving to Austin in 2020, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with freedom and human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with Austin because my experience has been that right people and the right place takes you anywhere.
 
 <img src="/assets/images/twitter/social-currency.jpg" alt="What's being whispered to you in your city?" width="400"/>
-
-Since moving to Austin in 2020, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with Austin because my experience has been that right people and the right place takes you anywhere.
-
-
 
 The best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences).
 
