@@ -22,7 +22,7 @@ comments: True
 <br>
 
 <h2>I'm Max.</h2>
-I'm a community builder based in Austin, TX. I primarily work in crypto as an educator, adviser, and investor. I'm a personal development coach for a leadership & emotional intelligence program. And I'm a [gymnast](https://www.instagram.com/p/CUXiXGkFFPu/) 🤸
+I'm a community builder based in Austin, TX. I primarily work in crypto. I'm also a personal development coach and a [gymnast](https://www.instagram.com/p/CUXiXGkFFPu/) 🤸
 
 <img src="/assets/images/misc/BiA-april.jpg" alt="Based in Austin meetup" width="600"/><br>
 <small>Based in Austin, my [based](https://www.urbandictionary.com/define.php?term=based) monthly meetup, April 2022.</small>
