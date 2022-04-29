@@ -35,7 +35,7 @@ The best way to get to know me would be to read the site, my [Twitter](https://t
 
 Some salient features:
 
-- [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm through-the-roof extroverted—99th + percentile, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination according to some 8-minute quiz.
+- [Gwern](https://www.gwern.net/index) started a tradition of including your big five personality metrics: I'm through-the-roof extroverted—99th+ percentile, 62nd on emotional stability, 89th on agreeableness, 80th on conscientiousness, and 91st on imagination/neuroticism
 - I've been a part of the [rationalist](https://wiki.lesswrong.com/wiki/Rationalist_movement) community since 2013, and consider the movement and some of its members among the most important influences on my life. There's a line from my reading Slate Star Codex to the most important details and results of my life.
 - I spent several years during college doing community service and disaster relief across the American Midwest. I met lots of people and came away with the conviction that people are immensely decent.
 - I've had a lifelong interest in our inner world: our personalities and why they are that way; shame, its purpose, its exteripation; the effect of exteneral action on our minds; and internal family systems psychotherapy, psychedelic science and research, and authentic representation and connection; hence my interest in transformational personal development
