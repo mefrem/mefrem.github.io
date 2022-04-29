@@ -16,8 +16,9 @@ comments: True
 ---
 <center>
 <img src="/assets/images/max-posted-up.jpg" alt="Max" width="400"/>
-</center>
 <small>On set of *Money 2022*, a documentary about crypto and the future of money.</small>
+</center>
+
 <br>
 
 <h3>I'm Max.</h3>
