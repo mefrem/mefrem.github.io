@@ -17,12 +17,18 @@ comments: True
 <center>
 <img src="/assets/images/max-posted-up.jpg" alt="Max" width="400"/>
 </center>
+<small>On set of *Money 2022*, a documentary about crypto, real estate, and the future of investing.</small>
+<br>
 
-I'm Max. I'm a community builder based in Austin, TX. I'm also a crypto advisor and investor, facilitate transformational personal development through leadership & emotional intelligence workshops, and train gymnastics—principally floor and still rings.
+<h3>I'm Max.</h3>
+I'm a community builder based in Austin, TX. I primarily work in crypto as an educator, adviser, and investor. I'm a personal development coach and facilitator through transformational leadership & emotional intelligence workshops. And I'm a gymnast!
+
+<img src="/assets/images/handstands/onehanded.jpg" alt="One-handed handstand" width="250"/>
+
+Since moving to Austin in 2020, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with Austin because my experience has been that right people and the right place takes you anywhere.
 
 <img src="/assets/images/twitter/social-currency.jpg" alt="What's being whispered to you in your city?" width="400"/>
 
-Since moving to Austin in 2020, I quit my job as a data scientist and machine learning engineer and 1) lobbied John Cornyn to double legal immigration (he's settling for DACA), 2) created a women's only crypto mastermind, 3) started the Based in Austin meetup, a group of builders, entrepreneurs, thinkers, and writers occupied with human greatness, and 4) have met countless people, Twitter mutuals, intellectual heroes, neighbors and founders and families. I lead off with Austin because my experience has been that right people and the right place takes you anywhere.
 
 The best way to get to know me would be to read the site, my [Twitter](https://twitter.com/maxefremov) and on [Clubhouse](https://www.joinclubhouse.com/@mefrem). See what I'm up to [now](/now/) or take a look at some of [my influences](/influences).
 
@@ -35,9 +41,7 @@ Some salient features:
 - I'm a gymnast, acrobat, and handbalancer—check out the [fitness gram](https://www.instagram.com/maximally.me/) and [fitness page](/fitness)
 
 <center>
-
-<img src="/assets/images/handstands/onehanded.jpg" alt="One-handed handstand" width="250"/>
-
+  
 <img src="/assets/images/handstands/planche.jpg" alt="Straddle planche" width="250"/>
 
 <center>
