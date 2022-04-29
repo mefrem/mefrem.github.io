@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: ""
 excerpt: "About"
 image: "assets/images/pretty_scenes/Thailand_scene.jpg"
 layouts_gallery:
@@ -16,7 +16,7 @@ comments: True
 ---
 <center>
 <img src="/assets/images/max-posted-up.jpg" alt="Max" width="400"/><br>
-<small>On set of *Money 2022*, a documentary about crypto and the future of money.</small>
+<small>Max, on set of *Money 2022*, a documentary about crypto and the future of money.</small>
 </center>
 
 <br>
