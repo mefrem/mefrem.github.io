@@ -21,7 +21,7 @@ comments: True
 
 <br>
 
-<h3>I'm Max.</h3>
+<h2>I'm Max.</h2>
 I'm a community builder based in Austin, TX. I primarily work in crypto as an educator, adviser, and investor. I'm a personal development coach and facilitator through transformational leadership & emotional intelligence workshops. And I'm a gymnast!
 
 <img src="/assets/images/twitter/social-currency.jpg" alt="What's being whispered to you in your city?" width="400"/>
