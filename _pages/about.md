@@ -16,7 +16,7 @@ comments: True
 ---
 <center>
 <img src="/assets/images/max-posted-up.jpg" alt="Max" width="400"/><br>
-<small>On set of *Money 2022*, a documentary about the macroeconomic effects on investments and media of exchange</small>
+<small>On set of *Money 2022*, a documentary about the macroeconomy and media of exchange</small>
 </center>
 
 <br>
