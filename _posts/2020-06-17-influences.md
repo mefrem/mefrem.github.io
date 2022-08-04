@@ -11,12 +11,12 @@ toc: true
  fill out websites, provide links to podcasts, flesh out
 -->
 
-Here is an incomplete list of writers and thinkers I read, admire, or find most interesting.
+Here is an incomplete list of writers and thinkers I read, admire, or find most interesting. [Last updated: June 2020]
 
 ## Those I owe an eternal debt of gratitude
 
-- [**Scott Alexander**](https://slatestarcodex.com/) - Despite his site being a de facto headquarters of the rationality community, his blog is *still* wildly underrated. His [top posts](https://slatestarcodex.com/about/) are a great place to start. Other pieces that matter to me:
-  - [Book Review: Secrets to our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/) - a brilliant exposition of cultural evolution
+- [**Scott Alexander**](https://astralcodexten.substack.com/) - Despite his site being the de facto headquarters of the rationality community, his blog is *still* wildly underrated. His [top posts](https://slatestarcodex.com/about/) are a great place to start. Other pieces that matter to me:
+  - [Book Review: Secrets to our Success](https://slatestarcodex.com/2019/06/04/book-review-the-secret-of-our-success/) - my most recommended piece by Scott; a brilliant exposition of cultural evolution, the single most persuasive piece on the wisdom of precaution and conservatism
   - [Asymmetric Weapons Gone Bad](https://slatestarcodex.com/2019/06/06/asymmetric-weapons-gone-bad/) - traditions are stupid, right? And my intuitions as I navigate the terrain only and always tend towards truth?
   - [Book Review: Seeing like a State](https://slatestarcodex.com/2017/03/16/book-review-seeing-like-a-state/) - what does it look like from inside a state? 
   - [Cardiologists and Chinese Robbers](https://slatestarcodex.com/2015/09/16/cardiologists-and-chinese-robbers/) - how do we know how bad problems are?
