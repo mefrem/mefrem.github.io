@@ -14,9 +14,9 @@ comments: True
 
 **I'm Max.**
 
-I live in Austin, work in blockchain, and occasionally host gatherings.
+I'm molting. Check out what I'm doing [/now](/now).
 
-I'm a developer at [Hiro](https://hiro.so/), making the programmable bitcoin economy bigger. I support the [1517 Fund](https://www.1517fund.com/) with community and talent. I'm also a [gymnast](https://www.instagram.com/p/CMxHFo1CjZD/) 🤸
+I used to be developer advocate at [Hiro](https://hiro.so/), helping developers build on Bitcoin and Stacks. I used to support the [1517 Fund](https://www.1517fund.com/) with community and talent. I'm also a former [adult gymnast](https://www.instagram.com/p/CMxHFo1CjZD/) 🤸
 
 I keep some of the stuff I write on this website--enjoy!
 <br><br>
