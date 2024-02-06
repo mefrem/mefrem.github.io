@@ -14,9 +14,9 @@ comments: True
 
 **I'm Max.**
 
-Check out what I'm doing [now](/now).
+Here's what I'm doing [now](/now).
 
-Former hats included developer advocacy at [Hiro](https://hiro.so/), helping developers build on Bitcoin and Stacks. I used to support the [1517 Fund](https://www.1517fund.com/)—part VC fund, part anti-establishment visionaries, the team behind the Thiel Fellowship that identifies college dropouts and other misfits. I'm also a former [adult gymnast](https://www.instagram.com/p/CMxHFo1CjZD/) 🤸
+I used to wear the developer advocacy hat at [Hiro](https://hiro.so/), helping developers build on Bitcoin and Stacks. Before that I supported the [1517 Fund](https://www.1517fund.com/)—the team behind the Thiel Fellowship. I'm also a former [adult gymnast](https://www.instagram.com/p/CMxHFo1CjZD/) 🤸
 
 I keep some of the stuff I write on this website--enjoy!
 <br><br>
