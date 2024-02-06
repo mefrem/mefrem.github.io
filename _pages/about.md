@@ -23,7 +23,8 @@ I keep some of the stuff I write on this website--enjoy!
 <center>
 
 <img src="/assets/images/handstands/onehanded.jpg" alt="One-handed handstand" width="250"/>
-<img src="/assets/images/handstands/planche.jpg" alt="Straddle planche" width="250"/>
+
+<!-- <img src="/assets/images/handstands/planche.jpg" alt="Straddle planche" width="250"/> -->
 
 <center>
 
