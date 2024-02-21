@@ -9,8 +9,6 @@ header:
 ---
 There's strong. There's really strong. And then there are rings specialists.
 
-![Rings Strength Strong](/assets/images/rings/donnell-rings.jpg "Donnell Whittenburg performing the maltese on rings")
-
 **Rings strength training constitutes the peak of bodyweight strength and conditioning.** If you doubt it, [watch a minute of this video and come back](https://vimeo.com/101723280). Now that you're fully convinced, I'll lay out a training program.
 
 
@@ -60,15 +58,11 @@ Consider approaching the intermediate level when you are comfortable with holdin
 
 Here's a bucket list (you can [follow my progress](https://www.instagram.com/maximally.me/)). Suffice to say: progressing to this stage is legendary.
 
-
-| Element Name            | Demonstration                                                                                               |
-|--------------------|:---------------------------------------------------------------------------------------------------:|
-| muscle up         | ![The muscle up](/assets/images/rings/muscle-up.gif "Weighted muscle up")      |
-| Iron cross + L-seat  | ![The Iron cross](/assets/images/rings/iron-cross.jpg "Brandon Wynn's cross")               |
-| inverted Iron cross | ![Inverted handstand](/assets/images/rings/inverted-hs.jpg "Inverted handstand")                    |
-| straddle planche   | ![The straddle planche](/assets/images/rings/straddle-planche.jpg "The straddle planche")           |
-| full planche       | ![Jake Dalton planche](/assets/images/rings/jake-planche.jpg "Jake Dalton's straight-body planche") |
-| Victorian cross    | ![Victorian cross](/assets/images/rings/victorian.jpg "Victorian cross")                            |
+- muscle up
+- iron cross + L-seat
+- inverted Iron cross
+- straddle planche
+- Victorian cross
 
 ## A six-time Olympian
 
@@ -78,7 +72,6 @@ High-level artistic gymnastics is generally too competitive for all but prime-ag
 
 No discussion of the rings apparatus is complete without mention of Jordan Jovtchev (also transliterated Yordan Yovchev). This gymnast from Bulgaria has competed in **six consecutive Olympics Games**, and won the silver medal on the rings event at 31. At the European gymnastics games in 2008 he won another silver, and the bronze at the same competition in 2010, at the age of 37. He retired at 40 years old after competing in his sixth olympics.
 
-![Jordan Jovtchev](/assets/images/rings/jordan-maltese.jpg "The master himself")
 
 ***A word on equipment***
 
