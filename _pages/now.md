@@ -27,16 +27,16 @@ Previous:
 
 -->
 
-## Updated July 5th, 2024
+**Updated July 5th, 2024**
 
 Writing from my home in Austin, TX, the cicadas buzzing loudly, the summer heat beating me to air conditioning or bodies of water. 
 
-### Cohousing with my closest friends
+## Cohousing with my closest friends
 
-I've long had the desire to [live next to the people I love most](https://maxefremov.com/cohousing-coliving-why/) while still keeping a place. We'd cook together, spontaneously connect, deliver leftovers, raise our kids together. The dream's been to make it big and live on some kind of commune. Last fall, I noticed something interesting: A handful of friends had moved into an otherwise nondescript apartment complex in southwest Austin. Lo and behold, a spontaneous instance of the cohousing dream had obtained, sans the farmsy commune aesthetic. I moved in this spring and now live next to a handful of my closest friends, with more coming this year (in two weeks, my best friend is moving into the unit directly next to mine; my sister moves in this fall). It's been wonderful to feel relationships deepen, the delight of spontaneous acts made so easy when a friend is a sixty second walk away—lots of shared meals and conversations, love and deepening. 
+I've long had the desire to [live next to the people I love most](https://maxefremov.com/cohousing-coliving-why/) while still keeping a place. We would cook together, spontaneously connect, raise our kids together. The dream's been to make it big and live on some kind of commune. Last fall, I noticed something: A handful of friends had moved into apartments at an otherwise nondescript complex in south Austin. Lo and behold, the cohousing dream! Sans the farmsy commune aesthetic. I moved in this spring and now live next to a handful of my closest friends, with more coming this year (my best friend is moving directly next to me; my sister joins in the fall). There's a delight to the spontaneous acts of friendship made so easy by the proximity, and a deep joy as the relationships deepen. And, the whole experiment was a much easier process than I thought it would be! No organizing, just a spontaneous order. 
 
-### Picking up gymnastics again
+## Picking up gymnastics again
 
-From about the ages of 25 to 30, [I trained gymnastics](https://www.instagram.com/maximally.me/). What started out as a club sport in college turned into an obsession; at one point, I was training 20 hours a week, before the pandemic shut down gym facilitites. I then moved to Ausitn and my life became too high an opportunity cost to train as regularly. And with gyms nearby, my practice eventually stopped entirely. Until! I moved this year to a place not far from a gymnastics facility with some drop-in classes. Now I'm back at it.
+From about the ages of 25 to 30, [I trained gymnastics](https://www.instagram.com/maximally.me/). What started out as a club sport in college turned into an obsession; at one point, I was training 20 hours a week until the pandemic shut down gym facilities. I then moved to Austin and my life became too high an opportunity cost to train as regularly. And with gyms nearby, my practice eventually stopped entirely. Until! I moved this year to a place not far from a gymnastics facility with some drop-in classes. Now I'm back at it.
 
-[I maintain that gymnastics is the best general training stimulus](https://maxefremov.com/why-you-should-do-gymnastics/), with high transfer into other sports, not to mention its rockin' benefits of vitality and physique ([bonus points for rings specitalist](https://maxefremov.com/rings-strength/)). I'm glad to see that despite the last few years of diminished practice, I haven't lost everything. I'm curious to see what this new chapter brings. 
+[I maintain that gymnastics is the best general training stimulus](https://maxefremov.com/why-you-should-do-gymnastics/), with high transfer into other sports, not to mention its rockin' benefits of vitality and physique ([bonus points for rings specialist](https://maxefremov.com/rings-strength/)). I'm glad to see that despite the last few years of diminished practice, I haven't lost everything. I'm curious to see what this new chapter brings. 
