@@ -17,11 +17,11 @@ defaults:
       author_profile: true
 ---
 
-Through the power of social media (+ being nice), it's never been more possible to find like-minded folks and ask them questions.
+Through the power of the internet, it's never been more possible to find like-minded folks and ask them questions.
 
 ### 2020
 
-[Howard Baetjer](/howard-baetjer-economist) - Economist and lecturer at alma mater, Towson University; July.
+[Howard Baetjer](/howard-baetjer-economist) - Economist and lecturer, Towson University; July.
 
 [Tyson Edwards](/tyson-edwards-youtuber) - YouTuber, Guinness World Record holder, athlete; June.
 
