@@ -15,13 +15,16 @@ share: false
 ---
 
 This is my ["now"](https://nownownow.com/about) page, inspired by [Derek Sivers.](https://sivers.org/nowff)
+
 <!--
+<br>
 Previous:
 - [January 2024](https://github.com/mefrem/mefrem.github.io/commit/c6e9764314fed3ef92c22b9084cc0fb423b6c2dc)
 - [November 2022](https://github.com/mefrem/mefrem.github.io/commit/3f26026166757d29dc1259c3ac79f3dfc84d530c)
 - [April 2021](https://github.com/mefrem/mefrem.github.io/commit/02009472faf8e6587945a7975773552942f7b711)
 - [October 2020](https://github.com/mefrem/mefrem.github.io/commit/01e0747d441a4ac868b75960211512aa27357c4c?branch=01e0747d441a4ac868b75960211512aa27357c4c&diff=split)
 - [July 2020](https://github.com/mefrem/mefrem.github.io/commit/e05bc4978ca2c3e1954959d566d0a10ed24571d2)
+
 -->
 
 ## Updated July 5th, 2024
