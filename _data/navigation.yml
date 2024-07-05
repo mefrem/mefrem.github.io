@@ -10,5 +10,5 @@ main:
 #     url: /machine-learning/
   - title: "Interviews"
     url: /interviews/
-  - title: "Fitness"
-    url: /fitness/
+  # - title: "Fitness"
+  #   url: /fitness/
