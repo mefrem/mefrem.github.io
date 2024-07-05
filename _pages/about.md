@@ -12,21 +12,26 @@ share: false
 comments: True
 ---
 
-**I'm Max.**
+**I'm Max Efremov.**
 
-Here's what I'm doing [now](/now).
+This is just one big page where I can write all about myself, without feeling the need for it to be useful.
+
+Last updated: 2024-02-01
 
 I used to wear the developer advocacy hat at [Hiro](https://hiro.so/), helping developers build on Bitcoin and Stacks. Before that I supported the [1517 Fund](https://www.1517fund.com/)—the team behind the Thiel Fellowship. I'm also a former [adult gymnast](https://www.instagram.com/p/CMxHFo1CjZD/) 🤸
 
 I keep some of the stuff I write on this website--enjoy!
 <br><br>
-<center>
 
+
+<!-- 
+<center>
 <img src="/assets/images/handstands/onehanded.jpg" alt="One-handed handstand" width="250"/>
-
-<!-- <img src="/assets/images/handstands/planche.jpg" alt="Straddle planche" width="250"/> -->
-
+<img src="/assets/images/handstands/planche.jpg" alt="Straddle planche" width="250"/> 
 <center>
+-->
+
+
 
 <br>
 <br>
