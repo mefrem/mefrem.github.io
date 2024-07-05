@@ -14,13 +14,11 @@ comments: True
 
 **I'm Max Efremov.**
 
-This is just one big page where I can write all about myself, without feeling the need for it to be useful.
-
 Last updated: 2024-02-01
 
-I used to wear the developer advocacy hat at [Hiro](https://hiro.so/), helping developers build on Bitcoin and Stacks. Before that I supported the [1517 Fund](https://www.1517fund.com/)—the team behind the Thiel Fellowship. I'm also a former [adult gymnast](https://www.instagram.com/p/CMxHFo1CjZD/) 🤸
+I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a><br> who works with high impact leaders. Most of my clients are founders and entrepreneurs who want to go deep. Working with me, they awaken to their deepest wisdom, unlocking new levels of growth and accomplishment beyond what they thought possible. 
 
-I keep some of the stuff I write on this website--enjoy!
+I keep some of the stuff I write on this website--I hope you enjoy.
 <br><br>
 
 
