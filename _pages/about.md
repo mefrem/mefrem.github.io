@@ -13,7 +13,7 @@ comments: True
 
 **I'm Max Efremov.**
 
-I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a> who works with high impact leaders. Most of my clients are founders and entrepreneurs who want to go deep. Working with me, they awaken to their deepest wisdom, unlocking new levels of growth and accomplishment beyond what they thought possible. 
+I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a> who works with high impact leaders. Most of my clients are founders and entrepreneurs, all of whom want to go deep. Working with me, they awaken to their deepest wisdom, unlocking new levels of growth and accomplishment beyond what they thought possible. 
 
 I keep some of the stuff I write on this website--I hope you enjoy.
 <br><br>
