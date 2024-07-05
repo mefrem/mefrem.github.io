@@ -35,7 +35,7 @@ Writing from my home in Austin, TX, the cicadas buzzing loudly, the summer heat 
 
 I've long had the desire to [live next to the people I love most](https://maxefremov.com/cohousing-coliving-why/) while still keeping a place. We would cook together, spontaneously connect, raise our kids together. The dream's been to make it big and live on some kind of commune. Last fall, I noticed something: A handful of friends had moved into apartments at an otherwise nondescript complex in south Austin. Lo and behold, the cohousing dream! Sans the farmsy commune aesthetic. I moved in this spring and now live next to a handful of my closest friends, with more coming this year (my best friend is moving directly next to me; my sister joins in the fall). There's a delight to the spontaneous acts of friendship made so easy by the proximity, and a deep joy as the relationships deepen. And, the whole experiment was a much easier process than I thought it would be! No organizing, just a spontaneous order. 
 
-## Picking up gymnastics again
+## Resuming gymnastics
 
 From about the ages of 25 to 30, [I trained gymnastics](https://www.instagram.com/maximally.me/). What started out as a club sport in college turned into an obsession; at one point, I was training 20 hours a week until the pandemic shut down gym facilities. I then moved to Austin and my life became too high an opportunity cost to train as regularly. And with gyms nearby, my practice eventually stopped entirely. Until! I moved this year to a place not far from a gymnastics facility with some drop-in classes. Now I'm back at it.
 
