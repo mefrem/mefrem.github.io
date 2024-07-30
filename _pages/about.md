@@ -13,11 +13,11 @@ comments: True
 
 **I'm Max Efremov.**
 
-I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a> based in Austin, TX who works with high impact leaders.
+I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a> based in Austin, TX.
 
-Most of my clients are founders and entrepreneurs, all of whom want to go deep. Working with me, they awaken to their deepest wisdom, unlocking new levels of growth and accomplishment beyond what they thought possible. 
+Most of my clients are founders and entrepreneurs, all of whom want to go deep. Working with me, they awaken to—and stabilize—their deepest wisdom, unlocking new levels of growth, accomplishment, and peace. 
 
-When I'm not coaching, I'm learning to cook, training gymnastics, hosting events and workshops, and hiking the Greenbelt Trails. I keep some of the stuff I write on this website--I hope you enjoy.
+When I'm not coaching, I'm training gymnastics, martial arts, and hosting events. I keep some of what I write on this website--I hope you enjoy.
 <br><br>
 
 
