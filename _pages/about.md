@@ -15,9 +15,9 @@ comments: True
 
 I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a> based in Austin, TX.
 
-My clients are founders, hedge fund managers, billionaires, as well as high school dropouts and an ex-convicted felon. They go deep, taking their organizations to the next level, and transform their relationships in the process. I'm humbled and grateful to be a part of that process.
+I've worked with founders, hedge fund managers, billionaires, as well as high school dropouts and ex-felons. My clients go deep, taking their organizations to the next level, while transforming their relationships in the process. It's an honor to contribute.
 
-When I'm not coaching, I'm training gymnastics, martial arts, and hosting events. I keep some of what I write on this website--I hope you enjoy.
+When I'm not coaching, I'm training gymnastics, martial arts, or volunteering. I keep some of what I write on this website--I hope you enjoy.
 <br><br>
 
 
