@@ -13,11 +13,15 @@ comments: True
 
 **I'm Max Efremov.**
 
-I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a> based in Austin, TX.
+I'm an <a href="https://calendly.com/maxim-efremov/complimentary-session-max">executive coach</a> based in Austin, TX. 
 
-Past and present clients include VC-backed founders, a billionaire, a hedge fund manager, and high school dropouts. I've personally bootstrapped two businesses, raised capital, and intimately know the trials of staying whole while burning alive.
+Past and present clients include VC-backed founders, a hedge fund manager, and two high school dropouts. I've worked with billionaires and ex-cons. Clients have closed $500 million deals, launched new products, and repaired almost-completely broken cofounder relationships.
 
-When I'm not coaching, I'm training gymnastics, martial arts, or teaching meditation. I keep some of what I write on this website--I hope you enjoy.
+My approach is grounded in unlocking joy, where not only fulfillment flows from, but where profound ease and efficiency live. 
+
+My approach inspired by Joe Hudson ([check him out](https://www.youtube.com/@ArtofAccomplishment)), trauma-informed somatic work, nervous system mastery & regulation, the world of ontological philosophy—awareness and transformations of ways of being—and a host of other frameworks and methods.
+
+When I'm not coaching, I'm training gymnastics or spending time with friends and family. I keep some of what I write on this website--I hope you enjoy.
 <br><br>
 
 
