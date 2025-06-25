@@ -13,13 +13,13 @@ comments: True
 
 **I'm Max Efremov.**
 
-I work with founders and executives who view the next level of their impact in the world as a function of their self-discovery. 
+I work with high-performing founders and executives to create lives of impact, transformation, and fulfillment. 
 
-My approach is grounded in the human system's innate capacity to evolve and transform, with the right ingredients: unconditional love and acceptance, skillfully attuned presence, and a conviction of someone's greatness. The results are wholeness, fulfillment, clarity, and empowerment. It's incredible stuff.
+My approach is grounded in the human system's innate capacity to evolve and transform, with the right ingredients: skillfully attuned presence, unconditional acceptance, fearless reflection, and a conviction of someone's greatness. The results are wholeness, fulfillment, clarity, and empowerment. 
 
 <a href="https://calendly.com/maxim-efremov/complimentary-session-max">Book a discovery call with me here.</a>
 
-Past and present clients include VC-backed founders, a hedge fund manager, and two high school dropouts. My clients have managed billions of dollars and create nine-figure deals. They've started new companies, recovered relationships—from cofounders to spouses—and undergone full-body physical transformations.
+Past and present clients include VC-backed founders, a hedge fund manager, and two high school dropouts. My clients have managed billions of dollars and create nine-figure deals. They've started new companies, recovered relationships—from cofounders to spouses—and undergone full-body physical transformations. It's incredible stuff.
 
 My biggest inspirations are Joe Hudson ([check him out](https://www.youtube.com/@ArtofAccomplishment)), trauma-informed somatic work, nervous system regulation, the world of ontological philosophy, and a host of other people, frameworks and methods.
 
