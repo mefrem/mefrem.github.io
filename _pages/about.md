@@ -11,7 +11,7 @@ share: false
 comments: True
 ---
 
-I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe their outer impact is a reflection of their inner world. I moved to Austin, TX in 2020 when I heard the city whisper <a href="https://paulgraham.com/cities.html"><i>"What makes you happy?"</i></a>. I've secured venture funding from Peter Thiel, trained gymnastics competitively as an adult, and organized communities—anything from Burning Man theme camps to _Based in Austin_.
+I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe outer impact is a reflection of their inner world.  I've secured funding from Peter Thiel, trained gymnastics as an adult, and organized communities—anything from Burning Man theme camps to _Based in Austin_. 
 
 # **A Life Story in Five Chapters.**
 
@@ -31,7 +31,7 @@ My world up to this point was heavy left-brain: economics, technology, software 
 Today I coach driven men—entrepreneurs, leaders, and creatives—who are ready to do the deep inner work that leads to outer impact. My approach is grounded in self-exploration, transformational presence, and my utter conviction of your greatness. The results are wholeness, clarity, and empowerment. When I'm not coaching, I'm training gymnastics or hiking around Austin.
 
 If you think I can support you in some way, DM me on [Twitter](https://x.com/maxefremov) or email me at:
-<br><img src="/assets/images/email.jpg" alt="email address" />
+<br><img src="/assets/email.jpg" alt="email address" />
 <br>_(Email shown as image to avoid spam bots)_
 
 
