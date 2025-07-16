@@ -85,9 +85,9 @@ It was into this tradition of haplessness that Burke and Wills improvidently ste
 >The going was much tougher than they had expected. Daytime temperatures regularly rose to over 140oF. It took them two months rather than one to cross the interior, and their arrival, when at last it came, was something of an anticlimax: a belt of mangroves along the shore kept them from reaching, or even seeing, the sea. Still, they had successfully completed the first crossing of the continent. Unfortunately they had also eaten two-thirds of their supplies.
 >
 >The upshot is that they ran out of food on the return trip and nearly starved. To their consternation, Charles Gray, the fittest of the party, dropped dead one day. Ragged and half delirious, the three remaining men pushed on. Finally, onthe evening of April 21, 1861, they stumbled into base camp to discover that the men they had left behind, after waiting four months, had departed only that day. On a coolibah tree was carved the message:
-<center>
-DIG 3 FT. N.W. APR. 21 1861
-</center>
+
+> DIG 3 FT. N.W. APR. 21 1861
+
 >They dug and found some meager rations and a message telling them what was already painfully evident—that the base party had given up and departed. Desolate and exhausted, they ate and turned in. In the morning they wrote a message announcing their safe return and carefully buried it in the cache—so carefully, in fact, that when a member of the base party returned that day to have one last look, he had no way of telling that they had made it back and had now gone again. Had he known, he would have found them not far away plodding over rocky ground in the impossible hope of reaching a police outpost 150 miles away at a place called Mt. Hopeless.
 >
 >Burke and Wills died in the desert, far short of Mt. Hopeless. King was saved by Aborigines, who nursed him for two months until he was rescued by a search party.
