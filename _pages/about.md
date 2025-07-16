@@ -15,7 +15,7 @@ I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, e
 
 I've secured funding from Peter Thiel, trained gymnastics as an adult, and organized communities—anything from Burning Man theme camps to _Based in Austin_. 
 
-I'm on X/Twitter [@maxefremov](https://x.com/maxefremov)
+You can reach me on X/Twitter [@maxefremov](https://x.com/maxefremov)
 
 # **A Life Story in Five Chapters.**
 
