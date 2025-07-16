@@ -11,21 +11,24 @@ share: false
 comments: True
 ---
 
-## **A Life Story in Five Chapters.**
+I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe their outer impact is a reflection of their inner world. I moved to Austin, TX in 2020 and call this city my home. I've secured venture funding from Peter Thiel, trained gymnastics competitively as an adult, and organized communities—anything from Burning Man theme camps to Based in Austin.
 
-### **Chapter 1: First 20 years - Russians in West Baltimore**
+
+# **A Life Story in Five Chapters.**
+
+## **Chapter 1: First 20 years - Russians in West Baltimore**
 I was born in Baltimore to a 5th-generation Irish Catholic mother and fresh-off-the-boat Russian father. My sister and I were raised in inner-city Baltimore, spending summers in post-Soviet Moscow. The '90s were a Wild West of multiculturalism. Childhood was marked by fun-lovingness, my father's alcoholism, and a latchkey freedom to roam, explore, and adapt, especially with people. Connecting with others virtually exploded once I got online in middle and high school and started meeting up with internet friends I met on forums or Reddit. That later turned into meeting my heroes—[Scott](http://slatestarcodex.com/) [Alexander](https://www.astralcodexten.com/), [Tyler Cowen](https://marginalrevolution.com/), and eventually Elon Musk. 
 
-### **Chapter 2: College, dropping out, and getting my hands dirty** 
+## **Chapter 2: College, dropping out, and getting my hands dirty** 
 I went to a state college, got straight As, but dropped out amidst disillusionment with my lack of purpose. I decided to get out of Baltimore and took a tour of national public service, spending my early and mid-twenties getting my hands dirty in a variety of ways—as a team leader in AmeriCorps (a "domestic Peace Corps") to twelve 18-24-year-olds, responding to natural disasters, building hiking trails, traveling the country. These were formative years which gave me a strong sense that bone-deep meaning comes from service, not success. I went back to college at the riper age of 25 for a degree in economics. I picked up gymnastics at this point and started training four hours, five days a week, for nearly five years, and loved every minute of it.
 
-### **Chapter 3: Twitter catapults my life, falling in love with Austin, TX**
+## **Chapter 3: Twitter catapults my life, falling in love with Austin, TX**
 While traveling Southeast Asia in 2019, one fateful day I got back onto Twitter. I had no idea how much this would change my life. It was on that site that I discovered [Austen Allred](https://x.com/Austen)'s software bootcamp Lambda School, got my first remote tech job, and, in fall 2020, I visited Austin, Texas to meet a few mutuals, whereupon I fell in love with the city. I moved there two weeks later. I started my first entrepreneurial endeavor with a friend, a cohort-based coaching business that quickly scaled to $30k months, and I was hooked by coaching and business. I started _Based in Austin_, a monthly meetup for contra-woke internet natives that grew to a few hundred members. I started to grow a tech-heavy network, a group of Austin transplants galvanized by Covid. I even met Peter Thiel, who was interested enough in _Based_ to offer funding a venture studio. All of it sparked by Twitter. 
 
-### **Chapter 4: The journey inward**
+## **Chapter 4: The journey inward**
 My world up to this point was heavy left-brain: economics, technology, software development, political philosophy. It took falling in love to awaken the right-brain. My partner was a psychedelic-assisted therapist, and that relationship—and breakup—was what initiated a radical reorganization of my life around new fundamentals of meditation, prayer, emotional fluidity and mastery—by which I mean two years wandering the desert of grief, love, and ego death. I sat nearly three months of meditation retreat, studied under great teachers like [Dustin DiPerna](https://www.esalen.org/faculty/dustin-diperna), [Joe Hudson](https://www.artofaccomplishment.com/about), and [Anurag Gupta](https://youtu.be/hnfKGsGEhQ8?si=kOWWo3zvJNz9anTf), and generally watched my identity disassemble and reassemble in front of my eyes. I learned the transformative power of presence—being seen, challenged, and cared for by those skilled in fearless inquiry and unconditional regard. In early 2024, I launched Max Impact LLC to offer others that same kind of transformational relationship.
 
-### **Chapter 5: Now**
+## **Chapter 5: Now**
 Today I coach driven men—entrepreneurs, leaders, and creatives—who are ready to do the deep inner work that leads to outer impact. My approach is grounded in self-exploration, transformational presence, and my utter conviction of your greatness. The results are wholeness, clarity, and empowerment. When I'm not coaching, I'm training gymnastics or hiking around Austin.
 
 If you think I can support you in some way, DM me on [Twitter](https://x.com/maxefremov) or email me at:
