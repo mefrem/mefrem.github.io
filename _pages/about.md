@@ -11,7 +11,9 @@ share: false
 comments: True
 ---
 
-I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe outer impact is a reflection of their inner world.  I've secured funding from Peter Thiel, trained gymnastics as an adult, and organized communities—anything from Burning Man theme camps to _Based in Austin_. 
+I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe outer impact is a reflection of their inner world.
+
+I've secured funding from Peter Thiel, trained gymnastics as an adult, and organized communities—anything from Burning Man theme camps to _Based in Austin_. 
 
 I'm on X/Twitter [@maxefremov](https://x.com/maxefremov)
 
