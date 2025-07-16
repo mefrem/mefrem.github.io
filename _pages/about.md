@@ -3,7 +3,7 @@ permalink: /about/
 title: ""
 excerpt: "About"
 image: 
-last_modified_at: 2024-07-05
+last_modified_at: 2025-07-16
 layout: single
 classes: narrow
 footer: false
