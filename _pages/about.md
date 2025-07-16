@@ -11,8 +11,7 @@ share: false
 comments: True
 ---
 
-I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe their outer impact is a reflection of their inner world. I moved to Austin, TX in 2020 and call this city my home. I've secured venture funding from Peter Thiel, trained gymnastics competitively as an adult, and organized communities—anything from Burning Man theme camps to Based in Austin.
-
+I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe their outer impact is a reflection of their inner world. I moved to Austin, TX in 2020 because the city whispered <a href="https://paulgraham.com/cities.html"><i>What makes you happy?</i></a>. I've secured venture funding from Peter Thiel, trained gymnastics competitively as an adult, and organized communities—anything from Burning Man theme camps to Based in Austin.
 
 # **A Life Story in Five Chapters.**
 
