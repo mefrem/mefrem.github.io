@@ -17,7 +17,7 @@ I've secured funding from Peter Thiel, trained gymnastics as an adult, and organ
 
 You can reach me on X/Twitter [@maxefremov](https://x.com/maxefremov)
 
-Or book a [discovery session.](https://calendly.com/maxim-efremov/gifted-sessions)
+And book a [discovery session.](https://calendly.com/maxim-efremov/gifted-sessions)
 
 # **A Life Story in Five Chapters.**
 
