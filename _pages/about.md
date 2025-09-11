@@ -11,16 +11,20 @@ share: false
 comments: True
 ---
 
+
+
 I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe outer impact is a reflection of their inner world.
 
-I've secured funding from Peter Thiel, train gymnastics as an adult, and build community—anything from Burning Man theme camps to _Based in Austin_. 
+I love people——what makes people tick, smile, grow into healthy, happy, and whole beings. 
 
-**You can book a [discovery session.]**(https://calendly.com/maxim-efremov/gifted-sessions)
+My past includes a lot of travel before finding home in Austin, TX. I've also secured funding from Peter Thiel, trained gymnastics as an adult, and have built many communities—anything from Burning Man theme camps to _Based in Austin_. 
+
+Let me know if there's some way I can help you on your journey. **You can also book a [discovery session.](https://calendly.com/maxim-efremov/gifted-sessions)**
 
 # **A Life Story in Five Chapters.**
 
 ## **Chapter 1: First 20 years - Russians in West Baltimore**
-I was born in Baltimore to a 5th-generation Irish Catholic mother and fresh-off-the-boat Russian father. My sister and I were raised in inner-city Baltimore, spending summers in post-Soviet Moscow. The '90s were a Wild West of multiculturalism. Childhood was marked by fun-lovingness, my father's alcoholism, and a latchkey freedom to roam, explore, and adapt, especially with people. Connecting with others virtually exploded once I got online in middle and high school and started meeting up with internet friends I met on forums or Reddit. That later turned into meeting my heroes—[Scott](http://slatestarcodex.com/) [Alexander](https://www.astralcodexten.com/), [Tyler Cowen](https://marginalrevolution.com/), and eventually Elon Musk. 
+I was born in Baltimore to a 5th-generation Irish Catholic mother and fresh-off-the-boat Russian father. My sister and I were raised in inner-city Baltimore, spending summers in post-Soviet Moscow. The '90s were a Wild West of biculturalism. Childhood was marked by fun-lovingness, parental alcoholism, and a latchkey freedom to roam, explore, and adapt. Connecting with others virtually exploded once I got online in middle and high school and started meeting up with internet friends I met on forums. That later turned into meeting my heroes—[Scott](http://slatestarcodex.com/) [Alexander](https://www.astralcodexten.com/), [Tyler Cowen](https://marginalrevolution.com/), and eventually Elon Musk—all because of the internet! This cemented the internet as a wildly underrated technology. 
 
 ## **Chapter 2: College, dropping out, and getting my hands dirty** 
 I went to a state college, got straight As, but dropped out amidst disillusionment with my lack of purpose. I decided to get out of Baltimore and took a tour of national public service, spending my early and mid-twenties getting my hands dirty in a variety of ways—as a team leader in AmeriCorps (a "domestic Peace Corps") to twelve 18-24-year-olds, responding to natural disasters, building hiking trails, traveling the country. These were formative years which gave me a strong sense that bone-deep meaning comes from service, not success. I went back to college at the riper age of 25 for a degree in economics. I picked up gymnastics at this point and started training four hours, five days a week, for nearly five years, and loved every minute of it.
