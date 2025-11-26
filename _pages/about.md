@@ -13,7 +13,7 @@ comments: True
 
 [Graham Duncan](https://grahamduncan.blog/about/) has one of my favorite About Me pages, so I took his inspiration and laid out:
 
-# **A Life Story in Five Chapters.**
+# **A Life Story in Five Chapters**
 
 ## **Chapter 1: First 20 years - Russians in West Baltimore**
 I was born in Baltimore to a 5th-generation Irish Catholic mother and fresh-off-the-boat Russian father. My sister and I grew up in the 90s, a Wild West biculturalism of inner-city Baltimore and summers in post-Soviet Moscow, Russia. Childhood was marked by fun-lovingness, a chaos that we took as totally normal, and a latchkey freedom to roam, explore, and adapt. Connecting with others took on an otherworldly dimension once I got on the internet in middle school and started meeting with internet friends I met on forums and random websites. That later turned into meeting my heroes—[Scott](http://slatestarcodex.com/) [Alexander](https://www.astralcodexten.com/), [Tyler Cowen](https://marginalrevolution.com/), and eventually Elon Musk! This cemented the internet as a wildly underrated serendipity engine that rewards curiosity and authenticity. 
