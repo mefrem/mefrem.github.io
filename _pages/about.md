@@ -11,15 +11,7 @@ share: false
 comments: True
 ---
 
-
-
-I founded _Max Impact_, a coaching practice for high-performing entrepreneurs, executives, and creatives who believe outer impact is a reflection of their inner world.
-
-I love people——what makes people tick, smile, grow into healthy, happy, and whole beings. 
-
-My past includes a lot of travel before finding home in Austin, TX. I've secured funding from Peter Thiel, trained gymnastics as an adult, and have brought many people together—anything from Burning Man theme camps to _Based in Austin_. 
-
-Let me know if there's some way I can help you on your journey.
+[Graham Duncan](https://grahamduncan.blog/about/) has one of my favorite About Me pages, so I took his inspiration and laid out:
 
 # **A Life Story in Five Chapters.**
 
