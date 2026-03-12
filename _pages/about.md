@@ -14,7 +14,7 @@ comments: false
 
 A question I keep returning to: what's the most important thing to do in a world where AI has made intelligence and labor abundant?
 
-My answer, for now, is to help people become more fully human. I'm an AI engineer working in the [Alpha School](https://www.alphaschool.com/) ecosystem — schools that condense academic learning to two hours a day and give kids their time back, so they can develop real skills, find what they love, and learn how to live.
+My answer, for now, is to help people become more fully human. I'm an AI engineer working in the [Alpha School](https://www.alpha.school/) ecosystem — schools that condense academic learning to two hours a day and give kids their time back, so they can develop real skills, find what they love, and learn how to live.
 
 My work sits at the intersection of artificial intelligence, learning design, emotional intelligence, and human flourishing.
 
