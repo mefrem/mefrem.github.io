@@ -1,5 +1,5 @@
 ---
-permalink: /draft-about/
+permalink: /about/
 title: ""
 excerpt: "About"
 last_modified_at: 2026-03-11
