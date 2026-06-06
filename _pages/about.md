@@ -16,11 +16,9 @@ What's left for humans to do after AI makes marginal cost of intelligence (and s
 
 My favorite answer is to become more human. And what that means more than ever after AI outcompetes us in intelligence and strength is to ["be more wise."](https://www.youtube.com/watch?v=NT55aMb1rw0) Make good decisions. Know what decisions there even are. Take extra good care of yourself. Know how to. Take extra good care of others. Know what even means (for me, it's a particular kind of attention you pay, full of presence and wonder).
 
-I'm an AI engineer working in the [Alpha School](https://www.alpha.school/) ecosystem — schools that condense academic learning to two hours a day and give kids their time back. They wind up doing cool stuff like learn life skills, start businesses, discover who they are. 
+I'm a software developer working in the [Alpha School](https://www.alpha.school/) ecosystem — schools that condense academic learning to two hours a day using AI to give kids their time back. They wind up doing cool stuff like learn life skills, start businesses, and do a lot of self-discovery. 
 
-In my free I meditate, have a bunch of conversations, practice relating skillfully, and work out -- almost at a straddle planche. I live in Austin, TX. Love it here. 
-
-My work sits involves building courses for the kids at Alpha, using agentic AI, implementing learning science. I love that, too. 
+In my free I meditate, have a bunch of conversations, and enjoy the process of waking up, cleaning up, growing up, and showing up. I also train calisthenics -- almost at a straddle planche. I live in Austin, TX. Love it here. 
 
 ---
 
